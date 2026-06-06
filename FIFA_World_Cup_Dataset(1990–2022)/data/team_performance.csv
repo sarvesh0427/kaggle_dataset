@@ -1,0 +1,73 @@
+team_id,year,team,best_finish,matches_played,wins,draws,losses,goals_for,goals_against,goal_difference,points,tournament_rank
+1,1990,West Germany,Winner,7,6,1,0,15,4,11,19,1
+2,1990,Argentina,Runner-up,7,3,2,2,5,5,0,11,2
+3,1990,Italy,Third Place,7,6,1,0,10,2,8,19,3
+4,1990,England,Fourth Place,7,3,3,1,8,6,2,12,4
+5,1990,Cameroon,Quarter-final,5,3,0,2,8,6,2,9,5
+6,1990,Yugoslavia,Quarter-final,5,2,2,1,6,5,1,8,6
+7,1990,Czech Republic,Quarter-final,5,3,1,1,10,5,5,10,7
+8,1990,Republic of Ireland,Quarter-final,5,0,5,0,2,2,0,5,8
+9,1994,Brazil,Winner,7,5,2,0,11,3,8,17,1
+10,1994,Italy,Runner-up,7,4,3,0,8,4,4,15,2
+11,1994,Sweden,Third Place,7,5,1,1,15,8,7,16,3
+12,1994,Bulgaria,Fourth Place,7,4,1,2,9,7,2,13,4
+13,1994,Romania,Quarter-final,5,3,1,1,7,4,3,10,5
+14,1994,Germany,Quarter-final,5,3,1,1,9,4,5,10,6
+15,1994,Netherlands,Quarter-final,5,3,1,1,8,5,3,10,7
+16,1994,Spain,Quarter-final,5,2,1,2,9,7,2,7,8
+17,1998,France,Winner,7,6,1,0,15,2,13,19,1
+18,1998,Brazil,Runner-up,7,5,1,1,14,4,10,16,2
+19,1998,Croatia,Third Place,7,5,0,2,12,7,5,15,3
+20,1998,Netherlands,Fourth Place,7,3,3,1,12,7,5,12,4
+21,1998,Italy,Quarter-final,5,4,1,0,10,3,7,13,5
+22,1998,Germany,Quarter-final,5,3,1,1,10,6,4,10,6
+23,1998,Argentina,Quarter-final,5,3,1,1,9,5,4,10,7
+24,1998,Denmark,Quarter-final,5,2,1,2,8,6,2,7,8
+25,2002,Brazil,Winner,7,7,0,0,18,4,14,21,1
+26,2002,Germany,Runner-up,7,5,1,1,14,3,11,16,2
+27,2002,Turkey,Third Place,7,5,0,2,14,9,5,15,3
+28,2002,South Korea,Fourth Place,7,3,3,1,8,7,1,12,4
+29,2002,England,Quarter-final,5,3,1,1,8,3,5,10,5
+30,2002,Spain,Quarter-final,5,4,1,0,12,6,6,13,6
+31,2002,USA,Quarter-final,5,3,0,2,8,7,1,9,7
+32,2002,Senegal,Quarter-final,5,2,3,0,7,6,1,9,8
+33,2006,Italy,Winner,7,6,1,0,12,2,10,19,1
+34,2006,France,Runner-up,7,4,2,1,9,4,5,14,2
+35,2006,Germany,Third Place,7,5,0,2,14,6,8,15,3
+36,2006,Portugal,Fourth Place,7,5,0,2,11,6,5,15,4
+37,2006,Brazil,Quarter-final,5,4,0,1,10,3,7,12,5
+38,2006,Argentina,Quarter-final,5,4,1,0,11,4,7,13,6
+39,2006,England,Quarter-final,5,3,1,1,6,3,3,10,7
+40,2006,Ukraine,Quarter-final,5,3,0,2,8,9,-1,9,8
+41,2010,Spain,Winner,7,6,0,1,8,2,6,18,1
+42,2010,Netherlands,Runner-up,7,5,1,1,12,6,6,16,2
+43,2010,Germany,Third Place,7,5,0,2,16,7,9,15,3
+44,2010,Uruguay,Fourth Place,7,4,1,2,11,8,3,13,4
+45,2010,Argentina,Quarter-final,5,4,0,1,10,6,4,12,5
+46,2010,Brazil,Quarter-final,5,3,1,1,9,4,5,10,6
+47,2010,Ghana,Quarter-final,5,2,2,1,6,5,1,8,7
+48,2010,Paraguay,Quarter-final,5,1,3,1,3,5,-2,6,8
+49,2014,Germany,Winner,7,7,0,0,18,4,14,21,1
+50,2014,Argentina,Runner-up,7,5,2,0,8,4,4,17,2
+51,2014,Netherlands,Third Place,7,5,1,1,15,4,11,16,3
+52,2014,Brazil,Fourth Place,7,3,1,3,11,14,-3,10,4
+53,2014,France,Quarter-final,5,4,0,1,10,3,7,12,5
+54,2014,Colombia,Quarter-final,5,4,0,1,12,4,8,12,6
+55,2014,Costa Rica,Quarter-final,5,1,4,0,4,4,0,7,7
+56,2014,Belgium,Quarter-final,5,3,1,1,7,3,4,10,8
+57,2018,France,Winner,7,6,1,0,14,6,8,19,1
+58,2018,Croatia,Runner-up,7,5,1,1,14,7,7,16,2
+59,2018,Belgium,Third Place,7,6,0,1,16,7,9,18,3
+60,2018,England,Fourth Place,7,4,1,2,12,8,4,13,4
+61,2018,Brazil,Quarter-final,5,3,1,1,8,3,5,10,5
+62,2018,Uruguay,Quarter-final,5,4,0,1,7,3,4,12,6
+63,2018,Russia,Quarter-final,5,2,2,1,7,6,1,8,7
+64,2018,Sweden,Quarter-final,5,3,1,1,6,3,3,10,8
+65,2022,Argentina,Winner,7,5,1,1,12,6,6,16,1
+66,2022,France,Runner-up,7,5,1,1,16,9,7,16,2
+67,2022,Croatia,Third Place,7,4,2,1,10,7,3,14,3
+68,2022,Morocco,Fourth Place,7,4,3,0,6,4,2,15,4
+69,2022,England,Quarter-final,5,4,0,1,12,4,8,12,5
+70,2022,Netherlands,Quarter-final,5,3,1,1,7,5,2,10,6
+71,2022,Brazil,Quarter-final,5,3,1,1,8,3,5,10,7
+72,2022,Portugal,Quarter-final,5,3,0,2,12,5,7,9,8
