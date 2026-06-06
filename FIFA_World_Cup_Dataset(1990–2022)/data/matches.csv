@@ -1,0 +1,336 @@
+match_id,year,stage,home_team,away_team,home_goals,away_goals,total_goals,result,venue
+1,1990,Group Stage,Cameroon,Argentina,1,0,1,Home Win,"Giuseppe Meazza, Milan"
+2,1990,Group Stage,Romania,Soviet Union,2,0,2,Home Win,"San Paolo, Naples"
+3,1990,Group Stage,Argentina,Soviet Union,2,0,2,Home Win,"San Paolo, Naples"
+4,1990,Group Stage,Cameroon,Romania,2,1,3,Home Win,"San Nicola, Bari"
+5,1990,Group Stage,Argentina,Romania,1,1,2,Draw,"San Paolo, Naples"
+6,1990,Group Stage,Cameroon,Soviet Union,0,4,4,Away Win,"San Nicola, Bari"
+7,1990,Group Stage,Czech Republic,USA,5,1,6,Home Win,"Stadio Renato Dall'Ara, Bologna"
+8,1990,Group Stage,Italy,Austria,1,0,1,Home Win,"Stadio Olimpico, Rome"
+9,1990,Group Stage,Italy,USA,1,0,1,Home Win,"Stadio Olimpico, Rome"
+10,1990,Group Stage,Brazil,Sweden,2,1,3,Home Win,"Delle Alpi, Turin"
+11,1990,Group Stage,Germany,Yugoslavia,4,1,5,Home Win,"San Siro, Milan"
+12,1990,Group Stage,Germany,UAE,5,1,6,Home Win,"San Siro, Milan"
+13,1990,Group Stage,Yugoslavia,Colombia,1,0,1,Home Win,"Delle Alpi, Turin"
+14,1990,Group Stage,Germany,Colombia,1,1,2,Draw,"Delle Alpi, Turin"
+15,1990,Group Stage,Yugoslavia,UAE,4,1,5,Home Win,"Delle Alpi, Turin"
+16,1990,Group Stage,Spain,Uruguay,0,0,0,Draw,"Stadio Luigi Ferraris, Genoa"
+17,1990,Group Stage,Belgium,South Korea,2,0,2,Home Win,"Renato Dall'Ara, Bologna"
+18,1990,Group Stage,Spain,South Korea,3,1,4,Home Win,"Stadio Luigi Ferraris, Genoa"
+19,1990,Group Stage,Belgium,Uruguay,3,1,4,Home Win,Verona
+20,1990,Group Stage,England,Republic of Ireland,1,1,2,Draw,"Sardegna Arena, Cagliari"
+21,1990,Group Stage,Netherlands,Egypt,1,1,2,Draw,"Stadio Renato Dall'Ara, Bologna"
+22,1990,Group Stage,England,Netherlands,0,0,0,Draw,"Sardegna Arena, Cagliari"
+23,1990,Group Stage,Republic of Ireland,Egypt,0,0,0,Draw,"Sardegna Arena, Cagliari"
+24,1990,Round of 16,Cameroon,Colombia,2,1,3,Home Win,"San Paolo, Naples"
+25,1990,Round of 16,Czech Republic,Costa Rica,4,1,5,Home Win,"Stadio Luigi Ferraris, Genoa"
+26,1990,Round of 16,Brazil,Argentina,0,1,1,Away Win,"Stadio Luigi Ferraris, Genoa"
+27,1990,Round of 16,Germany,Netherlands,2,1,3,Home Win,"Delle Alpi, Turin"
+28,1990,Round of 16,Republic of Ireland,Romania,0,0,0,Draw,"Stadio Luigi Ferraris, Genoa"
+29,1990,Round of 16,Italy,Uruguay,2,0,2,Home Win,"Stadio Olimpico, Rome"
+30,1990,Round of 16,Yugoslavia,Spain,2,1,3,Home Win,Verona
+31,1990,Round of 16,England,Belgium,1,0,1,Home Win,"Stadio Renato Dall'Ara, Bologna"
+32,1990,Quarter-Final,Argentina,Yugoslavia,0,0,0,Draw,"Stadio Luigi Ferraris, Genoa"
+33,1990,Quarter-Final,Italy,Republic of Ireland,1,0,1,Home Win,"Stadio Olimpico, Rome"
+34,1990,Quarter-Final,Germany,Czech Republic,1,0,1,Home Win,"San Paolo, Naples"
+35,1990,Quarter-Final,England,Cameroon,3,2,5,Home Win,"San Paolo, Naples"
+36,1990,Semi-Final,Argentina,Italy,1,1,2,Draw,"San Paolo, Naples"
+37,1990,Semi-Final,Germany,England,1,1,2,Draw,"Delle Alpi, Turin"
+38,1990,Third Place,Italy,England,2,1,3,Home Win,"Stadio Luigi Ferraris, Genoa"
+39,1990,Final,West Germany,Argentina,1,0,1,Home Win,"Stadio Olimpico, Rome"
+40,1994,Group Stage,Germany,Bolivia,1,0,1,Home Win,"Soldier Field, Chicago"
+41,1994,Group Stage,Spain,South Korea,2,2,4,Draw,"Silverdome, Detroit"
+42,1994,Group Stage,USA,Switzerland,1,1,2,Draw,"Silverdome, Detroit"
+43,1994,Group Stage,Colombia,Romania,1,3,4,Away Win,"Rose Bowl, Pasadena"
+44,1994,Group Stage,Brazil,Russia,2,0,2,Home Win,"Stanford Stadium, Stanford"
+45,1994,Group Stage,Germany,South Korea,3,2,5,Home Win,Dallas Cotton Bowl
+46,1994,Group Stage,Spain,Bolivia,3,1,4,Home Win,"Stanford Stadium, Stanford"
+47,1994,Group Stage,USA,Colombia,2,1,3,Home Win,"Rose Bowl, Pasadena"
+48,1994,Group Stage,Romania,USA,1,0,1,Home Win,"Stanford Stadium, Stanford"
+49,1994,Group Stage,Brazil,Cameroon,3,0,3,Home Win,"Stanford Stadium, Stanford"
+50,1994,Group Stage,Argentina,Greece,4,0,4,Home Win,"Foxboro Stadium, Boston"
+51,1994,Group Stage,Nigeria,Bulgaria,3,0,3,Home Win,Dallas Cotton Bowl
+52,1994,Group Stage,Argentina,Nigeria,2,1,3,Home Win,"Foxboro Stadium, Boston"
+53,1994,Group Stage,Bulgaria,Argentina,2,0,2,Home Win,Dallas Cotton Bowl
+54,1994,Group Stage,Italy,Mexico,1,1,2,Draw,"RFK Stadium, Washington"
+55,1994,Group Stage,Norway,Mexico,1,0,1,Home Win,"RFK Stadium, Washington"
+56,1994,Round of 16,Germany,Belgium,3,2,5,Home Win,"Silverdome, Detroit"
+57,1994,Round of 16,Spain,Switzerland,3,0,3,Home Win,"Silverdome, Detroit"
+58,1994,Round of 16,Brazil,USA,1,0,1,Home Win,"Stanford Stadium, Stanford"
+59,1994,Round of 16,Romania,Argentina,3,2,5,Home Win,"Rose Bowl, Pasadena"
+60,1994,Round of 16,Netherlands,Republic of Ireland,2,0,2,Home Win,Orlando Citrus Bowl
+61,1994,Round of 16,Italy,Nigeria,2,1,3,Home Win,"Foxboro Stadium, Boston"
+62,1994,Round of 16,Mexico,Bulgaria,1,1,2,Draw,"Giants Stadium, New Jersey"
+63,1994,Round of 16,Sweden,Saudi Arabia,3,1,4,Home Win,Dallas Cotton Bowl
+64,1994,Quarter-Final,Italy,Spain,2,1,3,Home Win,"Foxboro Stadium, Boston"
+65,1994,Quarter-Final,Netherlands,Brazil,2,3,5,Away Win,Dallas Cotton Bowl
+66,1994,Quarter-Final,Germany,Bulgaria,1,2,3,Away Win,"Giants Stadium, New Jersey"
+67,1994,Quarter-Final,Romania,Sweden,2,2,4,Draw,"Stanford Stadium, Stanford"
+68,1994,Semi-Final,Italy,Bulgaria,2,1,3,Home Win,"Giants Stadium, New Jersey"
+69,1994,Semi-Final,Brazil,Sweden,1,0,1,Home Win,"Rose Bowl, Pasadena"
+70,1994,Third Place,Sweden,Bulgaria,4,0,4,Home Win,"Rose Bowl, Pasadena"
+71,1994,Final,Brazil,Italy,0,0,0,Draw,"Rose Bowl, Pasadena"
+72,1998,Group Stage,Brazil,Scotland,2,1,3,Home Win,"Stade de France, Saint-Denis"
+73,1998,Group Stage,Morocco,Norway,2,2,4,Draw,"Stade de Gerland, Lyon"
+74,1998,Group Stage,France,South Africa,3,0,3,Home Win,"Stade Vélodrome, Marseille"
+75,1998,Group Stage,South Korea,Mexico,1,3,4,Away Win,"Stade de Gerland, Lyon"
+76,1998,Group Stage,Italy,Chile,2,2,4,Draw,"Stade de la Mosson, Montpellier"
+77,1998,Group Stage,Cameroon,Austria,1,1,2,Draw,"Parc des Princes, Paris"
+78,1998,Group Stage,Scotland,Norway,1,1,2,Draw,"Stade Vélodrome, Marseille"
+79,1998,Group Stage,Brazil,Morocco,3,0,3,Home Win,"Stade de la Mosson, Montpellier"
+80,1998,Group Stage,Spain,Paraguay,0,0,0,Draw,"Stade Bollaert-Delelis, Lens"
+81,1998,Group Stage,Nigeria,Bulgaria,1,0,1,Home Win,"Stade de Gerland, Lyon"
+82,1998,Group Stage,Germany,USA,2,0,2,Home Win,"Parc des Princes, Paris"
+83,1998,Group Stage,Iran,USA,2,1,3,Home Win,"Stade de Gerland, Lyon"
+84,1998,Group Stage,England,Colombia,2,0,2,Home Win,"Stade Bollaert-Delelis, Lens"
+85,1998,Group Stage,Argentina,Croatia,1,0,1,Home Win,"Parc des Princes, Paris"
+86,1998,Group Stage,Germany,Yugoslavia,2,2,4,Draw,"Parc des Princes, Paris"
+87,1998,Group Stage,Netherlands,Mexico,2,2,4,Draw,"Stade de Gerland, Lyon"
+88,1998,Group Stage,Belgium,Netherlands,0,0,0,Draw,"Stade de Gerland, Lyon"
+89,1998,Group Stage,Nigeria,Spain,3,2,5,Home Win,"Parc des Princes, Paris"
+90,1998,Group Stage,Denmark,France,1,2,3,Away Win,"Stade de France, Saint-Denis"
+91,1998,Round of 16,Brazil,Chile,4,1,5,Home Win,"Parc des Princes, Paris"
+92,1998,Round of 16,Nigeria,Denmark,1,4,5,Away Win,"Stade de France, Saint-Denis"
+93,1998,Round of 16,France,Paraguay,1,0,1,Home Win,"Stade Félix Bollaert, Lens"
+94,1998,Round of 16,Germany,Mexico,2,1,3,Home Win,"Stade de Gerland, Lyon"
+95,1998,Round of 16,Netherlands,Yugoslavia,2,1,3,Home Win,"Parc des Princes, Paris"
+96,1998,Round of 16,Argentina,England,2,2,4,Draw,"Stade Geoffroy-Guichard, Saint-Étienne"
+97,1998,Round of 16,Italy,Norway,1,0,1,Home Win,"Stade Vélodrome, Marseille"
+98,1998,Round of 16,Croatia,Romania,1,0,1,Home Win,"Stade Bollaert-Delelis, Lens"
+99,1998,Quarter-Final,France,Italy,0,0,0,Draw,"Stade de France, Saint-Denis"
+100,1998,Quarter-Final,Brazil,Denmark,3,2,5,Home Win,"Stade de France, Saint-Denis"
+101,1998,Quarter-Final,Netherlands,Argentina,2,1,3,Home Win,"Stade Vélodrome, Marseille"
+102,1998,Quarter-Final,Germany,Croatia,0,3,3,Away Win,"Stade Bollaert-Delelis, Lens"
+103,1998,Semi-Final,France,Croatia,2,1,3,Home Win,"Stade de France, Saint-Denis"
+104,1998,Semi-Final,Brazil,Netherlands,1,1,2,Draw,"Stade Vélodrome, Marseille"
+105,1998,Third Place,Croatia,Netherlands,2,1,3,Home Win,"Parc des Princes, Paris"
+106,1998,Final,France,Brazil,3,0,3,Home Win,"Stade de France, Saint-Denis"
+107,2002,Group Stage,Senegal,France,1,0,1,Home Win,Seoul World Cup Stadium
+108,2002,Group Stage,Germany,Saudi Arabia,8,0,8,Home Win,Sapporo Dome
+109,2002,Group Stage,Ireland,Cameroon,1,1,2,Draw,Niigata Stadium
+110,2002,Group Stage,Spain,Slovenia,3,1,4,Home Win,Gwangju World Cup Stadium
+111,2002,Group Stage,Paraguay,South Africa,2,2,4,Draw,Busan Asiad Main Stadium
+112,2002,Group Stage,Argentina,Nigeria,1,0,1,Home Win,Kashima Stadium
+113,2002,Group Stage,England,Sweden,1,1,2,Draw,Saitama Stadium
+114,2002,Group Stage,Brazil,Turkey,2,1,3,Home Win,Ulsan Munsu Football Stadium
+115,2002,Group Stage,Germany,Republic of Ireland,1,1,2,Draw,Ibaraki Kashima Stadium
+116,2002,Group Stage,USA,Portugal,3,2,5,Home Win,Suwon World Cup Stadium
+117,2002,Group Stage,South Korea,Poland,2,0,2,Home Win,Busan Asiad Main Stadium
+118,2002,Group Stage,Japan,Belgium,2,2,4,Draw,Saitama Stadium
+119,2002,Group Stage,Russia,Tunisia,2,0,2,Home Win,Kobe Wing Stadium
+120,2002,Group Stage,Belgium,Japan,2,2,4,Draw,Saitama Stadium
+121,2002,Group Stage,South Korea,USA,1,1,2,Draw,Daegu World Cup Stadium
+122,2002,Group Stage,Mexico,Croatia,1,0,1,Home Win,Niigata Stadium
+123,2002,Group Stage,Brazil,China,4,0,4,Home Win,Seogwipo World Cup Stadium
+124,2002,Group Stage,South Korea,Portugal,1,0,1,Home Win,Incheon Munhak Stadium
+125,2002,Round of 16,Denmark,England,0,3,3,Away Win,Niigata Stadium
+126,2002,Round of 16,Sweden,Senegal,1,2,3,Away Win,Oita Big Eye
+127,2002,Round of 16,Spain,Republic of Ireland,1,1,2,Draw,Suwon World Cup Stadium
+128,2002,Round of 16,Germany,Paraguay,1,0,1,Home Win,Seogwipo World Cup Stadium
+129,2002,Round of 16,Brazil,Belgium,2,0,2,Home Win,Kobe Wing Stadium
+130,2002,Round of 16,South Korea,Italy,2,1,3,Home Win,Daejeon World Cup Stadium
+131,2002,Round of 16,USA,Mexico,2,0,2,Home Win,Jeonju World Cup Stadium
+132,2002,Round of 16,Japan,Turkey,0,1,1,Away Win,Miyagi Stadium
+133,2002,Quarter-Final,England,Brazil,1,2,3,Away Win,Shizuoka Stadium Ecopa
+134,2002,Quarter-Final,Germany,USA,1,0,1,Home Win,Ulsan Munsu Football Stadium
+135,2002,Quarter-Final,Senegal,Turkey,0,1,1,Away Win,Osaka Nagai Stadium
+136,2002,Quarter-Final,Spain,South Korea,0,0,0,Draw,Gwangju World Cup Stadium
+137,2002,Semi-Final,Germany,South Korea,1,0,1,Home Win,Seoul World Cup Stadium
+138,2002,Semi-Final,Brazil,Turkey,1,0,1,Home Win,Saitama Stadium
+139,2002,Third Place,South Korea,Turkey,2,3,5,Away Win,Daegu World Cup Stadium
+140,2002,Final,Brazil,Germany,2,0,2,Home Win,Yokohama International Stadium
+141,2006,Group Stage,Germany,Costa Rica,4,2,6,Home Win,"Allianz Arena, Munich"
+142,2006,Group Stage,Poland,Ecuador,0,2,2,Away Win,"AWD-Arena, Hanover"
+143,2006,Group Stage,England,Paraguay,1,0,1,Home Win,"Waldstadion, Frankfurt"
+144,2006,Group Stage,Sweden,Trinidad and Tobago,0,0,0,Draw,"Dortmund, Signal Iduna Park"
+145,2006,Group Stage,Argentina,Ivory Coast,2,1,3,Home Win,"AOL Arena, Hamburg"
+146,2006,Group Stage,Serbia,Netherlands,0,1,1,Away Win,"AOL Arena, Hamburg"
+147,2006,Group Stage,Mexico,Iran,3,1,4,Home Win,"Frankenstadion, Nuremberg"
+148,2006,Group Stage,Portugal,Angola,1,0,1,Home Win,"RheinEnergie Stadion, Cologne"
+149,2006,Group Stage,Spain,Ukraine,4,0,4,Home Win,"Gottlieb-Daimler-Stadion, Stuttgart"
+150,2006,Group Stage,Brazil,Croatia,1,0,1,Home Win,"Olympiastadion, Berlin"
+151,2006,Group Stage,France,Switzerland,0,0,0,Draw,"Gottlieb-Daimler-Stadion, Stuttgart"
+152,2006,Group Stage,South Korea,Togo,2,1,3,Home Win,"Frankenstadion, Nuremberg"
+153,2006,Group Stage,Germany,Poland,1,0,1,Home Win,"Dortmund, Signal Iduna Park"
+154,2006,Group Stage,USA,Czech Republic,0,3,3,Away Win,"AWD-Arena, Hanover"
+155,2006,Group Stage,Brazil,Australia,2,0,2,Home Win,"Allianz Arena, Munich"
+156,2006,Group Stage,Germany,Ecuador,3,0,3,Home Win,"Waldstadion, Frankfurt"
+157,2006,Group Stage,Italy,USA,1,1,2,Draw,"Kaiserslautern, Fritz Walter Stadion"
+158,2006,Group Stage,Ghana,Czech Republic,2,0,2,Home Win,"Dortmund, Signal Iduna Park"
+159,2006,Round of 16,Germany,Sweden,2,0,2,Home Win,"Allianz Arena, Munich"
+160,2006,Round of 16,Argentina,Mexico,2,1,3,Home Win,"RheinEnergie Stadion, Cologne"
+161,2006,Round of 16,England,Ecuador,1,0,1,Home Win,"Gottlieb-Daimler-Stadion, Stuttgart"
+162,2006,Round of 16,Portugal,Netherlands,1,0,1,Home Win,"Waldstadion, Frankfurt"
+163,2006,Round of 16,Italy,Australia,1,0,1,Home Win,"Kaiserslautern, Fritz Walter Stadion"
+164,2006,Round of 16,Switzerland,Ukraine,0,0,0,Draw,"Gottlieb-Daimler-Stadion, Stuttgart"
+165,2006,Round of 16,Brazil,Ghana,3,0,3,Home Win,"Dortmund, Signal Iduna Park"
+166,2006,Round of 16,Spain,France,1,3,4,Away Win,"AWD-Arena, Hanover"
+167,2006,Quarter-Final,Germany,Argentina,1,1,2,Draw,"Olympiastadion, Berlin"
+168,2006,Quarter-Final,Italy,Ukraine,3,0,3,Home Win,"AOL Arena, Hamburg"
+169,2006,Quarter-Final,England,Portugal,0,0,0,Draw,"Waldstadion, Frankfurt"
+170,2006,Quarter-Final,Brazil,France,0,1,1,Away Win,"Waldstadion, Frankfurt"
+171,2006,Semi-Final,Germany,Italy,0,2,2,Away Win,"Dortmund, Signal Iduna Park"
+172,2006,Semi-Final,France,Portugal,1,0,1,Home Win,"Allianz Arena, Munich"
+173,2006,Third Place,Germany,Portugal,3,1,4,Home Win,"Gottlieb-Daimler-Stadion, Stuttgart"
+174,2006,Final,Italy,France,1,1,2,Draw,"Olympiastadion, Berlin"
+175,2010,Group Stage,South Africa,Mexico,1,1,2,Draw,"Soccer City, Johannesburg"
+176,2010,Group Stage,Uruguay,France,0,0,0,Draw,"Green Point Stadium, Cape Town"
+177,2010,Group Stage,South Korea,Greece,2,0,2,Home Win,Nelson Mandela Bay Stadium
+178,2010,Group Stage,Argentina,Nigeria,1,0,1,Home Win,"Ellis Park Stadium, Johannesburg"
+179,2010,Group Stage,England,USA,1,1,2,Draw,"Royal Bafokeng Stadium, Rustenburg"
+180,2010,Group Stage,Algeria,Slovenia,0,1,1,Away Win,"Peter Mokaba Stadium, Polokwane"
+181,2010,Group Stage,Germany,Australia,4,0,4,Home Win,"Moses Mabhida Stadium, Durban"
+182,2010,Group Stage,Serbia,Ghana,0,1,1,Away Win,"Loftus Versfeld Stadium, Pretoria"
+183,2010,Group Stage,Netherlands,Denmark,2,0,2,Home Win,"Soccer City, Johannesburg"
+184,2010,Group Stage,Japan,Cameroon,1,0,1,Home Win,"Free State Stadium, Bloemfontein"
+185,2010,Group Stage,Italy,Paraguay,1,1,2,Draw,"Green Point Stadium, Cape Town"
+186,2010,Group Stage,New Zealand,Slovakia,1,1,2,Draw,"Royal Bafokeng Stadium, Rustenburg"
+187,2010,Group Stage,Brazil,North Korea,2,1,3,Home Win,"Ellis Park Stadium, Johannesburg"
+188,2010,Group Stage,Ivory Coast,Portugal,0,7,7,Away Win,Nelson Mandela Bay Stadium
+189,2010,Group Stage,Spain,Switzerland,0,1,1,Away Win,"Moses Mabhida Stadium, Durban"
+190,2010,Group Stage,Chile,Honduras,1,0,1,Home Win,"Loftus Versfeld Stadium, Pretoria"
+191,2010,Group Stage,Spain,Honduras,2,0,2,Home Win,Nelson Mandela Bay Stadium
+192,2010,Group Stage,Argentina,South Korea,4,1,5,Home Win,"Soccer City, Johannesburg"
+193,2010,Group Stage,Germany,Serbia,0,1,1,Away Win,Nelson Mandela Bay Stadium
+194,2010,Group Stage,USA,Slovenia,2,2,4,Draw,"Ellis Park Stadium, Johannesburg"
+195,2010,Group Stage,Brazil,Portugal,0,0,0,Draw,"Moses Mabhida Stadium, Durban"
+196,2010,Round of 16,Uruguay,South Korea,2,1,3,Home Win,Nelson Mandela Bay Stadium
+197,2010,Round of 16,USA,Ghana,1,2,3,Away Win,"Royal Bafokeng Stadium, Rustenburg"
+198,2010,Round of 16,Germany,England,4,1,5,Home Win,"Free State Stadium, Bloemfontein"
+199,2010,Round of 16,Argentina,Mexico,3,1,4,Home Win,"Soccer City, Johannesburg"
+200,2010,Round of 16,Netherlands,Slovakia,2,1,3,Home Win,"Moses Mabhida Stadium, Durban"
+201,2010,Round of 16,Brazil,Chile,3,0,3,Home Win,"Ellis Park Stadium, Johannesburg"
+202,2010,Round of 16,Paraguay,Japan,0,0,0,Draw,"Loftus Versfeld Stadium, Pretoria"
+203,2010,Round of 16,Spain,Portugal,1,0,1,Home Win,"Green Point Stadium, Cape Town"
+204,2010,Quarter-Final,Netherlands,Brazil,2,1,3,Home Win,Nelson Mandela Bay Stadium
+205,2010,Quarter-Final,Uruguay,Ghana,1,1,2,Draw,"Soccer City, Johannesburg"
+206,2010,Quarter-Final,Argentina,Germany,0,4,4,Away Win,"Green Point Stadium, Cape Town"
+207,2010,Quarter-Final,Paraguay,Spain,0,1,1,Away Win,"Ellis Park Stadium, Johannesburg"
+208,2010,Semi-Final,Uruguay,Netherlands,2,3,5,Away Win,"Green Point Stadium, Cape Town"
+209,2010,Semi-Final,Germany,Spain,0,1,1,Away Win,"Moses Mabhida Stadium, Durban"
+210,2010,Third Place,Uruguay,Germany,2,3,5,Away Win,Nelson Mandela Bay Stadium
+211,2010,Final,Netherlands,Spain,0,1,1,Away Win,"Soccer City, Johannesburg"
+212,2014,Group Stage,Brazil,Croatia,3,1,4,Home Win,Arena de São Paulo
+213,2014,Group Stage,Mexico,Cameroon,1,0,1,Home Win,"Estádio das Dunas, Natal"
+214,2014,Group Stage,Spain,Netherlands,1,5,6,Away Win,"Arena Fonte Nova, Salvador"
+215,2014,Group Stage,Chile,Australia,3,1,4,Home Win,"Arena Pantanal, Cuiabá"
+216,2014,Group Stage,Colombia,Greece,3,0,3,Home Win,"Estádio Mineirão, Belo Horizonte"
+217,2014,Group Stage,Ivory Coast,Japan,2,1,3,Home Win,"Arena Pernambuco, Recife"
+218,2014,Group Stage,Uruguay,Costa Rica,1,3,4,Away Win,"Estádio Castelão, Fortaleza"
+219,2014,Group Stage,England,Italy,1,2,3,Away Win,"Arena Amazônia, Manaus"
+220,2014,Group Stage,Brazil,Mexico,0,0,0,Draw,"Estádio Castelão, Fortaleza"
+221,2014,Group Stage,France,Honduras,3,0,3,Home Win,"Estádio Beira-Rio, Porto Alegre"
+222,2014,Group Stage,Argentina,Bosnia-Herzegovina,2,1,3,Home Win,"Estádio do Maracanã, Rio de Janeiro"
+223,2014,Group Stage,Germany,Ghana,2,2,4,Draw,"Estádio Castelão, Fortaleza"
+224,2014,Group Stage,USA,Ghana,2,1,3,Home Win,"Arena das Dunas, Natal"
+225,2014,Group Stage,Switzerland,Ecuador,2,1,3,Home Win,"Estádio Nacional Mané Garrincha, Brasília"
+226,2014,Group Stage,Brazil,Cameroon,4,1,5,Home Win,"Estádio Nacional Mané Garrincha, Brasília"
+227,2014,Group Stage,Germany,USA,1,0,1,Home Win,"Arena Pernambuco, Recife"
+228,2014,Group Stage,Colombia,Ivory Coast,2,1,3,Home Win,"Estádio Nacional Mané Garrincha, Brasília"
+229,2014,Group Stage,France,Switzerland,5,2,7,Home Win,"Arena Fonte Nova, Salvador"
+230,2014,Round of 16,Brazil,Chile,1,1,2,Draw,"Estádio Mineirão, Belo Horizonte"
+231,2014,Round of 16,Colombia,Uruguay,2,0,2,Home Win,"Estádio do Maracanã, Rio de Janeiro"
+232,2014,Round of 16,France,Nigeria,2,0,2,Home Win,"Estádio Nacional Mané Garrincha, Brasília"
+233,2014,Round of 16,Germany,Algeria,2,1,3,Home Win,"Estádio Beira-Rio, Porto Alegre"
+234,2014,Round of 16,Argentina,Switzerland,1,0,1,Home Win,Arena de São Paulo
+235,2014,Round of 16,Belgium,USA,2,1,3,Home Win,"Arena Fonte Nova, Salvador"
+236,2014,Round of 16,Netherlands,Mexico,2,1,3,Home Win,"Estádio Castelão, Fortaleza"
+237,2014,Round of 16,Costa Rica,Greece,1,1,2,Draw,"Arena Pernambuco, Recife"
+238,2014,Quarter-Final,France,Germany,0,1,1,Away Win,"Estádio do Maracanã, Rio de Janeiro"
+239,2014,Quarter-Final,Brazil,Colombia,2,1,3,Home Win,"Arena Castelão, Fortaleza"
+240,2014,Quarter-Final,Argentina,Belgium,1,0,1,Home Win,"Estádio Nacional Mané Garrincha, Brasília"
+241,2014,Quarter-Final,Netherlands,Costa Rica,0,0,0,Draw,"Arena Fonte Nova, Salvador"
+242,2014,Semi-Final,Brazil,Germany,1,7,8,Away Win,"Estádio Mineirão, Belo Horizonte"
+243,2014,Semi-Final,Netherlands,Argentina,0,0,0,Draw,Arena de São Paulo
+244,2014,Third Place,Brazil,Netherlands,0,3,3,Away Win,"Estádio Nacional Mané Garrincha, Brasília"
+245,2014,Final,Germany,Argentina,1,0,1,Home Win,"Estádio do Maracanã, Rio de Janeiro"
+246,2018,Group Stage,Russia,Saudi Arabia,5,0,5,Home Win,"Luzhniki Stadium, Moscow"
+247,2018,Group Stage,Egypt,Uruguay,0,1,1,Away Win,Ekaterinburg Arena
+248,2018,Group Stage,Morocco,Iran,0,1,1,Away Win,Saint Petersburg Stadium
+249,2018,Group Stage,Portugal,Spain,3,3,6,Draw,"Fisht Stadium, Sochi"
+250,2018,Group Stage,France,Australia,2,1,3,Home Win,Kazan Arena
+251,2018,Group Stage,Argentina,Iceland,1,1,2,Draw,"Otkrytiye Arena, Moscow"
+252,2018,Group Stage,Denmark,Peru,1,0,1,Home Win,"Mordovia Arena, Saransk"
+253,2018,Group Stage,Croatia,Nigeria,2,0,2,Home Win,Kaliningrad Stadium
+254,2018,Group Stage,Brazil,Switzerland,1,1,2,Draw,Rostov Arena
+255,2018,Group Stage,Germany,Mexico,0,1,1,Away Win,"Luzhniki Stadium, Moscow"
+256,2018,Group Stage,Sweden,South Korea,1,0,1,Home Win,Nizhny Novgorod Stadium
+257,2018,Group Stage,Belgium,Panama,3,0,3,Home Win,"Fisht Stadium, Sochi"
+258,2018,Group Stage,England,Tunisia,2,1,3,Home Win,Volgograd Arena
+259,2018,Group Stage,Japan,Colombia,2,1,3,Home Win,"Mordovia Arena, Saransk"
+260,2018,Group Stage,Senegal,Poland,2,1,3,Home Win,"Otkrytiye Arena, Moscow"
+261,2018,Group Stage,Russia,Egypt,3,0,3,Home Win,Saint Petersburg Stadium
+262,2018,Group Stage,Portugal,Morocco,1,0,1,Home Win,"Luzhniki Stadium, Moscow"
+263,2018,Group Stage,Uruguay,Saudi Arabia,1,0,1,Home Win,Rostov Arena
+264,2018,Group Stage,Spain,Iran,1,0,1,Home Win,Kazan Arena
+265,2018,Group Stage,France,Peru,1,0,1,Home Win,Ekaterinburg Arena
+266,2018,Group Stage,Brazil,Costa Rica,2,0,2,Home Win,Saint Petersburg Stadium
+267,2018,Group Stage,Poland,Colombia,0,3,3,Away Win,Kazan Arena
+268,2018,Group Stage,Belgium,Tunisia,5,2,7,Home Win,"Spartak Stadium, Moscow"
+269,2018,Group Stage,Mexico,South Korea,2,1,3,Home Win,Rostov Arena
+270,2018,Group Stage,Germany,Sweden,2,1,3,Home Win,"Fisht Stadium, Sochi"
+271,2018,Group Stage,England,Panama,6,1,7,Home Win,Nizhny Novgorod Stadium
+272,2018,Group Stage,Japan,Senegal,2,2,4,Draw,Ekaterinburg Arena
+273,2018,Group Stage,South Korea,Germany,2,0,2,Home Win,Kazan Arena
+274,2018,Round of 16,France,Argentina,4,3,7,Home Win,Kazan Arena
+275,2018,Round of 16,Uruguay,Portugal,2,1,3,Home Win,"Fisht Stadium, Sochi"
+276,2018,Round of 16,Spain,Russia,1,1,2,Draw,"Luzhniki Stadium, Moscow"
+277,2018,Round of 16,Croatia,Denmark,1,1,2,Draw,Nizhny Novgorod Stadium
+278,2018,Round of 16,Brazil,Mexico,2,0,2,Home Win,Samara Arena
+279,2018,Round of 16,Belgium,Japan,3,2,5,Home Win,Rostov Arena
+280,2018,Round of 16,Sweden,Switzerland,1,0,1,Home Win,Saint Petersburg Stadium
+281,2018,Round of 16,Colombia,England,1,1,2,Draw,"Spartak Stadium, Moscow"
+282,2018,Quarter-Final,Uruguay,France,0,2,2,Away Win,Nizhny Novgorod Stadium
+283,2018,Quarter-Final,Brazil,Belgium,1,2,3,Away Win,Kazan Arena
+284,2018,Quarter-Final,Sweden,England,0,2,2,Away Win,Samara Arena
+285,2018,Quarter-Final,Russia,Croatia,2,2,4,Draw,"Fisht Stadium, Sochi"
+286,2018,Semi-Final,France,Belgium,1,0,1,Home Win,Saint Petersburg Stadium
+287,2018,Semi-Final,Croatia,England,2,1,3,Home Win,"Luzhniki Stadium, Moscow"
+288,2018,Third Place,Belgium,England,2,0,2,Home Win,Saint Petersburg Stadium
+289,2018,Final,France,Croatia,4,2,6,Home Win,"Luzhniki Stadium, Moscow"
+290,2022,Group Stage,Qatar,Ecuador,0,2,2,Away Win,"Al Bayt Stadium, Al Khor"
+291,2022,Group Stage,England,Iran,6,2,8,Home Win,Khalifa International Stadium
+292,2022,Group Stage,Senegal,Netherlands,0,2,2,Away Win,"Al Thumama Stadium, Doha"
+293,2022,Group Stage,USA,Wales,1,1,2,Draw,"Ahmad Bin Ali Stadium, Al Rayyan"
+294,2022,Group Stage,Argentina,Saudi Arabia,1,2,3,Away Win,Lusail Stadium
+295,2022,Group Stage,Denmark,Tunisia,0,0,0,Draw,"Education City Stadium, Doha"
+296,2022,Group Stage,Mexico,Poland,0,0,0,Draw,"Stadium 974, Doha"
+297,2022,Group Stage,France,Australia,4,1,5,Home Win,"Al Janoub Stadium, Al Wakrah"
+298,2022,Group Stage,Morocco,Croatia,0,0,0,Draw,"Al Bayt Stadium, Al Khor"
+299,2022,Group Stage,Germany,Japan,1,2,3,Away Win,Khalifa International Stadium
+300,2022,Group Stage,Spain,Costa Rica,7,0,7,Home Win,"Al Thumama Stadium, Doha"
+301,2022,Group Stage,Belgium,Canada,1,0,1,Home Win,"Ahmad Bin Ali Stadium, Al Rayyan"
+302,2022,Group Stage,Switzerland,Cameroon,1,0,1,Home Win,"Al Janoub Stadium, Al Wakrah"
+303,2022,Group Stage,Uruguay,South Korea,0,0,0,Draw,"Education City Stadium, Doha"
+304,2022,Group Stage,Portugal,Ghana,3,2,5,Home Win,"Stadium 974, Doha"
+305,2022,Group Stage,Brazil,Serbia,2,0,2,Home Win,Lusail Stadium
+306,2022,Group Stage,Wales,Iran,0,2,2,Away Win,"Ahmad Bin Ali Stadium, Al Rayyan"
+307,2022,Group Stage,England,USA,0,0,0,Draw,"Al Bayt Stadium, Al Khor"
+308,2022,Group Stage,Japan,Costa Rica,0,1,1,Away Win,"Ahmad Bin Ali Stadium, Al Rayyan"
+309,2022,Group Stage,South Korea,Ghana,2,3,5,Away Win,"Education City Stadium, Doha"
+310,2022,Group Stage,Brazil,Switzerland,1,0,1,Home Win,"Stadium 974, Doha"
+311,2022,Group Stage,Portugal,Uruguay,2,0,2,Home Win,Lusail Stadium
+312,2022,Group Stage,Ecuador,Senegal,1,2,3,Away Win,Khalifa International Stadium
+313,2022,Group Stage,Netherlands,Qatar,2,0,2,Home Win,"Al Bayt Stadium, Al Khor"
+314,2022,Group Stage,France,Denmark,2,1,3,Home Win,"Stadium 974, Doha"
+315,2022,Group Stage,Australia,Denmark,1,0,1,Home Win,"Al Janoub Stadium, Al Wakrah"
+316,2022,Group Stage,Germany,Spain,1,1,2,Draw,"Al Bayt Stadium, Al Khor"
+317,2022,Group Stage,Japan,Spain,2,1,3,Home Win,Khalifa International Stadium
+318,2022,Group Stage,Morocco,Canada,2,1,3,Home Win,"Al Thumama Stadium, Doha"
+319,2022,Group Stage,Croatia,Belgium,0,0,0,Draw,"Ahmad Bin Ali Stadium, Al Rayyan"
+320,2022,Round of 16,Netherlands,USA,3,1,4,Home Win,Khalifa International Stadium
+321,2022,Round of 16,Argentina,Australia,2,1,3,Home Win,"Ahmad Bin Ali Stadium, Al Rayyan"
+322,2022,Round of 16,France,Poland,3,1,4,Home Win,"Al Thumama Stadium, Doha"
+323,2022,Round of 16,England,Senegal,3,0,3,Home Win,"Al Bayt Stadium, Al Khor"
+324,2022,Round of 16,Japan,Croatia,1,1,2,Draw,"Al Janoub Stadium, Al Wakrah"
+325,2022,Round of 16,Brazil,South Korea,4,1,5,Home Win,"Stadium 974, Doha"
+326,2022,Round of 16,Morocco,Spain,0,0,0,Draw,"Education City Stadium, Doha"
+327,2022,Round of 16,Portugal,Switzerland,6,1,7,Home Win,Lusail Stadium
+328,2022,Quarter-Final,Croatia,Brazil,1,1,2,Draw,"Education City Stadium, Doha"
+329,2022,Quarter-Final,Netherlands,Argentina,2,2,4,Draw,Lusail Stadium
+330,2022,Quarter-Final,Morocco,Portugal,1,0,1,Home Win,"Al Thumama Stadium, Doha"
+331,2022,Quarter-Final,England,France,1,2,3,Away Win,"Al Bayt Stadium, Al Khor"
+332,2022,Semi-Final,Argentina,Croatia,3,0,3,Home Win,Lusail Stadium
+333,2022,Semi-Final,France,Morocco,2,0,2,Home Win,"Al Bayt Stadium, Al Khor"
+334,2022,Third Place,Croatia,Morocco,2,1,3,Home Win,Khalifa International Stadium
+335,2022,Final,Argentina,France,3,3,6,Draw,Lusail Stadium

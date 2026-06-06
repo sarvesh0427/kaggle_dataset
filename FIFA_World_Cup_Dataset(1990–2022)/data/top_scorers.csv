@@ -1,0 +1,46 @@
+scorer_id,year,player_name,country,goals,penalty_goals,assists
+1,1990,Salvatore Schillaci,Italy,6,0,2
+2,1990,Tomáš Skuhravý,Czechoslovakia,5,0,1
+3,1990,Roger Milla,Cameroon,4,0,0
+4,1990,Gary Lineker,England,4,0,0
+5,1990,Lothar Matthäus,West Germany,4,0,0
+6,1994,Hristo Stoichkov,Bulgaria,6,0,1
+7,1994,Oleg Salenko,Russia,6,0,1
+8,1994,Romário,Brazil,5,0,0
+9,1994,Roberto Baggio,Italy,5,0,1
+10,1994,Jürgen Klinsmann,Germany,5,0,0
+11,1998,Davor Šuker,Croatia,6,0,1
+12,1998,Gabriel Batistuta,Argentina,5,0,0
+13,1998,Ronaldo,Brazil,4,0,0
+14,1998,Marcelo Salas,Chile,4,0,0
+15,1998,Lilian Thuram,France,2,0,0
+16,2002,Ronaldo,Brazil,8,0,0
+17,2002,Miroslav Klose,Germany,5,0,0
+18,2002,Jon Dahl Tomasson,Denmark,4,0,0
+19,2002,Rivaldo,Brazil,3,0,0
+20,2002,Fernando Morientes,Spain,3,0,0
+21,2006,Miroslav Klose,Germany,5,0,0
+22,2006,Hernan Crespo,Argentina,3,0,0
+23,2006,Luca Toni,Italy,2,0,0
+24,2006,Ronaldo,Brazil,3,0,0
+25,2006,Zinedine Zidane,France,3,0,1
+26,2010,David Villa,Spain,5,0,0
+27,2010,Diego Forlán,Uruguay,5,0,0
+28,2010,Thomas Müller,Germany,5,0,1
+29,2010,Wesley Sneijder,Netherlands,5,0,0
+30,2010,Gonzalo Higuaín,Argentina,4,0,0
+31,2014,James Rodríguez,Colombia,6,0,1
+32,2014,Thomas Müller,Germany,5,0,0
+33,2014,Neymar,Brazil,4,0,0
+34,2014,Robin van Persie,Netherlands,4,0,0
+35,2014,Messi,Argentina,4,0,0
+36,2018,Harry Kane,England,6,0,0
+37,2018,Romelu Lukaku,Belgium,4,0,0
+38,2018,Antoine Griezmann,France,3,0,1
+39,2018,Cristiano Ronaldo,Portugal,4,0,0
+40,2018,Kylian Mbappé,France,4,0,0
+41,2022,Kylian Mbappé,France,8,0,0
+42,2022,Lionel Messi,Argentina,7,0,3
+43,2022,Olivier Giroud,France,4,0,0
+44,2022,Marcus Rashford,England,3,0,0
+45,2022,Cody Gakpo,Netherlands,3,0,0
