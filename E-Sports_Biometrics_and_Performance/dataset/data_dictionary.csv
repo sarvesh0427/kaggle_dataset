@@ -1,0 +1,14 @@
+Column_Name,Description
+Player_ID,A unique alphanumeric identifier for each gamer.
+Age,"The age of the player, ranging from 16 to 40 years old."
+Game_Genre,"The category of the game played during the session (MOBA, FPS, Battle Royale, or Fighting)."
+PlayTime_Hours,"The duration of the current gaming session in hours, used to measure fatigue."
+Sleep_Hours,The number of hours the player slept the night before the session.
+Energy_Drinks,The number of energy drinks (caffeine) consumed before or during the match.
+Screen_Brightness,The brightness setting of the player's monitor as a percentage (contains ~5% missing values).
+Blue_Light_Filter,Indicates whether a blue light filter was active on the screen (Yes / No).
+APM,Actions Per Minute. A measure of how many inputs (clicks/keystrokes) the player performs per minute.
+Heart_Rate_BPM,The player's average heart rate in beats per minute during the match.
+HRV_Score,Heart Rate Variability score (10-100). Higher scores generally indicate less physiological stress and better recovery (contains ~2% missing values).
+Reaction_Time_ms,The player's average reaction time measured in milliseconds (ms).
+Match_Outcome,The final result of the gaming match (Win / Loss).
