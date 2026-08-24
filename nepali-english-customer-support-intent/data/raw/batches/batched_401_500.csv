@@ -1,0 +1,101 @@
+id,text,intent,language,is_code_switched,formality,difficulty
+401,"Is there a way to see the current checkpoint of my shipment?",order_tracking,english,false,formal,medium
+402,"मेरो सामान कुन सहरमा आइपुग्यो भनेर देखाएको छैन।",order_tracking,nepali_devanagari,false,neutral,easy
+403,"eta bata pathayo vancha tara kata pugyo dekhaudaina",order_tracking,romanized_nepali,false,informal,medium
+404,"delivery partner ko tracking portal le kaam garira chaina",order_tracking,code_switched,true,informal,hard
+405,"mero shipment ko real-time location update nabhako 2 din bhayo",order_tracking,code_switched,true,neutral,medium
+406,"Did you guys approve my order from last night?",order_status,english,false,informal,easy
+407,"मैले हिजो अर्डर गरेको सदर भयो कि नाइ?",order_status,nepali_devanagari,false,neutral,easy
+408,"order verify huna kati time lagne ho",order_status,romanized_nepali,false,neutral,medium
+409,"verification pending vanya cha order confirm kaile huncha?",order_status,code_switched,true,formal,medium
+410,"mero dashboard ma order unfulfilled dekhayo, k vako yo?",order_status,code_switched,true,informal,hard
+411,"I accidentally ordered two, please drop one from my list.",order_cancellation,english,false,informal,medium
+412,"अर्को पसलमा सस्तो पाएँ, यो अर्डर खारेज गर्दिनुस्।",order_cancellation,nepali_devanagari,false,formal,medium
+413,"malai tyo blue wala chahiyena, cancel hanna milxa?",order_cancellation,romanized_nepali,false,informal,hard
+414,"order process huna bhanda agadi nai cancel garnu thiyo",order_cancellation,code_switched,true,neutral,medium
+415,"cancellation fee lagcha ki lagdaina yesma?",order_cancellation,code_switched,true,formal,easy
+416,"It was supposed to be here by Monday and it's already Thursday.",delayed_delivery,english,false,neutral,medium
+417,"बिहेको लागि मगाएको लुगा अझै आइपुगेन, कार्यक्रम नै सकिन लाग्यो।",delayed_delivery,nepali_devanagari,false,informal,hard
+418,"kati din lagaucha yar euta chin pathauna",delayed_delivery,romanized_nepali,false,informal,medium
+419,"expected delivery date cross bhaisakyo, package aayena",delayed_delivery,code_switched,true,neutral,medium
+420,"courier facility ma delay bhako ho ki timiharule napathako?",delayed_delivery,code_switched,true,informal,hard
+421,"The color of the dress I received is green instead of red.",wrong_item,english,false,neutral,easy
+422,"मैले छालाको जुत्ता मगाएको, कपडाको आएछ त।",wrong_item,nepali_devanagari,false,informal,medium
+423,"arko model ko phone cover pathaidiyecha",wrong_item,romanized_nepali,false,neutral,easy
+424,"I ordered the pro version tara normal wala deliver bhayo",wrong_item,code_switched,true,informal,medium
+425,"wrong item receive bhayo, exchange policy k cha yesko?",wrong_item,code_switched,true,formal,hard
+426,"The glass vase is completely shattered inside the packaging.",damaged_item,english,false,formal,medium
+427,"किताबको गाता च्यातिएको र पानीले भिजेको जस्तो छ।",damaged_item,nepali_devanagari,false,neutral,medium
+428,"tv ko screen ma scratch pareko raicha",damaged_item,romanized_nepali,false,informal,easy
+429,"product physically damaged thiyo unboxing garda",damaged_item,code_switched,true,neutral,medium
+430,"transit ma damage vako jasto cha, box nai kuccheko aayo",damaged_item,code_switched,true,informal,hard
+431,"I ordered a set of 3 but only found 2 inside.",missing_item,english,false,neutral,easy
+432,"ल्यापटप त आयो तर झोलामा माउस राखिएको रहेनछ।",missing_item,nepali_devanagari,false,formal,medium
+433,"euta shirt ko tag pani chaina ani belt pani missing cha",missing_item,romanized_nepali,false,informal,medium
+434,"combo pack ma euta item missing raicha",missing_item,code_switched,true,neutral,easy
+435,"maile order garya manual book nai include garya chaina",missing_item,code_switched,true,informal,hard
+436,"I would like to drop this off at your warehouse for a return.",return_request,english,false,formal,medium
+437,"सामान मन परेन, म आफ्नै खर्चमा फिर्ता पठाउन सक्छु?",return_request,nepali_devanagari,false,neutral,hard
+438,"firta garne bela courier afei le charge lincha ki nai",return_request,romanized_nepali,false,informal,medium
+439,"return label print garna milena app bata",return_request,code_switched,true,neutral,medium
+440,"malai yo product return garera arko lina man cha",return_request,code_switched,true,informal,easy
+441,"Since the item is out of stock, please give me my cash back.",refund_request,english,false,formal,medium
+442,"मेरो अर्डर रद्द भयो, अब मेरो पैसा जस्ताको तस्तै फिर्ता गरिदिनुहोला।",refund_request,nepali_devanagari,false,formal,medium
+443,"paisa kaile firta magne ho yesko",refund_request,romanized_nepali,false,informal,easy
+444,"item return garisake, refund process start gardeu na",refund_request,code_switched,true,neutral,hard
+445,"malai wallet ma haina bank account ma refund chahiyo",refund_request,code_switched,true,formal,hard
+446,"It has been 7 business days and the money is not in my account.",refund_status,english,false,formal,medium
+447,"पैसा पठाइसक्यौं भनेको धेरै दिन भयो तर बैंकमा देखाएको छैन।",refund_status,nepali_devanagari,false,neutral,medium
+448,"refund aaisakyo vanxa tara khata ma balance aayena",refund_status,romanized_nepali,false,informal,hard
+449,"refund processing status ma adkeko kati din vayo",refund_status,code_switched,true,neutral,medium
+450,"merchant refund successful dekhaucha but still paisa paeko chaina",refund_status,code_switched,true,formal,hard
+451,"My bank declined the transaction due to an international limit.",payment_failed,english,false,formal,medium
+452,"क्युआर कोड स्क्यान गरेर तिर्दा फेल भन्यो।",payment_failed,nepali_devanagari,false,neutral,easy
+453,"OTP halepachi payment error aayo",payment_failed,romanized_nepali,false,neutral,medium
+454,"card decline bhayo insufficient funds bhanera",payment_failed,code_switched,true,informal,easy
+455,"gateway timeout bhayo payment garda gardai",payment_failed,code_switched,true,neutral,hard
+456,"The amount left my bank but your site says awaiting payment.",payment_pending,english,false,neutral,medium
+457,"खाताबाट पैसा काटियो तर अझै पनि तिर्न बाँकी भन्दैछ।",payment_pending,nepali_devanagari,false,neutral,hard
+458,"balance katisakyo tara order chai processing ma gayo",payment_pending,romanized_nepali,false,informal,medium
+459,"payment hold ma cha bank le block garyo ki k ho",payment_pending,code_switched,true,informal,hard
+460,"status unverified dekhairacha paisa pugeko chaina ra?",payment_pending,code_switched,true,neutral,medium
+461,"I saw a credit back on my card, did the purchase fail?",payment_reversed,english,false,informal,medium
+462,"हिजो काटेको पैसा आज आफैं बैंकमा फिर्ता आएछ किन होला?",payment_reversed,nepali_devanagari,false,neutral,medium
+463,"order ta aayena tara kura na bujhi paisa reverse vaecha",payment_reversed,romanized_nepali,false,informal,hard
+464,"auto-reversal message aayo, order cancel bhako ho ra?",payment_reversed,code_switched,true,neutral,hard
+465,"maile cancel garya haina tara bank ma chargeback aayo",payment_reversed,code_switched,true,formal,medium
+466,"I pressed the pay button twice and got charged double.",duplicate_payment,english,false,informal,easy
+467,"एउटै सामानको दुई पटक बिल बनेर पैसा काटिएछ।",duplicate_payment,nepali_devanagari,false,neutral,medium
+468,"net slow vayera refresh garda 2 choti paisa gayo",duplicate_payment,romanized_nepali,false,informal,medium
+469,"duplicate transaction vayo, euta charge reverse garnus",duplicate_payment,code_switched,true,formal,medium
+470,"bank statement herda twice charge dekhayo same order ko",duplicate_payment,code_switched,true,neutral,hard
+471,"The app keeps kicking me out every time I try to sign in.",account_login,english,false,informal,medium
+472,"मेरो मोबाइल नम्बर हाल्दा खाता भेटिएन भन्छ त।",account_login,nepali_devanagari,false,neutral,medium
+473,"email pani thik cha tara chirnai manena profile ma",account_login,romanized_nepali,false,informal,hard
+474,"login session expire bhairakhcha jatti khera",account_login,code_switched,true,neutral,medium
+475,"biometrics bata login garna mildaina yo app ma?",account_login,code_switched,true,formal,easy
+476,"Can you send the recovery code to my alternative email?",password_reset,english,false,formal,medium
+477,"पासवर्ड फेर्न ओटीपी आयो तर हाल्दा म्याद सकियो भन्यो।",password_reset,nepali_devanagari,false,neutral,hard
+478,"purano pass thaha navai naya rakhna milxa ki nai",password_reset,romanized_nepali,false,informal,medium
+479,"password reset link spam folder ma ni chaina",password_reset,code_switched,true,neutral,easy
+480,"security questions answer garna birsiye, reset kasari garne?",password_reset,code_switched,true,informal,hard
+481,"I tried guessing my password too many times and now I'm blocked.",account_locked,english,false,informal,easy
+482,"तपाईंको खाता सुरक्षित राख्न बन्द गरिएको छ भन्ने म्यासेज आयो।",account_locked,nepali_devanagari,false,formal,medium
+483,"mero account ban vayo ki k ho khuldai khuldaina",account_locked,romanized_nepali,false,informal,medium
+484,"suspicious login attempt bhanera account freeze gardiyo",account_locked,code_switched,true,formal,medium
+485,"lock lagyo account ma, unban garna k verification chahincha?",account_locked,code_switched,true,neutral,hard
+486,"Does this model come with an HDMI cable in the box?",product_information,english,false,neutral,easy
+487,"यो पङ्खामा कति भोल्टको मोटर राखिएको छ?",product_information,nepali_devanagari,false,formal,medium
+488,"yesko warranty card ma k k cover hunxa hola",product_information,romanized_nepali,false,informal,medium
+489,"product specs ma waterproof lekheko cha, is it really IP68?",product_information,code_switched,true,neutral,hard
+490,"yo dress ko fabric cotton ho ki synthetic blend ho?",product_information,code_switched,true,formal,medium
+491,"Do you have the 256GB version of this phone available?",product_availability,english,false,formal,easy
+492,"यो जुत्ताको ९ नम्बर साइज कहिलेसम्म आउँछ पसलमा?",product_availability,nepali_devanagari,false,neutral,medium
+493,"kalo color ko stock baki cha ki sakiyo",product_availability,romanized_nepali,false,informal,easy
+494,"limited edition vanya cha, aile out of stock hoki available cha?",product_availability,code_switched,true,neutral,hard
+495,"add to cart garda always unavailable vanyo, restock kaile huncha?",product_availability,code_switched,true,informal,medium
+496,"Your automated system isn't helping, let me speak to staff.",human_agent_request,english,false,informal,hard
+497,"मलाई यो मेसिनसँग होइन, त्यहाँको कर्मचारीसँग कुरा गराइदिनुस्।",human_agent_request,nepali_devanagari,false,formal,medium
+498,"customer care ko number deu malai yeta kura bujhena",human_agent_request,romanized_nepali,false,informal,medium
+499,"chatbot le malai jhyau lagayo, connect to a human agent",human_agent_request,code_switched,true,informal,easy
+500,"can I talk to a live representative? mero issue solve nai vayena",human_agent_request,code_switched,true,neutral,medium
