@@ -1,0 +1,401 @@
+id,text,intent,language,is_code_switched,formality,difficulty
+6501,Could you confirm the arrival time at the local dispatch facility?,order_tracking,english,false,formal,medium
+6502,The tracking app shows the vehicle is parked on my street.,order_tracking,english,false,neutral,medium
+6503,where is the van,order_tracking,english,false,informal,easy
+6504,I require the precise dispatch details for my upcoming delivery.,order_tracking,english,false,formal,hard
+6505,स्थानीय वितरण केन्द्रमा आइपुग्ने समय निश्चित गर्न सक्नुहुन्छ?,order_tracking,nepali_devanagari,false,formal,medium
+6506,ट्र्याकिङ एपमा गाडी मेरो सडकमै रोकिएको देखाउँछ।,order_tracking,nepali_devanagari,false,neutral,medium
+6507,भ्यान कहाँ छ त,order_tracking,nepali_devanagari,false,informal,easy
+6508,मलाई मेरो डेलिभरीको लागि सही प्रेषण विवरणहरू आवश्यक छ।,order_tracking,nepali_devanagari,false,formal,hard
+6509,sthaniya bitaran kendra ma aipugne samaya nishchit garna saknuhunxa?,order_tracking,romanized_nepali,false,formal,medium
+6510,tracking app ma gadi mero sadakmai rokieko dekhauxa.,order_tracking,romanized_nepali,false,neutral,medium
+6511,van kaha xa ta,order_tracking,romanized_nepali,false,informal,easy
+6512,malai mero delivery ko lagi sahi preshan biwaranharu aawashyak xa.,order_tracking,romanized_nepali,false,formal,hard
+6513,local dispatch facility ma arrival time confirm garna milcha?,order_tracking,code_switched,true,formal,medium
+6514,tracking app shows vehicle mero street ma parked cha.,order_tracking,code_switched,true,neutral,medium
+6515,where is the van chito pathau na.,order_tracking,code_switched,true,informal,easy
+6516,upcoming delivery ko precise dispatch details require garchu.,order_tracking,code_switched,true,formal,hard
+6517,map ma update vayena tracking number valid cha?,order_tracking,code_switched,true,neutral,medium
+6518,courier partner le contact garena but status out for delivery cha.,order_tracking,code_switched,true,formal,medium
+6519,live tracking kina freeze vako cha app ma?,order_tracking,code_switched,true,informal,medium
+6520,dispatch details clearly dekhayena portal login garda.,order_tracking,code_switched,true,formal,hard
+6521,Has the third-party vendor confirmed the processing of my item?,order_status,english,false,formal,hard
+6522,I want to know if the complimentary gift wrap was added to my cart.,order_status,english,false,neutral,medium
+6523,is it ready yet,order_status,english,false,informal,easy
+6524,Please update me on the quality validation phase of my purchase.,order_status,english,false,formal,medium
+6525,के तेस्रो-पक्ष विक्रेताले मेरो सामानको प्रक्रिया पक्का गरेको छ?,order_status,nepali_devanagari,false,formal,hard
+6526,म जान्न चाहन्छु कि मेरो कार्टमा सित्तैको गिफ्ट र्याप थपियो कि थपिएन।,order_status,nepali_devanagari,false,neutral,medium
+6527,तयार भयो त,order_status,nepali_devanagari,false,informal,easy
+6528,कृपया मेरो खरिदको गुणस्तर प्रमाणीकरण चरणको बारेमा जानकारी दिनुहोस्।,order_status,nepali_devanagari,false,formal,medium
+6529,k tesro-paksha bikreta le mero saman ko prakriya pakka gareko xa?,order_status,romanized_nepali,false,formal,hard
+6530,ma janna chahanxu ki mero cart ma sittaiko gift wrap thapiyo ki thapiyena.,order_status,romanized_nepali,false,neutral,medium
+6531,tayar vayo ta,order_status,romanized_nepali,false,informal,easy
+6532,kripaya mero kharid ko gunastar pramanikaran charan ko barema jankari dinuhos.,order_status,romanized_nepali,false,formal,medium
+6533,third-party vendor le processing confirm garyo ki nai?,order_status,code_switched,true,formal,hard
+6534,complimentary gift wrap add vayo ki nai I want to know.,order_status,code_switched,true,neutral,medium
+6535,is it ready yet ki ajhai time lagcha?,order_status,code_switched,true,informal,easy
+6536,quality validation phase ko update dinu na please.,order_status,code_switched,true,formal,medium
+6537,status pending cha tara payment cleared bhaisakyo.,order_status,code_switched,true,neutral,medium
+6538,merchant portal ma processing vancha यता unfulfilled dekhaucha.,order_status,code_switched,true,formal,hard
+6539,pack vayera dispatch huna ready ho aaba?,order_status,code_switched,true,informal,medium
+6540,inventory allocation complete vayo ki wait garnu parcha?,order_status,code_switched,true,formal,medium
+6541,I kindly request to cancel this transaction as I found a better price locally.,order_cancellation,english,false,formal,hard
+6542,Could you just remove the decorative item from my current invoice?,order_cancellation,english,false,neutral,medium
+6543,stop this order,order_cancellation,english,false,informal,easy
+6544,Please terminate the shipment process since my employer declined the expense.,order_cancellation,english,false,formal,medium
+6545,मैले स्थानीय स्तरमै राम्रो मूल्य पाएकोले यो कारोबार रद्द गर्न अनुरोध गर्दछु।,order_cancellation,nepali_devanagari,false,formal,hard
+6546,तपाईं मेरो हालको बिलबाट सजावटको सामान मात्र हटाउन सक्नुहुन्छ?,order_cancellation,nepali_devanagari,false,neutral,medium
+6547,यो अर्डर रोक्नुहोस्,order_cancellation,nepali_devanagari,false,informal,easy
+6548,मेरो अफिसले खर्च अस्वीकार गरेको हुनाले कृपया ढुवानी प्रक्रिया खारेज गर्नुहोस्।,order_cancellation,nepali_devanagari,false,formal,medium
+6549,maile sthaniya starmai ramro mulya payekole yo karobar radda garna anurodh gardaxu.,order_cancellation,romanized_nepali,false,formal,hard
+6550,tapai mero haal ko bill bata sajawat ko saman matra hatauna saknuhunxa?,order_cancellation,romanized_nepali,false,neutral,medium
+6551,yo order roknuhos,order_cancellation,romanized_nepali,false,informal,easy
+6552,mero office le kharcha aswikar gareko hunale kripaya dhuwani prakriya kharej garnuhos.,order_cancellation,romanized_nepali,false,formal,medium
+6553,locally better price bheteko le I kindly request to cancel this transaction.,order_cancellation,code_switched,true,formal,hard
+6554,current invoice bata decorative item matra remove garna milcha?,order_cancellation,code_switched,true,neutral,medium
+6555,stop this order ahile ko ahile nai.,order_cancellation,code_switched,true,informal,easy
+6556,employer le expense decline garyo please terminate the shipment.,order_cancellation,code_switched,true,formal,medium
+6557,mistake le wrong variant selected bhayo cancel the cart entirely.,order_cancellation,code_switched,true,neutral,medium
+6558,cancellation option greyed out cha portal ma kasari void garne?,order_cancellation,code_switched,true,formal,hard
+6559,maile arkai store bata purchase garisake drop this.,order_cancellation,code_switched,true,informal,medium
+6560,dispatch huna aghi cancel garda refund fully aawcha?,order_cancellation,code_switched,true,formal,medium
+6561,The festival rush has significantly extended my expected delivery timeframe.,delayed_delivery,english,false,formal,hard
+6562,I received an update that the afternoon delivery was delayed to evening.,delayed_delivery,english,false,neutral,medium
+6563,not here yet,delayed_delivery,english,false,informal,easy
+6564,Please investigate the continuous delay affecting my critical shipment.,delayed_delivery,english,false,formal,medium
+6565,चाडपर्वको चापले गर्दा मेरो अपेक्षित डेलिभरी समय निकै लम्बिएको छ।,delayed_delivery,nepali_devanagari,false,formal,hard
+6566,मैले दिउँसोको डेलिभरी साँझसम्म सरेको अपडेट पाएँ।,delayed_delivery,nepali_devanagari,false,neutral,medium
+6567,अझै आएको छैन,delayed_delivery,nepali_devanagari,false,informal,easy
+6568,कृपया मेरो महत्त्वपूर्ण ढुवानीलाई असर गर्ने निरन्तर ढिलाइको अनुसन्धान गर्नुहोस्।,delayed_delivery,nepali_devanagari,false,formal,medium
+6569,chadparba ko chap le garda mero apekshit delivery samaya nikai lambieko xa.,delayed_delivery,romanized_nepali,false,formal,hard
+6570,maile diuso ko delivery sajhsamma sareko update panye.,delayed_delivery,romanized_nepali,false,neutral,medium
+6571,ajhai aayeko xaina,delayed_delivery,romanized_nepali,false,informal,easy
+6572,kripaya mero mahatwapurna dhuwani lai asar garne nirantar dhilai ko anusandhan garnuhos.,delayed_delivery,romanized_nepali,false,formal,medium
+6573,festival rush le delivery timeframe significantly extend gareko cha.,delayed_delivery,code_switched,true,formal,hard
+6574,afternoon delivery evening ma shift bhayo bhanne update aayo.,delayed_delivery,code_switched,true,neutral,medium
+6575,not here yet kasto dhilo garira.,delayed_delivery,code_switched,true,informal,easy
+6576,critical shipment ma continuous delay bhairacha investigate garnus please.,delayed_delivery,code_switched,true,formal,medium
+6577,ETA cross bhako 24 hours bhaisakyo still transit mai cha.,delayed_delivery,code_switched,true,neutral,medium
+6578,driver missed the location ani delayed mark garyo without calling.,delayed_delivery,code_switched,true,formal,hard
+6579,super late package waiting for days now.,delayed_delivery,code_switched,true,informal,medium
+6580,logistics exception bhanera update rokiyo k vako ho actual ma?,delayed_delivery,code_switched,true,formal,medium
+6581,The delivered frame has a glossy finish instead of the advertised matte texture.,wrong_item,english,false,formal,hard
+6582,I ordered a 42-inch desk but a 32-inch one was dropped off.,wrong_item,english,false,neutral,medium
+6583,wrong flavor sent,wrong_item,english,false,informal,easy
+6584,The model number on the box does not match my original electronic order.,wrong_item,english,false,formal,medium
+6585,डेलिभर गरिएको फ्रेममा विज्ञापन गरिएको म्याटको सट्टा टल्किने फिनिस छ।,wrong_item,nepali_devanagari,false,formal,hard
+6586,मैले ४२ इन्चको डेस्क मगाएको थिएँ तर ३२ इन्चको ल्याएर छोडियो।,wrong_item,nepali_devanagari,false,neutral,medium
+6587,गलत स्वाद पठाइयो,wrong_item,nepali_devanagari,false,informal,easy
+6588,बाकसमा भएको मोडल नम्बर मेरो सुरुको विद्युतीय अर्डरसँग मेल खाँदैन।,wrong_item,nepali_devanagari,false,formal,medium
+6589,deliver garieko frame ma bigyapan garieko matte ko satta talkine finish xa.,wrong_item,romanized_nepali,false,formal,hard
+6590,maile 42 inch ko desk magako thiye tara 32 inch ko lyayera xodiyo.,wrong_item,romanized_nepali,false,neutral,medium
+6591,galat swad pathaiyo,wrong_item,romanized_nepali,false,informal,easy
+6592,bakas ma vayeko model number mero suru ko bidhutiya order sanga mel khandaina.,wrong_item,romanized_nepali,false,formal,medium
+6593,advertised matte texture ko satta delivered frame ma glossy finish cha.,wrong_item,code_switched,true,formal,hard
+6594,42-inch desk order gareko tara 32-inch one drop off vayo.,wrong_item,code_switched,true,neutral,medium
+6595,wrong flavor sent replace garnu paryo.,wrong_item,code_switched,true,informal,easy
+6596,box ko model number ra original electronic order completely mismatch cha.,wrong_item,code_switched,true,formal,medium
+6597,color palette farak aayo maile grey vaneko thiye black aayo.,wrong_item,code_switched,true,neutral,medium
+6598,brand tag nai wrong cha authentic brand haina jasto lagyo.,wrong_item,code_switched,true,formal,hard
+6599,size S order gareko L pathayo fit nai vayena.,wrong_item,code_switched,true,informal,medium
+6600,voltage rating 110V cha 220V ko thau ma unusable bhayo.,wrong_item,code_switched,true,formal,medium
+6601,The central lens of the camera apparatus arrived with a deep scratch.,damaged_item,english,false,formal,hard
+6602,Some pages of the manual are bent and the cover is slightly torn.,damaged_item,english,false,neutral,medium
+6603,the screen is cracked,damaged_item,english,false,informal,easy
+6604,A leaking fluid has thoroughly ruined the integrity of the packaging.,damaged_item,english,false,formal,medium
+6605,क्यामेरा उपकरणको मुख्य लेन्समा गहिरो कोरिएको दागसहित आइपुग्यो।,damaged_item,nepali_devanagari,false,formal,hard
+6606,किताबका केही पानाहरू दोब्रिएका छन् र कभर अलिकति च्यातिएको छ।,damaged_item,nepali_devanagari,false,neutral,medium
+6607,स्क्रिन फुटेको छ,damaged_item,nepali_devanagari,false,informal,easy
+6608,चुहिएको तरल पदार्थले प्याकेजिङको अवस्थालाई पूर्ण रूपमा बिगारेको छ।,damaged_item,nepali_devanagari,false,formal,medium
+6609,camera upakaran ko mukhya lens ma gahiro korieko daagsahit aipugyo.,damaged_item,romanized_nepali,false,formal,hard
+6610,kitab ka kehi panaharu dobrieka xan ra cover alikati chyatieko xa.,damaged_item,romanized_nepali,false,neutral,medium
+6611,screen futeko xa,damaged_item,romanized_nepali,false,informal,easy
+6612,chuhieko taral padarthale packaging ko awastha lai purna rupma bigareko xa.,damaged_item,romanized_nepali,false,formal,medium
+6613,camera apparatus ko central lens deep scratch vayera arrived bhayo.,damaged_item,code_switched,true,formal,hard
+6614,manual ko pages bent cha ani cover slightly torn cha.,damaged_item,code_switched,true,neutral,medium
+6615,the screen is cracked kasto careless handling ho.,damaged_item,code_switched,true,informal,easy
+6616,leaking fluid le packaging ko integrity completely ruin garyo.,damaged_item,code_switched,true,formal,medium
+6617,structural frame bent vayera aayo use garnai milne chaina.,damaged_item,code_switched,true,neutral,medium
+6618,fragile seal vayepani glassware completely pulverized condition ma cha.,damaged_item,code_switched,true,formal,hard
+6619,dented outer body dekhincha nayai kineko jasto feel bhayena.,damaged_item,code_switched,true,informal,medium
+6620,frozen food melt vayera entirely spoiled vayo due to transit heat.,damaged_item,code_switched,true,formal,medium
+6621,The designated power cable was conspicuously excluded from the sealed carton.,missing_item,english,false,formal,hard
+6622,I got the blender base but the glass pitcher is missing.,missing_item,english,false,neutral,medium
+6623,forgot my fries,missing_item,english,false,informal,easy
+6624,The hardware box is lacking the essential warranty certificate.,missing_item,english,false,formal,medium
+6625,तोकिएको पावर केबल सिल गरिएको कार्टुनबाट प्रस्ट रूपमा छुटाइएको थियो।,missing_item,nepali_devanagari,false,formal,hard
+6626,मैले ब्लेन्डरको मेसिन पाएँ तर सिसाको जग हराइरहेको छ।,missing_item,nepali_devanagari,false,neutral,medium
+6627,मेरो फ्राइज बिर्सेछ,missing_item,nepali_devanagari,false,informal,easy
+6628,हार्डवेयर बाकसमा आवश्यक वारेन्टी प्रमाणपत्र राखिएको छैन।,missing_item,nepali_devanagari,false,formal,medium
+6629,tokieko power cable seal garieko carton bata prasta rupma chutaieko thiyo.,missing_item,romanized_nepali,false,formal,hard
+6630,maile blender ko machine panye tara sisa ko jag harairaheko xa.,missing_item,romanized_nepali,false,neutral,medium
+6631,mero fries birsexa,missing_item,romanized_nepali,false,informal,easy
+6632,hardware bakas ma aawashyak warranty pramanpatra rakhieko xaina.,missing_item,romanized_nepali,false,formal,medium
+6633,sealed carton bata designated power cable conspicuously excluded cha.,missing_item,code_switched,true,formal,hard
+6634,blender base aayo but glass pitcher part missing cha.,missing_item,code_switched,true,neutral,medium
+6635,forgot my fries again next time refund linchu.,missing_item,code_switched,true,informal,easy
+6636,hardware box ma essential warranty certificate lacks gari rako cha.,missing_item,code_switched,true,formal,medium
+6637,combo offer ma secondary attachment missing vayo pathauna birsyo ki?,missing_item,code_switched,true,neutral,medium
+6638,left earbud box ma cha tara right wala entirely absent cha.,missing_item,code_switched,true,formal,hard
+6639,instruction manual chaina setup garna problem vayo.,missing_item,code_switched,true,informal,medium
+6640,screws ra bolts ko packet omit garecha furniture assembly garna milena.,missing_item,code_switched,true,formal,medium
+6641,"The item does not fit the room space, so I formally request a return authorization.",return_request,english,false,formal,hard
+6642,Can I use my own preferred courier to send this back?,return_request,english,false,neutral,medium
+6643,take it back,return_request,english,false,informal,easy
+6644,Please provide the digital return label for this unsatisfactory merchandise.,return_request,english,false,formal,medium
+6645,"सामान कोठाको ठाउँमा अटेन, त्यसैले म औपचारिक रूपमा फिर्ताको अधिकार माग्दछु।",return_request,nepali_devanagari,false,formal,hard
+6646,के म यो फिर्ता पठाउन आफ्नै मनपर्ने कुरियर प्रयोग गर्न सक्छु?,return_request,nepali_devanagari,false,neutral,medium
+6647,यो फिर्ता लैजाउ,return_request,nepali_devanagari,false,informal,easy
+6648,कृपया यो असन्तोषजनक सामानको लागि डिजिटल रिटर्न लेबल उपलब्ध गराउनुहोस्।,return_request,nepali_devanagari,false,formal,medium
+6649,"saman kotha ko thauma atena, tyasaile ma aupacharik rupma firta ko adhikar magdaxu.",return_request,romanized_nepali,false,formal,hard
+6650,k ma yo firta pathauna aafnai manparne courier prayog garna sakxu?,return_request,romanized_nepali,false,neutral,medium
+6651,yo firta laijau,return_request,romanized_nepali,false,informal,easy
+6652,kripaya yo asantoshjanak saman ko lagi digital return label uplabdha garaunuhos.,return_request,romanized_nepali,false,formal,medium
+6653,room space ma fit vayena so formally return authorization request gardaichu.,return_request,code_switched,true,formal,hard
+6654,own preferred courier use garera ship back garna allow garcha?,return_request,code_switched,true,neutral,medium
+6655,take it back malai man parena.,return_request,code_switched,true,informal,easy
+6656,unsatisfactory merchandise ko lagi digital return label provide garnus please.,return_request,code_switched,true,formal,medium
+6657,return window grace period ma gracefully accept huncha without penalty?,return_request,code_switched,true,neutral,medium
+6658,drop-off point map ma bhetina return schedule garna help garnus.,return_request,code_switched,true,formal,hard
+6659,defective piece exchange haina directly return garne ho.,return_request,code_switched,true,informal,medium
+6660,packaging completely discard garisake will you process the return conditionally?,return_request,code_switched,true,formal,medium
+6661,I strictly require the refund to be routed to a different debit card.,refund_request,english,false,formal,hard
+6662,Will you deduct a restocking fee if I ask for a full refund?,refund_request,english,false,neutral,medium
+6663,cash back asap,refund_request,english,false,informal,easy
+6664,I am requesting a prorated rebate for the functional defect encountered.,refund_request,english,false,formal,medium
+6665,म मेरो रकम फिर्ता अर्कै डेबिट कार्डमा पठाउन कडा रूपमा माग गर्दछु।,refund_request,nepali_devanagari,false,formal,hard
+6666,मैले पूरै रकम फिर्ता मागेँ भने के तपाईं रिस्टकिङ शुल्क काट्नुहुन्छ?,refund_request,nepali_devanagari,false,neutral,medium
+6667,मेरो क्यास छिटो फिर्ता देउ,refund_request,nepali_devanagari,false,informal,easy
+6668,मैले भोगेको प्राविधिक त्रुटिको लागि समानुपातिक छुट रकम दाबी गर्दैछु।,refund_request,nepali_devanagari,false,formal,medium
+6669,ma mero rakam firta arkai debit card ma pathauna kada rupma maag gardaxu.,refund_request,romanized_nepali,false,formal,hard
+6670,maile purai rakam firta mage vane k tapai restocking shulka katnuhunxa?,refund_request,romanized_nepali,false,neutral,medium
+6671,mero cash chito firta deu,refund_request,romanized_nepali,false,informal,easy
+6672,maile bhogeko prabidhik truti ko lagi samanupatik chut rakam dabi gardaixu.,refund_request,romanized_nepali,false,formal,medium
+6673,refund definitely different debit card ma route garna strictly require garchu.,refund_request,code_switched,true,formal,hard
+6674,full refund ask garda restocking fee deduct huncha ki nai?,refund_request,code_switched,true,neutral,medium
+6675,cash back asap process gara na.,refund_request,code_switched,true,informal,easy
+6676,functional defect encountered ko lagi prorated rebate request gardaichu.,refund_request,code_switched,true,formal,medium
+6677,store credits malai chahinna primary bank account ma reimbursement send garnus.,refund_request,code_switched,true,neutral,medium
+6678,cancellation approve bhayo aba immediate monetary restitution issue garnu paryo.,refund_request,code_switched,true,formal,hard
+6679,expedited delivery shipping fee pani explicitly refund ma include garnus.,refund_request,code_switched,true,informal,medium
+6680,damaged goods return pickup bhayo aba fund disburse kaile huncha?,refund_request,code_switched,true,formal,medium
+6681,Has the reimbursement been scheduled for the upcoming billing cycle?,refund_status,english,false,formal,hard
+6682,It says processed but there is absolutely nothing in my account.,refund_status,english,false,neutral,medium
+6683,send my money,refund_status,english,false,informal,easy
+6684,Could you provide the exact trace tracking number for verification?,refund_status,english,false,formal,medium
+6685,के रकम फिर्ता आउने बिलिङ साइकलको लागि तय गरिएको छ?,refund_status,nepali_devanagari,false,formal,hard
+6686,प्रोसेस भयो भन्छ तर मेरो खातामा पटक्कै केही आएको छैन।,refund_status,nepali_devanagari,false,neutral,medium
+6687,मेरो पैसा पठाउ,refund_status,nepali_devanagari,false,informal,easy
+6688,प्रमाणीकरणको लागि ठ्याक्कै ट्रेस ट्र्याकिङ नम्बर उपलब्ध गराउन सक्नुहुन्छ?,refund_status,nepali_devanagari,false,formal,medium
+6689,k rakam firta aune billing cycle ko lagi taya garieko xa?,refund_status,romanized_nepali,false,formal,hard
+6690,process vayo vanxa tara mero khata ma patakkai kehi aayeko xaina.,refund_status,romanized_nepali,false,neutral,medium
+6691,mero paisa pathau,refund_status,romanized_nepali,false,informal,easy
+6692,pramanikaran ko lagi thyakkai trace tracking number uplabdha garauna saknuhunxa?,refund_status,romanized_nepali,false,formal,medium
+6693,reimbursement upcoming billing cycle ko lagi scheduled bhako cha ki chaina?,refund_status,code_switched,true,formal,hard
+6694,processed vayo vanya cha but absolutely nothing in my checking account.,refund_status,code_switched,true,neutral,medium
+6695,send my money chito yati din vaisakyo.,refund_status,code_switched,true,informal,easy
+6696,verification ko lagi exact trace tracking number provide garnus please.,refund_status,code_switched,true,formal,medium
+6697,business days limit cross vayo aba finance team lai escalate garnus.,refund_status,code_switched,true,neutral,medium
+6698,bank approval pending ma stuck cha ki portal ko display error ho?,refund_status,code_switched,true,formal,hard
+6699,refund timeline update deu na tracker is not working.,refund_status,code_switched,true,informal,medium
+6700,clearing house le intercept garyo re kasto jhyau process ho yo.,refund_status,code_switched,true,formal,medium
+6701,The gateway returned a CVV error despite my correct data entry.,payment_failed,english,false,formal,hard
+6702,My payment was rejected due to a postal code mismatch on checkout.,payment_failed,english,false,neutral,medium
+6703,app crashed while paying,payment_failed,english,false,informal,easy
+6704,Is there a geographic block restricting my foreign credit card?,payment_failed,english,false,formal,medium
+6705,मैले सही डाटा हाल्दा पनि गेटवेले सिभीभी इरर देखायो।,payment_failed,nepali_devanagari,false,formal,hard
+6706,चेकआउट गर्दा पोस्टल कोड नमिलेको कारणले मेरो पेमेन्ट अस्वीकार भयो।,payment_failed,nepali_devanagari,false,neutral,medium
+6707,पैसा तिर्दा एप क्र्यास भयो,payment_failed,nepali_devanagari,false,informal,easy
+6708,के मेरो विदेशी क्रेडिट कार्डलाई रोक्ने कुनै भौगोलिक ब्लक छ?,payment_failed,nepali_devanagari,false,formal,medium
+6709,maile sahi data halda pani gateway le CVV error dekhayo.,payment_failed,romanized_nepali,false,formal,hard
+6710,checkout garda postal code namileko karanle mero payment aswikar vayo.,payment_failed,romanized_nepali,false,neutral,medium
+6711,paisa tirda app crash vayo,payment_failed,romanized_nepali,false,informal,easy
+6712,k mero bideshi credit card lai rokne kunai bhaugolik block xa?,payment_failed,romanized_nepali,false,formal,medium
+6713,correct data entry huda pani gateway le CVV error return garyo.,payment_failed,code_switched,true,formal,hard
+6714,checkout ma postal code mismatch le garda payment rejected bhayo.,payment_failed,code_switched,true,neutral,medium
+6715,app crashed while paying feri try garnu parcha?,payment_failed,code_switched,true,informal,easy
+6716,foreign credit card restrict garne explicitly geographic block cha ra?,payment_failed,code_switched,true,formal,medium
+6717,3D secure token repeatedly timeout hudai cha authentication process ma.,payment_failed,code_switched,true,neutral,medium
+6718,bank le foreign transaction flag garera authorization deliberately block garyo.,payment_failed,code_switched,true,formal,hard
+6719,eSewa bata pay garda payment gateway ma 503 error aayo.,payment_failed,code_switched,true,informal,medium
+6720,prepaid virtual cards system le automatically decline garcha ho?,payment_failed,code_switched,true,formal,medium
+6721,The high-value transaction is undergoing a mandatory escrow holding period.,payment_pending,english,false,formal,hard
+6722,The money left my bank account but your portal still says unverified.,payment_pending,english,false,neutral,medium
+6723,cash is pending,payment_pending,english,false,informal,easy
+6724,Does the manual ledger entry take longer during the weekend?,payment_pending,english,false,formal,medium
+6725,ठूलो रकमको कारोबार अनिवार्य एस्क्रो होल्डिङ अवधिबाट गुज्रिरहेको छ।,payment_pending,nepali_devanagari,false,formal,hard
+6726,मेरो बैंक खाताबाट पैसा गयो तर तपाईंको पोर्टलले अझै अनभेरिफाइड भन्छ।,payment_pending,nepali_devanagari,false,neutral,medium
+6727,क्यास पेन्डिङ छ,payment_pending,nepali_devanagari,false,informal,easy
+6728,के सप्ताहान्तमा म्यानुअल लेजर इन्ट्री गर्न धेरै समय लाग्छ?,payment_pending,nepali_devanagari,false,formal,medium
+6729,thulo rakam ko karobar aniwarya escrow holding awadhi bata gujriraheko xa.,payment_pending,romanized_nepali,false,formal,hard
+6730,mero bank khata bata paisa gayo tara tapaiko portal le ajhai unverified vanxa.,payment_pending,romanized_nepali,false,neutral,medium
+6731,cash pending xa,payment_pending,romanized_nepali,false,informal,easy
+6732,k saptahanta ma manual ledger entry garna dherai samaya lagxa?,payment_pending,romanized_nepali,false,formal,medium
+6733,high-value transaction mandatory escrow holding period ma undergoing cha.,payment_pending,code_switched,true,formal,hard
+6734,bank account bata money left vayo but portal still unverified says.,payment_pending,code_switched,true,neutral,medium
+6735,cash is pending confirmation chito deu na.,payment_pending,code_switched,true,informal,easy
+6736,weekend ko time ma manual ledger entry le usually longer take garcha?,payment_pending,code_switched,true,formal,medium
+6737,compliance review le cross-border remittance temporarily halt gareko cha.,payment_pending,code_switched,true,neutral,medium
+6738,merchant side bata verification pending dekhaucha payment successfully katyo tara.,payment_pending,code_switched,true,formal,hard
+6739,holding status ma stuck bhako kati hours bhaisakyo clear gara.,payment_pending,code_switched,true,informal,medium
+6740,anti-fraud clearance ma adkiyeko payment ko ETA explicitly vannus.,payment_pending,code_switched,true,formal,medium
+6741,An address mismatch auto-reversal was systematically triggered by the gateway.,payment_reversed,english,false,formal,hard
+6742,My order was out of stock so the merchant bounced the payment back.,payment_reversed,english,false,neutral,medium
+6743,money sent back,payment_reversed,english,false,informal,easy
+6744,Could you specify the exact reason behind this unsolicited auto-reversal?,payment_reversed,english,false,formal,medium
+6745,ठेगाना नमिलेको कारण गेटवेले प्रणालीगत रूपमा अटो-रिभर्सल ट्रिगर गर्‍यो।,payment_reversed,nepali_devanagari,false,formal,hard
+6746,मेरो अर्डर स्टकमा नभएकोले व्यापारीले पेमेन्ट बाउन्स गरिदियो।,payment_reversed,nepali_devanagari,false,neutral,medium
+6747,पैसा फिर्ता पठाइदियो,payment_reversed,nepali_devanagari,false,informal,easy
+6748,यो नमागेको अटो-रिभर्सलको पछाडिको ठ्याक्कै कारण खुलाउन सक्नुहुन्छ?,payment_reversed,nepali_devanagari,false,formal,medium
+6749,thegana namileko karan gateway le pranaligat rupma auto-reversal trigger garyo.,payment_reversed,romanized_nepali,false,formal,hard
+6750,mero order stock ma navayekole byapari le payment bounce garidiyo.,payment_reversed,romanized_nepali,false,neutral,medium
+6751,paisa firta pathaidiyo,payment_reversed,romanized_nepali,false,informal,easy
+6752,yo namageko auto-reversal ko pachhadiko thyakkai karan khulauna saknuhunxa?,payment_reversed,romanized_nepali,false,formal,medium
+6753,address mismatch le garda gateway le auto-reversal systematically trigger garyo.,payment_reversed,code_switched,true,formal,hard
+6754,order out of stock thiyo so merchant le payment bounced back garyo.,payment_reversed,code_switched,true,neutral,medium
+6755,money sent back kineko item ta chahiyeko thiyo.,payment_reversed,code_switched,true,informal,easy
+6756,unsolicited auto-reversal ko exact reason explicitly specify garna saknuhuncha?,payment_reversed,code_switched,true,formal,medium
+6757,fraud alert falsely trigger vayera acquiring bank le clawback execute garyo.,payment_reversed,code_switched,true,neutral,medium
+6758,pricing anomaly detection le garda transaction void bhayo re kasari feri pay garne?,payment_reversed,code_switched,true,formal,hard
+6759,technical glitch huda payment reverse vayo account empty huda huda.,payment_reversed,code_switched,true,informal,medium
+6760,order active dekhaucha app ma tara payment entirely reversed cha bank ma.,payment_reversed,code_switched,true,formal,medium
+6761,Two subsequent debits were recorded due to a page refresh overlap.,duplicate_payment,english,false,formal,hard
+6762,The portal lagged and processed my transaction authorization twice.,duplicate_payment,english,false,neutral,medium
+6763,double charge issue,duplicate_payment,english,false,informal,easy
+6764,Please urgently cancel the superfluous transaction from my credit statement.,duplicate_payment,english,false,formal,medium
+6765,पेज रिफ्रेस ओभरल्यापको कारणले लगातार दुई पटक रकम काटिएको रेकर्ड भयो।,duplicate_payment,nepali_devanagari,false,formal,hard
+6766,पोर्टल ढिलो भयो र मेरो ट्रान्जेक्सन प्रमाणीकरण दुई पटक प्रोसेस भयो।,duplicate_payment,nepali_devanagari,false,neutral,medium
+6767,डबल पैसा काट्ने समस्या,duplicate_payment,nepali_devanagari,false,informal,easy
+6768,कृपया मेरो क्रेडिट स्टेटमेन्टबाट अतिरिक्त ट्रान्जेक्सन तुरुन्तै खारेज गरिदिनुहोस्।,duplicate_payment,nepali_devanagari,false,formal,medium
+6769,page refresh overlap ko karanle lagatar dui patak rakam katieko record vayo.,duplicate_payment,romanized_nepali,false,formal,hard
+6770,portal dhilo vayo ra mero transaction pramanikaran dui patak process vayo.,duplicate_payment,romanized_nepali,false,neutral,medium
+6771,double paisa katne samasya,duplicate_payment,romanized_nepali,false,informal,easy
+6772,kripaya mero credit statement bata atirikta transaction turuntai kharej garidinuhos.,duplicate_payment,romanized_nepali,false,formal,medium
+6773,page refresh overlap le two subsequent debits recorded bhayo account ma.,duplicate_payment,code_switched,true,formal,hard
+6774,portal lagged and transaction authorization exactly twice process garyo.,duplicate_payment,code_switched,true,neutral,medium
+6775,double charge issue solve gara na chito.,duplicate_payment,code_switched,true,informal,easy
+6776,credit statement bata superfluous transaction urgently cancel garnus please.,duplicate_payment,code_switched,true,formal,medium
+6777,concurrent asynchronous threading bug le twin ledger records initiate garyo.,duplicate_payment,code_switched,true,neutral,medium
+6778,PayPal ra credit card dubai bata simultaneously payment capture vayo.,duplicate_payment,code_switched,true,formal,hard
+6779,identical invoice number ma dubai choti debit notification aayo.,duplicate_payment,code_switched,true,informal,medium
+6780,overlapping holding charge void garna dispute file kasari garne?,duplicate_payment,code_switched,true,formal,medium
+6781,The fingerprint scanner integration is throwing a null pointer exception.,account_login,english,false,formal,hard
+6782,The corporate SAML payload is continuously rejected during SSO login.,account_login,english,false,neutral,medium
+6783,won't open my profile,account_login,english,false,informal,easy
+6784,Has your security firewall restricted authentications from this foreign IP?,account_login,english,false,formal,medium
+6785,फिंगरप्रिन्ट स्क्यानर इन्टिग्रेसनले नल पोइन्टर एक्सेप्सन फालिरहेको छ।,account_login,nepali_devanagari,false,formal,hard
+6786,एसएसओ लगइन गर्दा कर्पोरेट एसएएमएल पेलोड निरन्तर रूपमा अस्वीकार भइरहेको छ।,account_login,nepali_devanagari,false,neutral,medium
+6787,मेरो प्रोफाइल नै खुल्दैन,account_login,nepali_devanagari,false,informal,easy
+6788,के तपाईंको सुरक्षा फायरवालले यो विदेशी आइपीबाट हुने प्रमाणीकरण रोकेको छ?,account_login,nepali_devanagari,false,formal,medium
+6789,fingerprint scanner integration le null pointer exception faliraheko xa.,account_login,romanized_nepali,false,formal,hard
+6790,SSO login garda corporate SAML payload nirantar rupma aswikar vairai ko xa.,account_login,romanized_nepali,false,neutral,medium
+6791,mero profile nai khuldaina,account_login,romanized_nepali,false,informal,easy
+6792,k tapaiko suraksha firewall le yo bideshi IP bata hune pramanikaran rokeko xa?,account_login,romanized_nepali,false,formal,medium
+6793,fingerprint scanner integration le explicitly null pointer exception throw gariracha.,account_login,code_switched,true,formal,hard
+6794,SSO login ko bela corporate SAML payload continuously rejected bhairacha.,account_login,code_switched,true,neutral,medium
+6795,won't open my profile app reinstall garda ni.,account_login,code_switched,true,informal,easy
+6796,foreign IP bata authentications security firewall le restrict gareko ho?,account_login,code_switched,true,formal,medium
+6797,MFA token delivery ma huge delay cha authentication timeout directly trigger huncha.,account_login,code_switched,true,neutral,medium
+6798,biometric update pachi facial ID consistently fail huna thalyo app ma.,account_login,code_switched,true,formal,hard
+6799,remember me tick garda infinite redirection loop repeatedly aairacha.,account_login,code_switched,true,informal,medium
+6800,cryptographic session token login submit garda always invalid evaluates huncha.,account_login,code_switched,true,formal,medium
+6801,The temporary authorization link expired instantaneously upon invocation.,password_reset,english,false,formal,hard
+6802,"I checked my primary inbox and spam, but the OTP is missing.",password_reset,english,false,neutral,medium
+6803,cant change pass,password_reset,english,false,informal,easy
+6804,Please clarify the exact alphanumeric criteria preventing my password update.,password_reset,english,false,formal,medium
+6805,अस्थायी प्रमाणीकरण लिंक क्लिक गर्नेबित्तिकै तुरुन्तै म्याद सकियो।,password_reset,nepali_devanagari,false,formal,hard
+6806,मैले मेरो मुख्य इनबक्स र स्प्याम दुवै हेरेँ तर ओटीपी कतै छैन।,password_reset,nepali_devanagari,false,neutral,medium
+6807,पासवर्ड फेर्नै मिलेन,password_reset,nepali_devanagari,false,informal,easy
+6808,मेरो पासवर्ड अपडेट गर्न नदिने ठ्याक्कै कुन अल्फा-न्युमेरिक मापदण्ड हो स्पष्ट पार्नुहोस्।,password_reset,nepali_devanagari,false,formal,medium
+6809,asthayi pramanikaran link click garnebittikai turuntai myad sakiyo.,password_reset,romanized_nepali,false,formal,hard
+6810,maile mero mukhya inbox ra spam dubai here tara OTP katai xaina.,password_reset,romanized_nepali,false,neutral,medium
+6811,password fernai milena,password_reset,romanized_nepali,false,informal,easy
+6812,mero password update garna nadine thyakkai kun alpha-numeric mapadanda ho spasta parnuhos.,password_reset,romanized_nepali,false,formal,medium
+6813,temporary authorization link invocation garda instantaneously expired bhayo.,password_reset,code_switched,true,formal,hard
+6814,primary inbox and spam check gare but OTP explicitly missing cha.,password_reset,code_switched,true,neutral,medium
+6815,cant change pass link error aayo yar.,password_reset,code_switched,true,informal,easy
+6816,password update prevent garne exact alphanumeric criteria clarify garnus.,password_reset,code_switched,true,formal,medium
+6817,recovery URL ma embedded cryptographic salt malformed vayera validation fail bhayo.,password_reset,code_switched,true,neutral,medium
+6818,security questions block bhayo over-limit attempts le alternate override possible cha?,password_reset,code_switched,true,formal,hard
+6819,phone number change bhayo SMS pin aayena secondary email ma token pathau.,password_reset,code_switched,true,informal,medium
+6820,admin verification bata manually account recovery initiate garna milcha?,password_reset,code_switched,true,formal,medium
+6821,My credentials were inadvertently blacklisted when traveling abroad.,account_locked,english,false,formal,hard
+6822,The anti-fraud protocol locked me out after I changed my bank card.,account_locked,english,false,neutral,medium
+6823,acc blocked help,account_locked,english,false,informal,easy
+6824,"Once my government ID is verified, how quickly is the suspension removed?",account_locked,english,false,formal,medium
+6825,विदेश भ्रमण गर्दा मेरो विवरणहरू अन्जानमा ब्ल्याकलिस्ट गरियो।,account_locked,nepali_devanagari,false,formal,hard
+6826,मैले मेरो बैंक कार्ड परिवर्तन गरेपछि एन्टी-फ्रड प्रोटोकलले मलाई लक गर्‍यो।,account_locked,nepali_devanagari,false,neutral,medium
+6827,खाता ब्लक भयो मद्दत गर,account_locked,nepali_devanagari,false,informal,easy
+6828,मेरो सरकारी परिचयपत्र प्रमाणित भएपछि निलम्बन कति छिटो हटाइन्छ?,account_locked,nepali_devanagari,false,formal,medium
+6829,bidesh bhraman garda mero biwaranharu anjanma blacklist gariyo.,account_locked,romanized_nepali,false,formal,hard
+6830,maile mero bank card pariwartan garepaxi anti-fraud protocol le malai lock garyo.,account_locked,romanized_nepali,false,neutral,medium
+6831,khata block vayo maddat gara,account_locked,romanized_nepali,false,informal,easy
+6832,mero sarkari parichayapatra pramanit vayepaxi nilamban kati chito hatainxa?,account_locked,romanized_nepali,false,formal,medium
+6833,traveling abroad garda mero credentials inadvertently blacklisted bhayo.,account_locked,code_switched,true,formal,hard
+6834,bank card change gareko anti-fraud protocol le account strictly locked garyo.,account_locked,code_switched,true,neutral,medium
+6835,acc blocked help urgent order place garnu thiyo.,account_locked,code_switched,true,informal,easy
+6836,government ID verified vayepachi administrative suspension kati quickly removed huncha?,account_locked,code_switched,true,formal,medium
+6837,erroneous heuristic trigger le wholesale account permanently restrict garyo.,account_locked,code_switched,true,neutral,medium
+6838,unresolved chargeback issue le preemptively profile freeze vako cha unfreeze garnus.,account_locked,code_switched,true,formal,hard
+6839,multiple failed logins bhayo tara password sahi thiyo account kholdeu.,account_locked,code_switched,true,informal,medium
+6840,Terms of Service compliance review ko appeal formally kasari submit garne?,account_locked,code_switched,true,formal,medium
+6841,Under what strict conditions does the manufacturer's warranty become void?,product_information,english,false,formal,hard
+6842,Can you confirm if the soles of these running shoes are memory foam?,product_information,english,false,neutral,medium
+6843,is it battery operated,product_information,english,false,informal,easy
+6844,Will the comprehensive warranty policy cover spontaneous power surges?,product_information,english,false,formal,medium
+6845,निर्माताको वारेन्टी कस्ता कडा सर्तहरूमा पूर्ण रूपमा खारेज हुन्छ?,product_information,nepali_devanagari,false,formal,hard
+6846,के यी दौडने जुत्ताको सोल मेमोरी फोम हो भनेर पुष्टि गर्न सक्नुहुन्छ?,product_information,nepali_devanagari,false,neutral,medium
+6847,ब्याट्रीबाट चल्छ कि,product_information,nepali_devanagari,false,informal,easy
+6848,के विस्तृत वारेन्टी नीतिले अचानक हुने पावर सर्जलाई कभर गर्छ?,product_information,nepali_devanagari,false,formal,medium
+6849,nirmata ko warranty kasta kada sartaharu ma purna rupma kharej hunxa?,product_information,romanized_nepali,false,formal,hard
+6850,k yi daudane jutta ko sole memory foam ho vanera pusti garna saknuhunxa?,product_information,romanized_nepali,false,neutral,medium
+6851,battery bata chalxa ki,product_information,romanized_nepali,false,informal,easy
+6852,k bistrit warranty niti le achanak hune power surge lai cover garxa?,product_information,romanized_nepali,false,formal,medium
+6853,kun strict conditions ma manufacturer's warranty completely void huncha?,product_information,code_switched,true,formal,hard
+6854,running shoes ko soles accurately memory foam ho ki nai confirm garnus.,product_information,code_switched,true,neutral,medium
+6855,is it battery operated ki wall plug model ho?,product_information,code_switched,true,informal,easy
+6856,comprehensive warranty policy le spontaneous power surges cover garcha?,product_information,code_switched,true,formal,medium
+6857,aerodynamic drag coefficient ra load-bearing capacity spec sheet ma kati cha?,product_information,code_switched,true,neutral,medium
+6858,cruelty-free ingredients ra vegan tags specifically packaging ma listed cha ki nai?,product_information,code_switched,true,formal,hard
+6859,battery removable cha ki sealed design ho purely?,product_information,code_switched,true,informal,medium
+6860,spatial dimensions exactly delineate garnus for architectural planning.,product_information,code_switched,true,formal,medium
+6861,Will the regional distributor replenish the stock shortly after the new year?,product_availability,english,false,formal,hard
+6862,"The holiday bundle says sold out, are there plans for a quick restock?",product_availability,english,false,neutral,medium
+6863,any left at all,product_availability,english,false,informal,easy
+6864,Could you check if any suburban branch holds leftover residual inventory?,product_availability,english,false,formal,medium
+6865,के क्षेत्रीय वितरकले नयाँ वर्ष लगत्तै स्टक फेरि भर्नेछ?,product_availability,nepali_devanagari,false,formal,hard
+6866,"होलिडे बन्डल सकिएको देखाउँछ, के छिट्टै फेरि स्टक ल्याउने योजना छ?",product_availability,nepali_devanagari,false,neutral,medium
+6867,केही बाँकी छ त,product_availability,nepali_devanagari,false,informal,easy
+6868,कुनै सहरी शाखामा बचेखुचेको स्टक बाँकी छ कि जाँच गर्न सक्नुहुन्छ?,product_availability,nepali_devanagari,false,formal,medium
+6869,k kshetriya bitarak le naya barsa lagattai stock feri bharnecha?,product_availability,romanized_nepali,false,formal,hard
+6870,"holiday bundle sakieko dekhauxa, k chittai feri stock lyaune yojana xa?",product_availability,romanized_nepali,false,neutral,medium
+6871,kehi baki xa ta,product_availability,romanized_nepali,false,informal,easy
+6872,kunai sahari shakha ma bachekhucheko stock baki xa ki janch garna saknuhunxa?,product_availability,romanized_nepali,false,formal,medium
+6873,new year pachi regional distributor le stock shortly replenish garcha?,product_availability,code_switched,true,formal,hard
+6874,holiday bundle sold out cha quick restock planning ma cha ki nai?,product_availability,code_switched,true,neutral,medium
+6875,any left at all ki warehouse nai empty vayo.,product_availability,code_switched,true,informal,easy
+6876,suburban branch ma leftover residual inventory cha ki check garnus please.,product_availability,code_switched,true,formal,medium
+6877,microchip shortage le entirely production line halt bhako ho yo model ko?,product_availability,code_switched,true,neutral,medium
+6878,corporate backorder allocation possible cha unavailable networking switch ko lagi?,product_availability,code_switched,true,formal,hard
+6879,seasonal edition ko pre-booking kaile bata open huncha?,product_availability,code_switched,true,informal,medium
+6880,notify me alert completely malfunctioning cha alternative updates provide garnus.,product_availability,code_switched,true,formal,medium
+6881,I strictly request bypassing this rudimentary menu to file a formal complaint.,human_agent_request,english,false,formal,hard
+6882,My combined return and exchange issue requires an actual representative.,human_agent_request,english,false,neutral,medium
+6883,give me a person,human_agent_request,english,false,informal,easy
+6884,Please severe this bot link and connect me to a managerial representative.,human_agent_request,english,false,formal,medium
+6885,म औपचारिक उजुरी दर्ता गर्न यो साधारण मेनु बाइपास गर्न कडा अनुरोध गर्दछु।,human_agent_request,nepali_devanagari,false,formal,hard
+6886,मेरो रिटर्न र एक्सचेन्ज जोडिएको समस्याको लागि एक वास्तविक प्रतिनिधि आवश्यक छ।,human_agent_request,nepali_devanagari,false,neutral,medium
+6887,मान्छेलाई देऊ कल,human_agent_request,nepali_devanagari,false,informal,easy
+6888,कृपया यो बोट लिंक विच्छेद गरी मलाई व्यवस्थापकीय प्रतिनिधिसँग जोड्नुहोस्।,human_agent_request,nepali_devanagari,false,formal,medium
+6889,ma aupacharik ujuri darta garna yo sadharan menu bypass garna kada anurodh gardaxu.,human_agent_request,romanized_nepali,false,formal,hard
+6890,mero return ra exchange jodieko samasya ko lagi ek wastawik pratinidhi aawashyak xa.,human_agent_request,romanized_nepali,false,neutral,medium
+6891,manxe lai deu call,human_agent_request,romanized_nepali,false,informal,easy
+6892,kripaya yo bot link bichchhed gari malai byawasthapakkiya pratinidhi sanga jodnuhos.,human_agent_request,romanized_nepali,false,formal,medium
+6893,formal complaint file garna this rudimentary menu strictly bypass garna request garchu.,human_agent_request,code_switched,true,formal,hard
+6894,combined return and exchange issue le actual representative strongly require garcha.,human_agent_request,code_switched,true,neutral,medium
+6895,give me a person robot is entirely useless here.,human_agent_request,code_switched,true,informal,easy
+6896,bot link severe garera managerial representative lai connect garnus promptly.,human_agent_request,code_switched,true,formal,medium
+6897,automated triage completely fail bhayo complex situation bujhna senior arbiter chahiyo.,human_agent_request,code_switched,true,neutral,medium
+6898,escalation matrix follow garera principal ombudsman lai invoke garnus right away.,human_agent_request,code_switched,true,formal,hard
+6899,interactive voice menu skip garera human operator lai route gara chito.,human_agent_request,code_switched,true,informal,medium
+6900,bot le generic FAQ throw gariracha support specialist actually intervene garnu paryo.,human_agent_request,code_switched,true,formal,medium

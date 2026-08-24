@@ -1,0 +1,872 @@
+id,text,intent,language,is_code_switched,formality,difficulty
+9520,3D Secure prompt timeout bhayo explicitly delayed SMS OTP le.,payment_failed,code_switched,True,neutral,medium
+8717,3D Secure prompt timeout bhayo explicitly delayed SMS OTP le.,payment_failed,code_switched,True,neutral,hard
+9117,3D Secure prompt timeout bhayo explicitly delayed SMS OTP le.,payment_failed,code_switched,True,neutral,hard
+9540,72 hours formally pass vayepachi mandatory hold strictly auto-clear huncha?,payment_pending,code_switched,True,neutral,medium
+9140,72 hours formally pass vayepachi mandatory hold strictly auto-clear huncha?,payment_pending,code_switched,True,neutral,medium
+8340,72 hours formally pass vayepachi mandatory hold strictly auto-clear huncha?,payment_pending,code_switched,True,neutral,medium
+8740,72 hours formally pass vayepachi mandatory hold strictly auto-clear huncha?,payment_pending,code_switched,True,neutral,medium
+9221,A preemptive algorithmic risk detection has unjustly crippled my legitimate organizational profile.,account_locked,english,False,formal,hard
+7621,A preemptive algorithmic risk detection has unjustly crippled my legitimate organizational profile.,account_locked,english,False,formal,hard
+8821,A preemptive algorithmic risk detection has unjustly crippled my legitimate organizational profile.,account_locked,english,False,formal,hard
+9499,Acquirer Reference Number trace garda invalid error exclusively falcha.,refund_status,code_switched,True,formal,hard
+8699,Acquirer Reference Number trace garda invalid error exclusively falcha.,refund_status,code_switched,True,formal,hard
+9099,Acquirer Reference Number trace garda invalid error exclusively falcha.,refund_status,code_switched,True,formal,hard
+8857,aerodynamic coefficient ko exact tolerance explicitly specify gareko cha instruction manual ma?,product_information,code_switched,True,neutral,hard
+9257,aerodynamic coefficient ko exact tolerance explicitly specify gareko cha instruction manual ma?,product_information,code_switched,True,neutral,hard
+7657,aerodynamic coefficient ko exact tolerance explicitly specify gareko cha instruction manual ma?,product_information,code_switched,True,neutral,hard
+9660,aerodynamic coefficient ko exact tolerance explicitly specify gareko cha instruction manual ma?,product_information,code_switched,True,neutral,medium
+3300,AI support stop garera actual support staff assign gara.,human_agent_request,code_switched,True,neutral,medium
+2900,AI support stop garera actual support staff assign gara.,human_agent_request,code_switched,True,neutral,medium
+9260,allergens cross-contamination formally packaging warning ma present cha ki perfectly safe ho?,product_information,code_switched,True,neutral,medium
+8860,allergens cross-contamination formally packaging warning ma present cha ki perfectly safe ho?,product_information,code_switched,True,neutral,medium
+7660,allergens cross-contamination formally packaging warning ma present cha ki perfectly safe ho?,product_information,code_switched,True,neutral,medium
+9161,An asynchronous threading anomaly arbitrarily triggered consecutive dual deductions.,duplicate_payment,english,False,formal,hard
+8761,An asynchronous threading anomaly arbitrarily triggered consecutive dual deductions.,duplicate_payment,english,False,formal,hard
+9139,anti-fraud screening systematically high-value transaction strictly reserve garyo.,payment_pending,code_switched,True,formal,hard
+8739,anti-fraud screening systematically high-value transaction strictly reserve garyo.,payment_pending,code_switched,True,formal,hard
+7939,anti-fraud screening systematically high-value transaction strictly reserve garyo.,payment_pending,code_switched,True,formal,hard
+9539,anti-fraud screening systematically high-value transaction strictly reserve garyo.,payment_pending,code_switched,True,formal,hard
+2863,any left in stock,product_availability,english,False,informal,easy
+2463,any left in stock,product_availability,english,False,informal,easy
+8863,any of these left,product_availability,english,False,informal,easy
+8463,any of these left,product_availability,english,False,informal,easy
+9263,any of these left,product_availability,english,False,informal,easy
+9275,any of these left globally purely distinctly strongly thoroughly sold out haina?,product_availability,code_switched,True,informal,easy
+8875,any of these left globally purely distinctly strongly thoroughly sold out haina?,product_availability,code_switched,True,informal,easy
+8475,any of these left globally purely distinctly strongly thoroughly sold out haina?,product_availability,code_switched,True,informal,easy
+2861,Are there any impending constraints on the supply of this raw material?,product_availability,english,False,formal,hard
+2461,Are there any impending constraints on the supply of this raw material?,product_availability,english,False,formal,hard
+8773,asynchronous threading anomaly le consecutive dual deductions arbitrarily trigger garyo.,duplicate_payment,code_switched,True,formal,hard
+9173,asynchronous threading anomaly le consecutive dual deductions arbitrarily trigger garyo.,duplicate_payment,code_switched,True,formal,hard
+7636,automated account ban repudiate garna definitive formal actions exactly k take garnu parcha?,account_locked,code_switched,True,formal,medium
+8836,automated account ban repudiate garna definitive formal actions exactly k take garnu parcha?,account_locked,code_switched,True,formal,medium
+9236,automated account ban repudiate garna definitive formal actions exactly k take garnu parcha?,account_locked,code_switched,True,formal,medium
+3295,automated sequence terminate garera executive lai patch through garnus.,human_agent_request,code_switched,True,formal,medium
+2895,automated sequence terminate garera executive lai patch through garnus.,human_agent_request,code_switched,True,formal,medium
+2894,automated triage fail bhairacha to grasp my nuanced issue.,human_agent_request,code_switched,True,neutral,medium
+3294,automated triage fail bhairacha to grasp my nuanced issue.,human_agent_request,code_switched,True,neutral,medium
+9294,"automated workflow deeply distinctly lacks context, I genuinely explicitly profoundly need a human operator.",human_agent_request,code_switched,True,neutral,medium
+8894,"automated workflow deeply distinctly lacks context, I genuinely explicitly profoundly need a human operator.",human_agent_request,code_switched,True,neutral,medium
+8494,"automated workflow deeply distinctly lacks context, I genuinely explicitly profoundly need a human operator.",human_agent_request,code_switched,True,neutral,medium
+2478,available hune bittikai registered email ma notify garna saknuhuncha?,product_availability,code_switched,True,neutral,medium
+2878,available hune bittikai registered email ma notify garna saknuhuncha?,product_availability,code_switched,True,neutral,medium
+9258,battery sealed ho ki genuinely user removable design implement garya cha?,product_information,code_switched,True,informal,medium
+9658,battery sealed ho ki genuinely user removable design implement garya cha?,product_information,code_switched,True,informal,medium
+7658,battery sealed ho ki genuinely user removable design implement garya cha?,product_information,code_switched,True,informal,medium
+8858,battery sealed ho ki genuinely user removable design implement garya cha?,product_information,code_switched,True,informal,medium
+8050,bhitri LED display le aafno chamak aafai milauxa ki milaudaina vanera malai pakka garnu xa.,product_information,romanized_nepali,False,neutral,medium
+9250,bhitri LED display le aafno chamak aafai milauxa ki milaudaina vanera malai pakka garnu xa.,product_information,romanized_nepali,False,neutral,medium
+8850,bhitri LED display le aafno chamak aafai milauxa ki milaudaina vanera malai pakka garnu xa.,product_information,romanized_nepali,False,neutral,medium
+8750,bikreta le karobar aswikar gareko hunale paisa firta aayo bhani mero bank le vanxa.,payment_reversed,romanized_nepali,False,neutral,medium
+9150,bikreta le karobar aswikar gareko hunale paisa firta aayo bhani mero bank le vanxa.,payment_reversed,romanized_nepali,False,neutral,medium
+2897,bot le loop ma fasayo escalation to higher authority is needed.,human_agent_request,code_switched,True,neutral,hard
+3297,bot le loop ma fasayo escalation to higher authority is needed.,human_agent_request,code_switched,True,neutral,hard
+9100,business days skip vayera refund timeline breach bhayo.,refund_status,code_switched,True,neutral,medium
+8700,business days skip vayera refund timeline breach bhayo.,refund_status,code_switched,True,neutral,medium
+9204,Can you elucidate the unlisted policy rules preventing my new password submission?,password_reset,english,False,formal,medium
+8804,Can you elucidate the unlisted policy rules preventing my new password submission?,password_reset,english,False,formal,medium
+7604,Can you elucidate the unlisted policy rules preventing my new password submission?,password_reset,english,False,formal,medium
+2464,Can you notify my registered email the moment this becomes available?,product_availability,english,False,neutral,medium
+2864,Can you notify my registered email the moment this becomes available?,product_availability,english,False,neutral,medium
+2842,Can you tell me if the watch strap is easily interchangeable?,product_information,english,False,neutral,medium
+2442,Can you tell me if the watch strap is easily interchangeable?,product_information,english,False,neutral,medium
+9079,cancellation explicitly approved cha explicitly exclusively monetary restitution issue garnus.,refund_request,code_switched,True,formal,hard
+8679,cancellation explicitly approved cha explicitly exclusively monetary restitution issue garnus.,refund_request,code_switched,True,formal,hard
+9103,card blocked again,payment_failed,english,False,informal,easy
+8703,card blocked again,payment_failed,english,False,informal,easy
+9115,card blocked again payment fail vayo.,payment_failed,code_switched,True,informal,easy
+8715,card blocked again payment fail vayo.,payment_failed,code_switched,True,informal,easy
+9111,card feri block vayo,payment_failed,romanized_nepali,False,informal,easy
+8711,card feri block vayo,payment_failed,romanized_nepali,False,informal,easy
+7653,casing ko intrinsic thermodynamic properties le explicitly internal overheating reliably prevent garcha?,product_information,code_switched,True,formal,hard
+9657,casing ko intrinsic thermodynamic properties le explicitly internal overheating reliably prevent garcha?,product_information,code_switched,True,neutral,hard
+9253,casing ko intrinsic thermodynamic properties le explicitly internal overheating reliably prevent garcha?,product_information,code_switched,True,formal,hard
+8853,casing ko intrinsic thermodynamic properties le explicitly internal overheating reliably prevent garcha?,product_information,code_switched,True,formal,hard
+9193,central identity management node le valid OAuth token outright reject gariracha.,account_login,code_switched,True,formal,hard
+8793,central identity management node le valid OAuth token outright reject gariracha.,account_login,code_switched,True,formal,hard
+7593,central identity management node le valid OAuth token outright reject gariracha.,account_login,code_switched,True,formal,hard
+2891,chat ma kohi manxe aau ta.,human_agent_request,romanized_nepali,False,informal,easy
+3291,chat ma kohi manxe aau ta.,human_agent_request,romanized_nepali,False,informal,easy
+2896,chat ma real person lai lyau kasto AI hola.,human_agent_request,code_switched,True,informal,easy
+3296,chat ma real person lai lyau kasto AI hola.,human_agent_request,code_switched,True,informal,easy
+9503,checkout error again,payment_failed,english,False,informal,easy
+4703,checkout error again,payment_failed,english,False,informal,easy
+8753,clearing network le anomaly detection cite gardai unilaterally clawback trigger garyo.,payment_reversed,code_switched,True,formal,hard
+9153,clearing network le anomaly detection cite gardai unilaterally clawback trigger garyo.,payment_reversed,code_switched,True,formal,hard
+7937,compliance review thoroughly cross-border remittance explicitly stuck garayechha.,payment_pending,code_switched,True,neutral,hard
+8737,compliance review thoroughly cross-border remittance explicitly stuck garayechha.,payment_pending,code_switched,True,neutral,hard
+9137,compliance review thoroughly cross-border remittance explicitly stuck garayechha.,payment_pending,code_switched,True,neutral,hard
+9537,compliance review thoroughly cross-border remittance explicitly stuck garayechha.,payment_pending,code_switched,True,neutral,hard
+8733,corporate transfer le severe defalcation check explicitly trigger garera funds hold garyo.,payment_pending,code_switched,True,formal,hard
+9133,corporate transfer le severe defalcation check explicitly trigger garera funds hold garyo.,payment_pending,code_switched,True,formal,hard
+8784,Could you check if my IP from the local university network is shadow-banned?,account_login,english,False,formal,medium
+7584,Could you check if my IP from the local university network is shadow-banned?,account_login,english,False,formal,medium
+9184,Could you check if my IP from the local university network is shadow-banned?,account_login,english,False,formal,medium
+9062,Could you please refund the installation charges since the technician never showed up?,refund_request,english,False,neutral,medium
+8662,Could you please refund the installation charges since the technician never showed up?,refund_request,english,False,neutral,medium
+2845,Could you provide the exact power consumption specs in standby mode?,product_information,english,False,formal,medium
+2445,Could you provide the exact power consumption specs in standby mode?,product_information,english,False,formal,medium
+8724,Could you specify the typical wait duration for manual escrow reconciliation?,payment_pending,english,False,formal,medium
+7924,Could you specify the typical wait duration for manual escrow reconciliation?,payment_pending,english,False,formal,medium
+9124,Could you specify the typical wait duration for manual escrow reconciliation?,payment_pending,english,False,formal,medium
+9097,cross-border remission officially clear bhayo ki intermediate node ma adkiyo?,refund_status,code_switched,True,neutral,hard
+8697,cross-border remission officially clear bhayo ki intermediate node ma adkiyo?,refund_status,code_switched,True,neutral,hard
+9500,cross-border remission officially clear bhayo ki intermediate node ma adkiyo?,refund_status,code_switched,True,neutral,medium
+9134,crypto transaction complete gare but checkout portal reads pending confirmation.,payment_pending,code_switched,True,neutral,medium
+9538,crypto transaction complete gare but checkout portal reads pending confirmation.,payment_pending,code_switched,True,informal,medium
+7934,crypto transaction complete gare but checkout portal reads pending confirmation.,payment_pending,code_switched,True,neutral,medium
+8734,crypto transaction complete gare but checkout portal reads pending confirmation.,payment_pending,code_switched,True,neutral,medium
+8819,cryptographic token loading ko exceptionally immediate stage ma timeout properly trigger bhayo.,password_reset,code_switched,True,formal,hard
+9619,cryptographic token loading ko exceptionally immediate stage ma timeout properly trigger bhayo.,password_reset,code_switched,True,formal,hard
+9219,cryptographic token loading ko exceptionally immediate stage ma timeout properly trigger bhayo.,password_reset,code_switched,True,formal,hard
+7619,cryptographic token loading ko exceptionally immediate stage ma timeout properly trigger bhayo.,password_reset,code_switched,True,formal,hard
+8678,defective merchandise return vayo aba full reimbursement initiate gara.,refund_request,code_switched,True,informal,medium
+9078,defective merchandise return vayo aba full reimbursement initiate gara.,refund_request,code_switched,True,informal,medium
+9076,delivery significantly later than promised vayo I want a partial refund.,refund_request,code_switched,True,formal,medium
+8676,delivery significantly later than promised vayo I want a partial refund.,refund_request,code_switched,True,formal,medium
+9072,delivery wacha garieko vanda dherai dhilo vayekole ma aanshik refund chahanxu.,refund_request,romanized_nepali,False,formal,medium
+8672,delivery wacha garieko vanda dherai dhilo vayekole ma aanshik refund chahanxu.,refund_request,romanized_nepali,False,formal,medium
+9296,digital menu permanently bypass garera session senior supervisor lai exclusively thoroughly patch garnus.,human_agent_request,code_switched,True,formal,medium
+8896,digital menu permanently bypass garera session senior supervisor lai exclusively thoroughly patch garnus.,human_agent_request,code_switched,True,formal,medium
+8496,digital menu permanently bypass garera session senior supervisor lai exclusively thoroughly patch garnus.,human_agent_request,code_switched,True,formal,medium
+8500,direct distinctly securely highly formally precisely exclusively strictly specifically definitely actively completely deeply absolutely line entirely.,human_agent_request,code_switched,True,neutral,medium
+8900,direct distinctly securely highly formally precisely exclusively strictly specifically definitely actively completely deeply absolutely line entirely.,human_agent_request,code_switched,True,neutral,medium
+9700,direct distinctly securely highly formally precisely exclusively strictly specifically definitely actively completely deeply absolutely line entirely.,human_agent_request,code_switched,True,neutral,medium
+9300,direct distinctly securely highly formally precisely exclusively strictly specifically definitely actively completely deeply absolutely line entirely.,human_agent_request,code_switched,True,neutral,medium
+9244,Does the explicit manufacturer warranty provide unmitigated coverage for thermal damage?,product_information,english,False,formal,medium
+8844,Does the explicit manufacturer warranty provide unmitigated coverage for thermal damage?,product_information,english,False,formal,medium
+8044,Does the explicit manufacturer warranty provide unmitigated coverage for thermal damage?,product_information,english,False,formal,medium
+7641,Does the intrinsic thermodynamic properties of this casing reliably prevent internal overheating?,product_information,english,False,formal,hard
+9241,Does the intrinsic thermodynamic properties of this casing reliably prevent internal overheating?,product_information,english,False,formal,hard
+8841,Does the intrinsic thermodynamic properties of this casing reliably prevent internal overheating?,product_information,english,False,formal,hard
+9163,double billed by mistake,duplicate_payment,english,False,informal,easy
+8763,double billed by mistake,duplicate_payment,english,False,informal,easy
+8775,double billed by mistake euta clear garnu.,duplicate_payment,code_switched,True,informal,easy
+9175,double billed by mistake euta clear garnu.,duplicate_payment,code_switched,True,informal,easy
+8874,"emerald version out of stock says, definitely restocking schedule confirm garna milcha?",product_availability,code_switched,True,neutral,medium
+9274,"emerald version out of stock says, definitely restocking schedule confirm garna milcha?",product_availability,code_switched,True,neutral,medium
+8474,"emerald version out of stock says, definitely restocking schedule confirm garna milcha?",product_availability,code_switched,True,neutral,medium
+8898,escalation explicitly exclusively actively absolutely perfectly strictly genuinely strongly formally completely explicitly thoroughly matrix.,human_agent_request,code_switched,True,informal,medium
+9698,escalation explicitly exclusively actively absolutely perfectly strictly genuinely strongly formally completely explicitly thoroughly matrix.,human_agent_request,code_switched,True,informal,medium
+9298,escalation explicitly exclusively actively absolutely perfectly strictly genuinely strongly formally completely explicitly thoroughly matrix.,human_agent_request,code_switched,True,informal,medium
+8498,escalation explicitly exclusively actively absolutely perfectly strictly genuinely strongly formally completely explicitly thoroughly matrix.,human_agent_request,code_switched,True,informal,medium
+9169,euta asynchronous threading samasya le swechchachari rupma lagatar dui patak rakam katyo.,duplicate_payment,romanized_nepali,False,formal,hard
+8769,euta asynchronous threading samasya le swechchachari rupma lagatar dui patak rakam katyo.,duplicate_payment,romanized_nepali,False,formal,hard
+9229,euta purba-anumanit algorithmic jokhim pahichan le anyayapurna rupma mero baidh sansthagat profile bigareko xa.,account_locked,romanized_nepali,False,formal,hard
+7629,euta purba-anumanit algorithmic jokhim pahichan le anyayapurna rupma mero baidh sansthagat profile bigareko xa.,account_locked,romanized_nepali,False,formal,hard
+8829,euta purba-anumanit algorithmic jokhim pahichan le anyayapurna rupma mero baidh sansthagat profile bigareko xa.,account_locked,romanized_nepali,False,formal,hard
+9256,explicit manufacturer warranty le thermal damage ko lagi unmitigated coverage provide garcha?,product_information,code_switched,True,formal,medium
+8856,explicit manufacturer warranty le thermal damage ko lagi unmitigated coverage provide garcha?,product_information,code_switched,True,formal,medium
+8056,explicit manufacturer warranty le thermal damage ko lagi unmitigated coverage provide garcha?,product_information,code_switched,True,formal,medium
+8780,failed explicitly throw garda gardai intensely double deduction accurately statement ma cha.,duplicate_payment,code_switched,True,neutral,medium
+8380,failed explicitly throw garda gardai intensely double deduction accurately statement ma cha.,duplicate_payment,code_switched,True,neutral,medium
+9180,failed explicitly throw garda gardai intensely double deduction accurately statement ma cha.,duplicate_payment,code_switched,True,neutral,medium
+9580,failed explicitly throw garda gardai intensely double deduction accurately statement ma cha.,duplicate_payment,code_switched,True,neutral,medium
+2860,features maa waterproof lekheko cha but kitna depth samma?,product_information,code_switched,True,informal,easy
+2460,features maa waterproof lekheko cha but kitna depth samma?,product_information,code_switched,True,informal,easy
+7599,foreign geolocation bata heavily access garda security block lagyo explicitly fix gara.,account_login,code_switched,True,formal,hard
+8799,foreign geolocation bata heavily access garda security block lagyo explicitly fix gara.,account_login,code_switched,True,formal,hard
+9199,foreign geolocation bata heavily access garda security block lagyo explicitly fix gara.,account_login,code_switched,True,formal,hard
+9599,foreign geolocation bata heavily access garda security block lagyo explicitly fix gara.,account_login,code_switched,True,formal,hard
+5823,forgot my fries,missing_item,english,False,informal,easy
+6623,forgot my fries,missing_item,english,False,informal,easy
+3293,formal notice serve gardaichu senior arbiter require cha this dispute lai.,human_agent_request,code_switched,True,formal,hard
+2893,formal notice serve gardaichu senior arbiter require cha this dispute lai.,human_agent_request,code_switched,True,formal,hard
+9017,fragile internal mechanics thoroughly shatter bhayo poor packaging protocol le.,damaged_item,code_switched,True,neutral,hard
+9420,fragile internal mechanics thoroughly shatter bhayo poor packaging protocol le.,damaged_item,code_switched,True,neutral,medium
+9559,fraud alert explicitly trigger vayera acquiring bank intensely return process garyo.,payment_reversed,code_switched,True,formal,hard
+7957,fraud alert explicitly trigger vayera acquiring bank intensely return process garyo.,payment_reversed,code_switched,True,neutral,hard
+9157,fraud alert explicitly trigger vayera acquiring bank intensely return process garyo.,payment_reversed,code_switched,True,neutral,hard
+8757,fraud alert explicitly trigger vayera acquiring bank intensely return process garyo.,payment_reversed,code_switched,True,neutral,hard
+9149,gadbadi pahichan ko karan clearing network le ekatarfi rupma pranaligat chargeback lagu garyo.,payment_reversed,romanized_nepali,False,formal,hard
+8749,gadbadi pahichan ko karan clearing network le ekatarfi rupma pranaligat chargeback lagu garyo.,payment_reversed,romanized_nepali,False,formal,hard
+9171,galtile double bill katyo,duplicate_payment,romanized_nepali,False,informal,easy
+8771,galtile double bill katyo,duplicate_payment,romanized_nepali,False,informal,easy
+8899,generic deeply purely highly specifically entirely effectively fundamentally perfectly formally explicitly thoroughly links totally stop.,human_agent_request,code_switched,True,formal,hard
+9299,generic deeply purely highly specifically entirely effectively fundamentally perfectly formally explicitly thoroughly links totally stop.,human_agent_request,code_switched,True,formal,hard
+9699,generic deeply purely highly specifically entirely effectively fundamentally perfectly formally explicitly thoroughly links totally stop.,human_agent_request,code_switched,True,formal,hard
+8499,generic deeply purely highly specifically entirely effectively fundamentally perfectly formally explicitly thoroughly links totally stop.,human_agent_request,code_switched,True,formal,hard
+9677,geopolitical distinctly explicitly heavily purely extensively semiconductor unequivocally comprehensively firmly scarcity cha?,product_availability,code_switched,True,neutral,hard
+8477,geopolitical distinctly explicitly heavily purely extensively semiconductor unequivocally comprehensively firmly scarcity cha?,product_availability,code_switched,True,neutral,hard
+8877,geopolitical distinctly explicitly heavily purely extensively semiconductor unequivocally comprehensively firmly scarcity cha?,product_availability,code_switched,True,neutral,hard
+9277,geopolitical distinctly explicitly heavily purely extensively semiconductor unequivocally comprehensively firmly scarcity cha?,product_availability,code_switched,True,neutral,hard
+9283,get me a human bro,human_agent_request,english,False,informal,easy
+8883,get me a human bro,human_agent_request,english,False,informal,easy
+8483,get me a human bro,human_agent_request,english,False,informal,easy
+8495,get me a human bro absolutely totally perfectly entirely heavily irritating cha.,human_agent_request,code_switched,True,informal,easy
+9295,get me a human bro absolutely totally perfectly entirely heavily irritating cha.,human_agent_request,code_switched,True,informal,easy
+8895,get me a human bro absolutely totally perfectly entirely heavily irritating cha.,human_agent_request,code_switched,True,informal,easy
+1283,give me a real person,human_agent_request,english,False,informal,easy
+7283,give me a real person,human_agent_request,english,False,informal,easy
+8663,give me my cash back,refund_request,english,False,informal,easy
+9063,give me my cash back,refund_request,english,False,informal,easy
+9075,give me my cash back quick chito.,refund_request,code_switched,True,informal,easy
+8675,give me my cash back quick chito.,refund_request,code_switched,True,informal,easy
+9143,got my money bounced,payment_reversed,english,False,informal,easy
+8743,got my money bounced,payment_reversed,english,False,informal,easy
+7943,got my money bounced,payment_reversed,english,False,informal,easy
+9155,got my money bounced automatically reason tha chaina.,payment_reversed,code_switched,True,informal,easy
+7955,got my money bounced automatically reason tha chaina.,payment_reversed,code_switched,True,informal,easy
+8755,got my money bounced automatically reason tha chaina.,payment_reversed,code_switched,True,informal,easy
+9261,Has the pervasive logistical bottleneck explicitly designated this premium model as obsolete?,product_availability,english,False,formal,hard
+8861,Has the pervasive logistical bottleneck explicitly designated this premium model as obsolete?,product_availability,english,False,formal,hard
+8461,Has the pervasive logistical bottleneck explicitly designated this premium model as obsolete?,product_availability,english,False,formal,hard
+8681,Has the primary treasury department confirmed the dispatch of my settlement ledger?,refund_status,english,False,formal,hard
+9081,Has the primary treasury department confirmed the dispatch of my settlement ledger?,refund_status,english,False,formal,hard
+2898,human supervisor lai line pass gara malai kura garnu cha.,human_agent_request,code_switched,True,informal,medium
+3298,human supervisor lai line pass gara malai kura garnu cha.,human_agent_request,code_switched,True,informal,medium
+3281,I am serving formal notice that I require a senior arbiter for this dispute.,human_agent_request,english,False,formal,hard
+2881,I am serving formal notice that I require a senior arbiter for this dispute.,human_agent_request,english,False,formal,hard
+8702,"I attempted a purchase, but it claims my billing address format is incorrect.",payment_failed,english,False,neutral,medium
+9102,"I attempted a purchase, but it claims my billing address format is incorrect.",payment_failed,english,False,neutral,medium
+9122,"I completed the crypto transaction, but the checkout portal reads pending confirmation.",payment_pending,english,False,neutral,medium
+7922,"I completed the crypto transaction, but the checkout portal reads pending confirmation.",payment_pending,english,False,neutral,medium
+8722,"I completed the crypto transaction, but the checkout portal reads pending confirmation.",payment_pending,english,False,neutral,medium
+8661,I emphatically pursue full pecuniary restitution following the provider's sheer incompetence.,refund_request,english,False,formal,hard
+9061,I emphatically pursue full pecuniary restitution following the provider's sheer incompetence.,refund_request,english,False,formal,hard
+8481,I imperatively mandate the immediate suspension of this algorithmic bot for a specialized ombudsman.,human_agent_request,english,False,formal,hard
+9281,I imperatively mandate the immediate suspension of this algorithmic bot for a specialized ombudsman.,human_agent_request,english,False,formal,hard
+8881,I imperatively mandate the immediate suspension of this algorithmic bot for a specialized ombudsman.,human_agent_request,english,False,formal,hard
+8842,I need to confirm if the internal LED display automatically adjusts its brightness.,product_information,english,False,neutral,medium
+8042,I need to confirm if the internal LED display automatically adjusts its brightness.,product_information,english,False,neutral,medium
+9242,I need to confirm if the internal LED display automatically adjusts its brightness.,product_information,english,False,neutral,medium
+3022,"I ordered a pack of five, but there are only four shirts inside.",missing_item,english,False,neutral,medium
+2222,"I ordered a pack of five, but there are only four shirts inside.",missing_item,english,False,neutral,medium
+9202,I requested a magic link but only received a blank email from your support domain.,password_reset,english,False,neutral,medium
+7602,I requested a magic link but only received a blank email from your support domain.,password_reset,english,False,neutral,medium
+8802,I requested a magic link but only received a blank email from your support domain.,password_reset,english,False,neutral,medium
+2862,"I see the shoes are out of stock, do you have any similar alternatives?",product_availability,english,False,neutral,medium
+2462,"I see the shoes are out of stock, do you have any similar alternatives?",product_availability,english,False,neutral,medium
+2899,I strictly demand a transfer to a live representative immediately.,human_agent_request,code_switched,True,formal,medium
+3299,I strictly demand a transfer to a live representative immediately.,human_agent_request,code_switched,True,formal,medium
+8664,I want a partial refund because the delivery was significantly later than promised.,refund_request,english,False,formal,medium
+9064,I want a partial refund because the delivery was significantly later than promised.,refund_request,english,False,formal,medium
+2444,I want to know if the software license is perpetual or subscription-based.,product_information,english,False,neutral,medium
+2844,I want to know if the software license is perpetual or subscription-based.,product_information,english,False,neutral,medium
+9162,I was charged separately on my PayPal and my linked debit card.,duplicate_payment,english,False,neutral,medium
+8762,I was charged separately on my PayPal and my linked debit card.,duplicate_payment,english,False,neutral,medium
+8778,identical invoice format ma twin billing notification distinctly receive gare.,duplicate_payment,code_switched,True,informal,medium
+9578,identical invoice format ma twin billing notification distinctly receive gare.,duplicate_payment,code_switched,True,informal,medium
+7978,identical invoice format ma twin billing notification distinctly receive gare.,duplicate_payment,code_switched,True,informal,medium
+9178,identical invoice format ma twin billing notification distinctly receive gare.,duplicate_payment,code_switched,True,informal,medium
+2456,industrial equipment ko maximum operating temperature k ho?,product_information,code_switched,True,formal,hard
+2856,industrial equipment ko maximum operating temperature k ho?,product_information,code_switched,True,formal,hard
+9297,interactive extremely exactly intensely voice severely firmly loop completely profoundly skip gara na.,human_agent_request,code_switched,True,neutral,hard
+8897,interactive extremely exactly intensely voice severely firmly loop completely profoundly skip gara na.,human_agent_request,code_switched,True,neutral,hard
+8098,interactive extremely exactly intensely voice severely firmly loop completely profoundly skip gara na.,human_agent_request,code_switched,True,informal,medium
+9697,interactive extremely exactly intensely voice severely firmly loop completely profoundly skip gara na.,human_agent_request,code_switched,True,neutral,hard
+9254,internal LED display automatically brightness adjust garcha ki nai confirm garnu cha.,product_information,code_switched,True,neutral,medium
+8054,internal LED display automatically brightness adjust garcha ki nai confirm garnu cha.,product_information,code_switched,True,neutral,medium
+8854,internal LED display automatically brightness adjust garcha ki nai confirm garnu cha.,product_information,code_switched,True,neutral,medium
+9459,international customs definitely reverse ship garda commercial invoice strictly mandatory huncha?,return_request,code_switched,True,formal,hard
+9059,international customs definitely reverse ship garda commercial invoice strictly mandatory huncha?,return_request,code_switched,True,formal,hard
+8716,international debit transactions prevent garne intrinsic system firewall cha ra?,payment_failed,code_switched,True,formal,medium
+7916,international debit transactions prevent garne intrinsic system firewall cha ra?,payment_failed,code_switched,True,formal,medium
+9116,international debit transactions prevent garne intrinsic system firewall cha ra?,payment_failed,code_switched,True,formal,medium
+9158,inventory explicitly stock out hunda auto-refund definitively invoke vayo.,payment_reversed,code_switched,True,informal,medium
+8758,inventory explicitly stock out hunda auto-refund definitively invoke vayo.,payment_reversed,code_switched,True,informal,medium
+7958,inventory explicitly stock out hunda auto-refund definitively invoke vayo.,payment_reversed,code_switched,True,informal,medium
+9558,inventory explicitly stock out hunda auto-refund definitively invoke vayo.,payment_reversed,code_switched,True,informal,medium
+2443,is it waterproof,product_information,english,False,informal,easy
+2843,is it waterproof,product_information,english,False,informal,easy
+1483,is the money sent,refund_status,english,False,informal,easy
+8283,is the money sent,refund_status,english,False,informal,easy
+8043,is the plastic hard,product_information,english,False,informal,easy
+9243,is the plastic hard,product_information,english,False,informal,easy
+8843,is the plastic hard,product_information,english,False,informal,easy
+9255,is the plastic hard ra durable break ta hudaina?,product_information,code_switched,True,informal,easy
+8055,is the plastic hard ra durable break ta hudaina?,product_information,code_switched,True,informal,easy
+8855,is the plastic hard ra durable break ta hudaina?,product_information,code_switched,True,informal,easy
+8464,Is there a procedural mechanism to formally reserve an unlisted corporate allocation?,product_availability,english,False,formal,medium
+9264,Is there a procedural mechanism to formally reserve an unlisted corporate allocation?,product_availability,english,False,formal,medium
+8864,Is there a procedural mechanism to formally reserve an unlisted corporate allocation?,product_availability,english,False,formal,medium
+8704,Is there an intrinsic system firewall preventing international debit transactions?,payment_failed,english,False,formal,medium
+9104,Is there an intrinsic system firewall preventing international debit transactions?,payment_failed,english,False,formal,medium
+7904,Is there an intrinsic system firewall preventing international debit transactions?,payment_failed,english,False,formal,medium
+9118,issuing bank le inherently foreign transaction flag garera block handiyo.,payment_failed,code_switched,True,informal,medium
+8718,issuing bank le inherently foreign transaction flag garera block handiyo.,payment_failed,code_switched,True,informal,medium
+2872,"jutta ta sakieko raixa, yastai mildojuldo aru kunai bikalpa xa timiharusanga?",product_availability,romanized_nepali,False,neutral,medium
+2472,"jutta ta sakieko raixa, yastai mildojuldo aru kunai bikalpa xa timiharusanga?",product_availability,romanized_nepali,False,neutral,medium
+7912,k antarrastriya debit karobar lai rokne kunai aantarik system firewall xa?,payment_failed,romanized_nepali,False,formal,medium
+9112,k antarrastriya debit karobar lai rokne kunai aantarik system firewall xa?,payment_failed,romanized_nepali,False,formal,medium
+8712,k antarrastriya debit karobar lai rokne kunai aantarik system firewall xa?,payment_failed,romanized_nepali,False,formal,medium
+9269,k byapak logistic awarodh le spasta rupma yo premium model lai aprachalit ghoshana gareko ho?,product_availability,romanized_nepali,False,formal,hard
+8869,k byapak logistic awarodh le spasta rupma yo premium model lai aprachalit ghoshana gareko ho?,product_availability,romanized_nepali,False,formal,hard
+8469,k byapak logistic awarodh le spasta rupma yo premium model lai aprachalit ghoshana gareko ho?,product_availability,romanized_nepali,False,formal,hard
+9089,k pramukh treasury vibhag le mero settlement ledger pathayeko pusti gareko xa?,refund_status,romanized_nepali,False,formal,hard
+8689,k pramukh treasury vibhag le mero settlement ledger pathayeko pusti gareko xa?,refund_status,romanized_nepali,False,formal,hard
+8852,k spasta nirmata warranty le thermal kshati ko lagi purna coverage pradan gardacha?,product_information,romanized_nepali,False,formal,medium
+9252,k spasta nirmata warranty le thermal kshati ko lagi purna coverage pradan gardacha?,product_information,romanized_nepali,False,formal,medium
+8052,k spasta nirmata warranty le thermal kshati ko lagi purna coverage pradan gardacha?,product_information,romanized_nepali,False,formal,medium
+8472,k suchikrit navayeko corporate aawantan lai aupacharik rupma reserve garne kunai prakriyagat sanyantra xa?,product_availability,romanized_nepali,False,formal,medium
+8872,k suchikrit navayeko corporate aawantan lai aupacharik rupma reserve garne kunai prakriyagat sanyantra xa?,product_availability,romanized_nepali,False,formal,medium
+9272,k suchikrit navayeko corporate aawantan lai aupacharik rupma reserve garne kunai prakriyagat sanyantra xa?,product_availability,romanized_nepali,False,formal,medium
+9249,k yas aawaran ko antarnihit thermodynamic gunharule bhitra ko atyadhik tatopan lai bharpardo rupma rokxa?,product_information,romanized_nepali,False,formal,hard
+8849,k yas aawaran ko antarnihit thermodynamic gunharule bhitra ko atyadhik tatopan lai bharpardo rupma rokxa?,product_information,romanized_nepali,False,formal,hard
+7649,k yas aawaran ko antarnihit thermodynamic gunharule bhitra ko atyadhik tatopan lai bharpardo rupma rokxa?,product_information,romanized_nepali,False,formal,hard
+2452,k yo ghadi ko fitta sajilai ferna milne khalko xa?,product_information,romanized_nepali,False,neutral,medium
+2852,k yo ghadi ko fitta sajilai ferna milne khalko xa?,product_information,romanized_nepali,False,neutral,medium
+2871,k yo kaccha padartha ko aapurti ma nikat bhawishya ma kunai awarodh aune sambhawana xa?,product_availability,romanized_nepali,False,formal,hard
+2471,k yo kaccha padartha ko aapurti ma nikat bhawishya ma kunai awarodh aune sambhawana xa?,product_availability,romanized_nepali,False,formal,hard
+9189,kendriya pahichan byawasthapan node le mero baidh OAuth token lai purna rupma aswikar gariraheko xa.,account_login,romanized_nepali,False,formal,hard
+8789,kendriya pahichan byawasthapan node le mero baidh OAuth token lai purna rupma aswikar gariraheko xa.,account_login,romanized_nepali,False,formal,hard
+7589,kendriya pahichan byawasthapan node le mero baidh OAuth token lai purna rupma aswikar gariraheko xa.,account_login,romanized_nepali,False,formal,hard
+9092,kripaya mero pending refund ko lagi thyakkai clearance sandarbha id sajha garnuhos.,refund_status,romanized_nepali,False,formal,medium
+7892,kripaya mero pending refund ko lagi thyakkai clearance sandarbha ID sajha garnuhos.,refund_status,romanized_nepali,False,formal,medium
+8692,kripaya mero pending refund ko lagi thyakkai clearance sandarbha id sajha garnuhos.,refund_status,romanized_nepali,False,formal,medium
+8772,kripaya mero statement bata atirikta pramanikaran hold turuntai prabhavhin banaunuhos.,duplicate_payment,romanized_nepali,False,formal,medium
+9172,kripaya mero statement bata atirikta pramanikaran hold turuntai prabhavhin banaunuhos.,duplicate_payment,romanized_nepali,False,formal,medium
+2892,kripaya yo automatic kurakani banda garera malai karyakari adhikarisanga jodnuhos.,human_agent_request,romanized_nepali,False,formal,medium
+3292,kripaya yo automatic kurakani banda garera malai karyakari adhikarisanga jodnuhos.,human_agent_request,romanized_nepali,False,formal,medium
+9292,kripaya yo digital menu lai sthayi rupma xodera mero session baristha supervisor lai transfer garnuhos.,human_agent_request,romanized_nepali,False,formal,medium
+8492,kripaya yo digital menu lai sthayi rupma xodera mero session baristha supervisor lai transfer garnuhos.,human_agent_request,romanized_nepali,False,formal,medium
+8892,kripaya yo digital menu lai sthayi rupma xodera mero session baristha supervisor lai transfer garnuhos.,human_agent_request,romanized_nepali,False,formal,medium
+9637,KYC document upload exceptionally fail vayera administrative suspension firmly placed cha.,account_locked,code_switched,True,neutral,hard
+7637,KYC document upload exceptionally fail vayera administrative suspension firmly placed cha.,account_locked,code_switched,True,neutral,hard
+9237,KYC document upload exceptionally fail vayera administrative suspension firmly placed cha.,account_locked,code_switched,True,neutral,hard
+8837,KYC document upload exceptionally fail vayera administrative suspension firmly placed cha.,account_locked,code_switched,True,neutral,hard
+8796,local university network bata mero IP shadow-banned cha ki explicitly check garnus.,account_login,code_switched,True,formal,medium
+9196,local university network bata mero IP shadow-banned cha ki explicitly check garnus.,account_login,code_switched,True,formal,medium
+7596,local university network bata mero IP shadow-banned cha ki explicitly check garnus.,account_login,code_switched,True,formal,medium
+8489,ma ek biseshagya lokpal ko lagi yo algorithmic bot lai turuntai nilamban garna aniwarya rupma aadesh dinxu.,human_agent_request,romanized_nepali,False,formal,hard
+8889,ma ek biseshagya lokpal ko lagi yo algorithmic bot lai turuntai nilamban garna aniwarya rupma aadesh dinxu.,human_agent_request,romanized_nepali,False,formal,hard
+9289,ma ek biseshagya lokpal ko lagi yo algorithmic bot lai turuntai nilamban garna aniwarya rupma aadesh dinxu.,human_agent_request,romanized_nepali,False,formal,hard
+2889,ma yo biwad ko lagi ek baristha madhyasthakarta aawashyak xa vanera aupacharik suchana didaixu.,human_agent_request,romanized_nepali,False,formal,hard
+3289,ma yo biwad ko lagi ek baristha madhyasthakarta aawashyak xa vanera aupacharik suchana didaixu.,human_agent_request,romanized_nepali,False,formal,hard
+8814,magic link request gareko but support domain bata explicitly blank email received bhayo.,password_reset,code_switched,True,neutral,medium
+9214,magic link request gareko but support domain bata explicitly blank email received bhayo.,password_reset,code_switched,True,neutral,medium
+7614,magic link request gareko but support domain bata explicitly blank email received bhayo.,password_reset,code_switched,True,neutral,medium
+7930,maile crypto transaction pura gare tara checkout portal ma pending confirmation lekheko xa.,payment_pending,romanized_nepali,False,neutral,medium
+8730,maile crypto transaction pura gare tara checkout portal ma pending confirmation lekheko xa.,payment_pending,romanized_nepali,False,neutral,medium
+9130,maile crypto transaction pura gare tara checkout portal ma pending confirmation lekheko xa.,payment_pending,romanized_nepali,False,neutral,medium
+9110,maile kharid garna khoje tara yesle mero billing thegana ko dhancha galat xa vanxa.,payment_failed,romanized_nepali,False,neutral,medium
+8710,maile kharid garna khoje tara yesle mero billing thegana ko dhancha galat xa vanxa.,payment_failed,romanized_nepali,False,neutral,medium
+9210,maile magic link mageko thiye tara tapaiko support domain bata khali email matra aayo.,password_reset,romanized_nepali,False,neutral,medium
+7610,maile magic link mageko thiye tara tapaiko support domain bata khali email matra aayo.,password_reset,romanized_nepali,False,neutral,medium
+8810,maile magic link mageko thiye tara tapaiko support domain bata khali email matra aayo.,password_reset,romanized_nepali,False,neutral,medium
+7630,maile mero dosro shipping thegana update garna khojepaxi application le mero login asakshyam garyo.,account_locked,romanized_nepali,False,neutral,medium
+8830,maile mero dosro shipping thegana update garna khojepaxi application le mero login asakshyam garyo.,account_locked,romanized_nepali,False,neutral,medium
+9230,maile mero dosro shipping thegana update garna khojepaxi application le mero login asakshyam garyo.,account_locked,romanized_nepali,False,neutral,medium
+9291,malai manxe deu bro,human_agent_request,romanized_nepali,False,informal,easy
+8891,malai manxe deu bro,human_agent_request,romanized_nepali,False,informal,easy
+8491,malai manxe deu bro,human_agent_request,romanized_nepali,False,informal,easy
+8770,malai mero paypal khata ra jodieko debit card duwaibata chuttachuttai charge gariyo.,duplicate_payment,romanized_nepali,False,neutral,medium
+9170,malai mero paypal khata ra jodieko debit card duwaibata chuttachuttai charge gariyo.,duplicate_payment,romanized_nepali,False,neutral,medium
+8370,malai mero paypal khata ra jodieko debit card duwaibata chuttachuttai charge gariyo.,duplicate_payment,romanized_nepali,False,neutral,medium
+7932,manual escrow milan ko lagi samanyataya kati samaya kurnuparxa batauna saknuhunxa?,payment_pending,romanized_nepali,False,formal,medium
+8732,manual escrow milan ko lagi samanyataya kati samaya kurnuparxa batauna saknuhunxa?,payment_pending,romanized_nepali,False,formal,medium
+9132,manual escrow milan ko lagi samanyataya kati samaya kurnuparxa batauna saknuhunxa?,payment_pending,romanized_nepali,False,formal,medium
+9136,manual escrow reconciliation ko typical wait duration specifically kati ho?,payment_pending,code_switched,True,formal,medium
+8736,manual escrow reconciliation ko typical wait duration specifically kati ho?,payment_pending,code_switched,True,formal,medium
+7936,manual escrow reconciliation ko typical wait duration specifically kati ho?,payment_pending,code_switched,True,formal,medium
+9138,merchant portal prominently unverified shows gardaicha bank account deduct huda ni.,payment_pending,code_switched,True,informal,medium
+8738,merchant portal prominently unverified shows gardaicha bank account deduct huda ni.,payment_pending,code_switched,True,informal,medium
+7938,merchant portal prominently unverified shows gardaicha bank account deduct huda ni.,payment_pending,code_switched,True,informal,medium
+5071,mero cash firta deu,refund_request,romanized_nepali,False,informal,easy
+9071,mero cash firta deu,refund_request,romanized_nepali,False,informal,easy
+8671,mero cash firta deu,refund_request,romanized_nepali,False,informal,easy
+8729,mero corporate transfer le paisa rokne kada hinamina janch lai spasta rupma trigger garyo.,payment_pending,romanized_nepali,False,formal,hard
+9129,mero corporate transfer le paisa rokne kada hinamina janch lai spasta rupma trigger garyo.,payment_pending,romanized_nepali,False,formal,hard
+8831,mero khata ban vayo,account_locked,romanized_nepali,False,informal,easy
+7631,mero khata ban vayo,account_locked,romanized_nepali,False,informal,easy
+9231,mero khata ban vayo,account_locked,romanized_nepali,False,informal,easy
+7612,mero naya password pes garna nadine suchikrit nagarieka niti niyamharu spasta parna saknuhunxa?,password_reset,romanized_nepali,False,formal,medium
+8812,mero naya password pes garna nadine suchikrit nagarieka niti niyamharu spasta parna saknuhunxa?,password_reset,romanized_nepali,False,formal,medium
+9212,mero naya password pes garna nadine suchikrit nagarieka niti niyamharu spasta parna saknuhunxa?,password_reset,romanized_nepali,False,formal,medium
+7731,mero order pass vayo ta,order_status,romanized_nepali,False,informal,easy
+6131,mero order pass vayo ta,order_status,romanized_nepali,False,informal,easy
+7951,mero paisa bounce vayo,payment_reversed,romanized_nepali,False,informal,easy
+8751,mero paisa bounce vayo,payment_reversed,romanized_nepali,False,informal,easy
+9151,mero paisa bounce vayo,payment_reversed,romanized_nepali,False,informal,easy
+9091,mero paisa khai yaar,refund_status,romanized_nepali,False,informal,easy
+8691,mero paisa khai yaar,refund_status,romanized_nepali,False,informal,easy
+9597,MFA prompt delivery specifically delayed vayera login authentication timeout huncha.,account_login,code_switched,True,neutral,hard
+9197,MFA prompt delivery specifically delayed vayera login authentication timeout huncha.,account_login,code_switched,True,neutral,hard
+7597,MFA prompt delivery specifically delayed vayera login authentication timeout huncha.,account_login,code_switched,True,neutral,hard
+8797,MFA prompt delivery specifically delayed vayera login authentication timeout huncha.,account_login,code_switched,True,neutral,hard
+8840,multiple failed sign-in securely limit exceed vayo ban lift garna appeal form kata cha?,account_locked,code_switched,True,neutral,medium
+7640,multiple failed sign-in securely limit exceed vayo ban lift garna appeal form kata cha?,account_locked,code_switched,True,neutral,medium
+9240,multiple failed sign-in securely limit exceed vayo ban lift garna appeal form kata cha?,account_locked,code_switched,True,neutral,medium
+8823,my account is banned,account_locked,english,False,informal,easy
+7623,my account is banned,account_locked,english,False,informal,easy
+9223,my account is banned,account_locked,english,False,informal,easy
+9235,my account is banned severely k reason le ho.,account_locked,code_switched,True,informal,easy
+8835,my account is banned severely k reason le ho.,account_locked,code_switched,True,informal,easy
+7635,my account is banned severely k reason le ho.,account_locked,code_switched,True,informal,easy
+8742,My bank says the funds were returned because the seller rejected the transaction.,payment_reversed,english,False,neutral,medium
+9142,My bank says the funds were returned because the seller rejected the transaction.,payment_reversed,english,False,neutral,medium
+8721,My corporate transfer explicitly triggered a severe defalcation check holding the funds.,payment_pending,english,False,formal,hard
+9121,My corporate transfer explicitly triggered a severe defalcation check holding the funds.,payment_pending,english,False,formal,hard
+7582,My fingerprint login fails after the new update and prompts for a master password.,account_login,english,False,neutral,medium
+9182,My fingerprint login fails after the new update and prompts for a master password.,account_login,english,False,neutral,medium
+8782,My fingerprint login fails after the new update and prompts for a master password.,account_login,english,False,neutral,medium
+8790,naya update paxi mero fingerprint login fail hunxa ra master password magxa.,account_login,romanized_nepali,False,neutral,medium
+7590,naya update paxi mero fingerprint login fail hunxa ra master password magxa.,account_login,romanized_nepali,False,neutral,medium
+9190,naya update paxi mero fingerprint login fail hunxa ra master password magxa.,account_login,romanized_nepali,False,neutral,medium
+8803,need pass reset link,password_reset,english,False,informal,easy
+7603,need pass reset link,password_reset,english,False,informal,easy
+9203,need pass reset link,password_reset,english,False,informal,easy
+9215,need pass reset link directly chito send gara.,password_reset,code_switched,True,informal,easy
+7615,need pass reset link directly chito send gara.,password_reset,code_switched,True,informal,easy
+8815,need pass reset link directly chito send gara.,password_reset,code_switched,True,informal,easy
+9216,new password submission prevent garne unlisted policy rules explicitly elucidate garnus.,password_reset,code_switched,True,formal,medium
+8816,new password submission prevent garne unlisted policy rules explicitly elucidate garnus.,password_reset,code_switched,True,formal,medium
+7616,new password submission prevent garne unlisted policy rules explicitly elucidate garnus.,password_reset,code_switched,True,formal,medium
+8794,new update pachi fingerprint login fails huncha ani master password prompts garcha.,account_login,code_switched,True,neutral,medium
+9194,new update pachi fingerprint login fails huncha ani master password prompts garcha.,account_login,code_switched,True,neutral,medium
+7594,new update pachi fingerprint login fails huncha ani master password prompts garcha.,account_login,code_switched,True,neutral,medium
+6480,notify me alert completely malfunctioning cha alternative updates provide garnus.,product_availability,code_switched,True,neutral,medium
+6880,notify me alert completely malfunctioning cha alternative updates provide garnus.,product_availability,code_switched,True,formal,medium
+9679,notify-me purely explicitly completely strictly heavily definitively thoroughly totally genuinely perfectly alert fail?,product_availability,code_switched,True,formal,hard
+8480,notify-me purely explicitly completely strictly heavily definitively thoroughly totally genuinely perfectly alert fail?,product_availability,code_switched,True,neutral,medium
+9280,notify-me purely explicitly completely strictly heavily definitively thoroughly totally genuinely perfectly alert fail?,product_availability,code_switched,True,neutral,medium
+8880,notify-me purely explicitly completely strictly heavily definitively thoroughly totally genuinely perfectly alert fail?,product_availability,code_switched,True,neutral,medium
+7896,ongoing reimbursement ko precise clearance reference ID share garnus please.,refund_status,code_switched,True,formal,medium
+9096,ongoing reimbursement ko precise clearance reference ID share garnus please.,refund_status,code_switched,True,formal,medium
+8696,ongoing reimbursement ko precise clearance reference ID share garnus please.,refund_status,code_switched,True,formal,medium
+9497,ongoing reimbursement ko precise clearance reference ID share garnus please.,refund_status,code_switched,True,neutral,hard
+7857,original seal deliberately broken vaye pani technically return authorize huncha?,return_request,code_switched,True,neutral,hard
+9460,original seal deliberately broken vaye pani technically return authorize huncha?,return_request,code_switched,True,neutral,medium
+8660,original seal intact vaye refund entirely restocking fee bina pauncha?,return_request,code_switched,True,neutral,medium
+9060,original seal intact vaye refund entirely restocking fee bina pauncha?,return_request,code_switched,True,neutral,medium
+8820,OTP requests max limit explicitly breach bhayo account completely locked temporary ho ki?,password_reset,code_switched,True,neutral,medium
+7620,OTP requests max limit explicitly breach bhayo account completely locked temporary ho ki?,password_reset,code_switched,True,neutral,medium
+9220,OTP requests max limit explicitly breach bhayo account completely locked temporary ho ki?,password_reset,code_switched,True,neutral,medium
+9618,OTP requests max limit explicitly breach bhayo account completely locked temporary ho ki?,password_reset,code_switched,True,informal,medium
+8870,"panna sanskaran stock bahira dekhauxa, k tapai yesko restocking talika pakka garna saknuhunxa?",product_availability,romanized_nepali,False,neutral,medium
+8470,"panna sanskaran stock bahira dekhauxa, k tapai yesko restocking talika pakka garna saknuhunxa?",product_availability,romanized_nepali,False,neutral,medium
+9270,"panna sanskaran stock bahira dekhauxa, k tapai yesko restocking talika pakka garna saknuhunxa?",product_availability,romanized_nepali,False,neutral,medium
+9211,password reset link chahiyo,password_reset,romanized_nepali,False,informal,easy
+7611,password reset link chahiyo,password_reset,romanized_nepali,False,informal,easy
+8811,password reset link chahiyo,password_reset,romanized_nepali,False,informal,easy
+7103,payment crashed again,payment_failed,english,False,informal,easy
+5503,payment crashed again,payment_failed,english,False,informal,easy
+5511,payment feri crash vayo,payment_failed,romanized_nepali,False,informal,easy
+7111,payment feri crash vayo,payment_failed,romanized_nepali,False,informal,easy
+8731,payment load vayeko vayekai xa,payment_pending,romanized_nepali,False,informal,easy
+5131,payment load vayeko vayekai xa,payment_pending,romanized_nepali,False,informal,easy
+9131,payment load vayeko vayekai xa,payment_pending,romanized_nepali,False,informal,easy
+8723,payment loading forever,payment_pending,english,False,informal,easy
+9123,payment loading forever,payment_pending,english,False,informal,easy
+8735,payment loading forever update kaile aucha.,payment_pending,code_switched,True,informal,easy
+9135,payment loading forever update kaile aucha.,payment_pending,code_switched,True,informal,easy
+186,payment stuck,payment_pending,english,False,informal,easy
+723,payment stuck,payment_pending,english,False,informal,easy
+9174,PayPal ra linked debit card dubai ma distinctly separately charge bhayo.,duplicate_payment,code_switched,True,neutral,medium
+9577,PayPal ra linked debit card dubai ma distinctly separately charge bhayo.,duplicate_payment,code_switched,True,neutral,hard
+8774,PayPal ra linked debit card dubai ma distinctly separately charge bhayo.,duplicate_payment,code_switched,True,neutral,medium
+9019,perishable groceries explicitly thawed ra deeply ruined state ma dispatch vayo.,damaged_item,code_switched,True,formal,hard
+9417,perishable groceries explicitly thawed ra deeply ruined state ma dispatch vayo.,damaged_item,code_switched,True,neutral,hard
+8873,pervasive logistical bottleneck le explicitly yo premium model lai obsolete designated garyo?,product_availability,code_switched,True,formal,hard
+9273,pervasive logistical bottleneck le explicitly yo premium model lai obsolete designated garyo?,product_availability,code_switched,True,formal,hard
+8473,pervasive logistical bottleneck le explicitly yo premium model lai obsolete designated garyo?,product_availability,code_switched,True,formal,hard
+2465,Please confirm the regional warehouse inventory for this specific part number.,product_availability,english,False,formal,medium
+2865,Please confirm the regional warehouse inventory for this specific part number.,product_availability,english,False,formal,medium
+8744,Please delineate the formal administrative cause for reversing this successful charge.,payment_reversed,english,False,formal,medium
+9144,Please delineate the formal administrative cause for reversing this successful charge.,payment_reversed,english,False,formal,medium
+7944,Please delineate the formal administrative cause for reversing this successful charge.,payment_reversed,english,False,formal,medium
+8764,Please immediately neutralize the extraneous authorization hold from my statement.,duplicate_payment,english,False,formal,medium
+9164,Please immediately neutralize the extraneous authorization hold from my statement.,duplicate_payment,english,False,formal,medium
+9284,Please permanently bypass this digital menu and patch my session to a senior supervisor.,human_agent_request,english,False,formal,medium
+8884,Please permanently bypass this digital menu and patch my session to a senior supervisor.,human_agent_request,english,False,formal,medium
+8484,Please permanently bypass this digital menu and patch my session to a senior supervisor.,human_agent_request,english,False,formal,medium
+9084,Please share the precise clearance reference ID for my ongoing reimbursement.,refund_status,english,False,formal,medium
+8684,Please share the precise clearance reference ID for my ongoing reimbursement.,refund_status,english,False,formal,medium
+7884,Please share the precise clearance reference ID for my ongoing reimbursement.,refund_status,english,False,formal,medium
+2884,Please terminate this automated sequence and patch me through to an executive.,human_agent_request,english,False,formal,medium
+3284,Please terminate this automated sequence and patch me through to an executive.,human_agent_request,english,False,formal,medium
+8670,prabidhik manxe na-aayeko hunale k tapai jadan shulka firta garna saknuhunxa?,refund_request,romanized_nepali,False,neutral,medium
+9070,prabidhik manxe na-aayeko hunale k tapai jadan shulka firta garna saknuhunxa?,refund_request,romanized_nepali,False,neutral,medium
+8669,pradayak ko charam akshyamata lai madhyanajar gardai ma purna maudrik kshatipurti ko joddar maag gardaxu.,refund_request,romanized_nepali,False,formal,hard
+9069,pradayak ko charam akshyamata lai madhyanajar gardai ma purna maudrik kshatipurti ko joddar maag gardaxu.,refund_request,romanized_nepali,False,formal,hard
+8709,pramanikaran terminal le mero card bata aayeko surakshit payload lai purna rupma amanya garyo.,payment_failed,romanized_nepali,False,formal,hard
+7909,pramanikaran terminal le mero card bata aayeko surakshit payload lai purna rupma amanya garyo.,payment_failed,romanized_nepali,False,formal,hard
+9109,pramanikaran terminal le mero card bata aayeko surakshit payload lai purna rupma amanya garyo.,payment_failed,romanized_nepali,False,formal,hard
+8479,pre-sale explicitly uniquely entirely absolutely completely genuinely explicitly distinctly completely open cha?,product_availability,code_switched,True,formal,hard
+9680,pre-sale explicitly uniquely entirely absolutely completely genuinely explicitly distinctly completely open cha?,product_availability,code_switched,True,neutral,medium
+8879,pre-sale explicitly uniquely entirely absolutely completely genuinely explicitly distinctly completely open cha?,product_availability,code_switched,True,formal,hard
+9279,pre-sale explicitly uniquely entirely absolutely completely genuinely explicitly distinctly completely open cha?,product_availability,code_switched,True,formal,hard
+9233,preemptive algorithmic risk detection le legitimate organizational profile unjustly crippled garyo.,account_locked,code_switched,True,formal,hard
+8833,preemptive algorithmic risk detection le legitimate organizational profile unjustly crippled garyo.,account_locked,code_switched,True,formal,hard
+7633,preemptive algorithmic risk detection le legitimate organizational profile unjustly crippled garyo.,account_locked,code_switched,True,formal,hard
+8680,price drop guarantee policy under ma retroactive partial refund perfectly valid cha?,refund_request,code_switched,True,neutral,medium
+9480,price drop guarantee policy under ma retroactive partial refund perfectly valid cha?,refund_request,code_switched,True,neutral,medium
+9080,price drop guarantee policy under ma retroactive partial refund perfectly valid cha?,refund_request,code_switched,True,neutral,medium
+8760,pricing glitch resolution formally execute vayera system void exactly apply garyo?,payment_reversed,code_switched,True,neutral,medium
+9160,pricing glitch resolution formally execute vayera system void exactly apply garyo?,payment_reversed,code_switched,True,neutral,medium
+7960,pricing glitch resolution formally execute vayera system void exactly apply garyo?,payment_reversed,code_switched,True,neutral,medium
+8693,primary treasury department le mero settlement ledger dispatch confirm garyo?,refund_status,code_switched,True,formal,hard
+9093,primary treasury department le mero settlement ledger dispatch confirm garyo?,refund_status,code_switched,True,formal,hard
+8698,processing status frozen cha delay escalate gara na.,refund_status,code_switched,True,informal,medium
+9098,processing status frozen cha delay escalate gara na.,refund_status,code_switched,True,informal,medium
+9437,promotional supplementary module conspicuously omitted cha order packing list bata.,missing_item,code_switched,True,neutral,hard
+8237,promotional supplementary module conspicuously omitted cha order packing list bata.,missing_item,code_switched,True,neutral,hard
+9073,provider ko sheer incompetence pachi I emphatically pursue full pecuniary restitution.,refund_request,code_switched,True,formal,hard
+8673,provider ko sheer incompetence pachi I emphatically pursue full pecuniary restitution.,refund_request,code_switched,True,formal,hard
+9114,purchase attempt garda billing address format incorrect claims garcha.,payment_failed,code_switched,True,neutral,medium
+8714,purchase attempt garda billing address format incorrect claims garcha.,payment_failed,code_switched,True,neutral,medium
+3283,put a person on chat,human_agent_request,english,False,informal,easy
+2883,put a person on chat,human_agent_request,english,False,informal,easy
+9620,recovery mobile defunct cha heavily manually alternate email ma passkey dispatch garnus.,password_reset,code_switched,True,neutral,medium
+8818,recovery mobile defunct cha heavily manually alternate email ma passkey dispatch garnus.,password_reset,code_switched,True,informal,medium
+7618,recovery mobile defunct cha heavily manually alternate email ma passkey dispatch garnus.,password_reset,code_switched,True,informal,medium
+9218,recovery mobile defunct cha heavily manually alternate email ma passkey dispatch garnus.,password_reset,code_switched,True,informal,medium
+9463,refund my card,refund_request,english,False,informal,easy
+2263,refund my card,refund_request,english,False,informal,easy
+2879,regional warehouse inventory ma yo specific part number confirm garnus.,product_availability,code_switched,True,formal,medium
+2479,regional warehouse inventory ma yo specific part number confirm garnus.,product_availability,code_switched,True,formal,medium
+9200,remember me tick disable vayo automatically infinite redirection loop ma fasyo.,account_login,code_switched,True,neutral,medium
+9598,remember me tick disable vayo automatically infinite redirection loop ma fasyo.,account_login,code_switched,True,informal,medium
+8800,remember me tick disable vayo automatically infinite redirection loop ma fasyo.,account_login,code_switched,True,neutral,medium
+7600,remember me tick disable vayo automatically infinite redirection loop ma fasyo.,account_login,code_switched,True,neutral,medium
+9213,reset communication ma included verification syntax strictly invalid hash ko rupma parses huncha.,password_reset,code_switched,True,formal,hard
+8813,reset communication ma included verification syntax strictly invalid hash ko rupma parses huncha.,password_reset,code_switched,True,formal,hard
+7613,reset communication ma included verification syntax strictly invalid hash ko rupma parses huncha.,password_reset,code_switched,True,formal,hard
+9209,reset email ma samabesh garieko pramanikaran syntax kada rupma amanya hash ko rupma bishleshan hunxa.,password_reset,romanized_nepali,False,formal,hard
+7609,reset email ma samabesh garieko pramanikaran syntax kada rupma amanya hash ko rupma bishleshan hunxa.,password_reset,romanized_nepali,False,formal,hard
+8809,reset email ma samabesh garieko pramanikaran syntax kada rupma amanya hash ko rupma bishleshan hunxa.,password_reset,romanized_nepali,False,formal,hard
+9600,SAML payload continuously corrupted bhancha enterprise login ma issue aayo.,account_login,code_switched,True,neutral,medium
+7598,SAML payload continuously corrupted bhancha enterprise login ma issue aayo.,account_login,code_switched,True,informal,medium
+9198,SAML payload continuously corrupted bhancha enterprise login ma issue aayo.,account_login,code_switched,True,informal,medium
+8798,SAML payload continuously corrupted bhancha enterprise login ma issue aayo.,account_login,code_switched,True,informal,medium
+6611,screen futeko xa,damaged_item,romanized_nepali,False,informal,easy
+8211,screen futeko xa,damaged_item,romanized_nepali,False,informal,easy
+5011,screen futeko xa,damaged_item,romanized_nepali,False,informal,easy
+9640,secondary shipping address update garna try garda application explicitly disabled my login.,account_locked,code_switched,True,neutral,medium
+9234,secondary shipping address update garna try garda application explicitly disabled my login.,account_locked,code_switched,True,neutral,medium
+8834,secondary shipping address update garna try garda application explicitly disabled my login.,account_locked,code_switched,True,neutral,medium
+7634,secondary shipping address update garna try garda application explicitly disabled my login.,account_locked,code_switched,True,neutral,medium
+9217,security questions heavily block vayo over limit warning aayo alternative process bypass k cha?,password_reset,code_switched,True,neutral,hard
+8817,security questions heavily block vayo over limit warning aayo alternative process bypass k cha?,password_reset,code_switched,True,neutral,hard
+9617,security questions heavily block vayo over limit warning aayo alternative process bypass k cha?,password_reset,code_switched,True,neutral,hard
+7617,security questions heavily block vayo over limit warning aayo alternative process bypass k cha?,password_reset,code_switched,True,neutral,hard
+9557,seller le reject garyo transaction so funds returned bhayo bank says.,payment_reversed,code_switched,True,neutral,hard
+8754,seller le reject garyo transaction so funds returned bhayo bank says.,payment_reversed,code_switched,True,neutral,medium
+9154,seller le reject garyo transaction so funds returned bhayo bank says.,payment_reversed,code_switched,True,neutral,medium
+8720,server unavailable heavily plague gardaicha distinctly checkout gateway lai.,payment_failed,code_switched,True,neutral,medium
+9120,server unavailable heavily plague gardaicha distinctly checkout gateway lai.,payment_failed,code_switched,True,neutral,medium
+9519,server unavailable heavily plague gardaicha distinctly checkout gateway lai.,payment_failed,code_switched,True,formal,hard
+2477,"shoes out of stock dekhe, similar alternatives kei cha ki?",product_availability,code_switched,True,neutral,medium
+2877,"shoes out of stock dekhe, similar alternatives kei cha ki?",product_availability,code_switched,True,neutral,medium
+9191,sign in garna diyena,account_login,romanized_nepali,False,informal,easy
+8791,sign in garna diyena,account_login,romanized_nepali,False,informal,easy
+7591,sign in garna diyena,account_login,romanized_nepali,False,informal,easy
+2858,software license perpetual ho ki subscription-based model ma cha?,product_information,code_switched,True,neutral,medium
+2458,software license perpetual ho ki subscription-based model ma cha?,product_information,code_switched,True,neutral,medium
+2480,sold out chha app ma katai branch ma vetiyen?,product_availability,code_switched,True,informal,easy
+2880,sold out chha app ma katai branch ma vetiyen?,product_availability,code_switched,True,informal,easy
+8493,specialized ombudsman ko lagi algorithmic bot suspension imperatively mandate explicitly garchu.,human_agent_request,code_switched,True,formal,hard
+8893,specialized ombudsman ko lagi algorithmic bot suspension imperatively mandate explicitly garchu.,human_agent_request,code_switched,True,formal,hard
+9293,specialized ombudsman ko lagi algorithmic bot suspension imperatively mandate explicitly garchu.,human_agent_request,code_switched,True,formal,hard
+2455,standby mode ma huda yesle thyakkai kati bijuli khapat garxa bataidinus na.,product_information,romanized_nepali,False,formal,medium
+2855,standby mode ma huda yesle thyakkai kati bijuli khapat garxa bataidinus na.,product_information,romanized_nepali,False,formal,medium
+2459,standby mode ma power consumption specs exact provide garna saknuhuncha?,product_information,code_switched,True,formal,medium
+2859,standby mode ma power consumption specs exact provide garna saknuhuncha?,product_information,code_switched,True,formal,medium
+9259,standby mode wattage explicitly industrial specs ma comprehensively list bhako cha?,product_information,code_switched,True,formal,hard
+9659,standby mode wattage explicitly industrial specs ma comprehensively list bhako cha?,product_information,code_switched,True,formal,hard
+8859,standby mode wattage explicitly industrial specs ma comprehensively list bhako cha?,product_information,code_switched,True,formal,hard
+7659,standby mode wattage explicitly industrial specs ma comprehensively list bhako cha?,product_information,code_switched,True,formal,hard
+8776,statement bata extraneous authorization hold explicitly immediately neutralize garnus.,duplicate_payment,code_switched,True,formal,medium
+9579,statement bata extraneous authorization hold explicitly immediately neutralize garnus.,duplicate_payment,code_switched,True,formal,hard
+9176,statement bata extraneous authorization hold explicitly immediately neutralize garnus.,duplicate_payment,code_switched,True,formal,medium
+8792,sthaniya biswobidyalaya network bata mero IP lai shadow-ban garieko xa ki xaina janch garna saknuhunxa?,account_login,romanized_nepali,False,formal,medium
+7592,sthaniya biswobidyalaya network bata mero IP lai shadow-ban garieko xa ki xaina janch garna saknuhunxa?,account_login,romanized_nepali,False,formal,medium
+9192,sthaniya biswobidyalaya network bata mero IP lai shadow-ban garieko xa ki xaina janch garna saknuhunxa?,account_login,romanized_nepali,False,formal,medium
+2873,stock ma kehi baki xa ta?,product_availability,romanized_nepali,False,informal,easy
+2473,stock ma kehi baki xa ta?,product_availability,romanized_nepali,False,informal,easy
+9077,store credit firmly reject garchu I specifically definitely require a bank wire.,refund_request,code_switched,True,neutral,hard
+8677,store credit firmly reject garchu I specifically definitely require a bank wire.,refund_request,code_switched,True,neutral,hard
+8279,store credits explicitly refuse garchu I specifically want a pure bank transfer.,refund_request,code_switched,True,formal,hard
+9479,store credits explicitly refuse garchu I specifically want a pure bank transfer.,refund_request,code_switched,True,formal,hard
+9678,suburban purely expressly totally physically definitively essentially explicitly profoundly inventory warehouse bata?,product_availability,code_switched,True,informal,medium
+9278,suburban purely expressly totally physically definitively essentially explicitly profoundly inventory warehouse bata?,product_availability,code_switched,True,informal,medium
+8878,suburban purely expressly totally physically definitively essentially explicitly profoundly inventory warehouse bata?,product_availability,code_switched,True,informal,medium
+8478,suburban purely expressly totally physically definitively essentially explicitly profoundly inventory warehouse bata?,product_availability,code_switched,True,informal,medium
+8756,successful charge reverse garna ko formal administrative cause precisely delineate garnus.,payment_reversed,code_switched,True,formal,medium
+9156,successful charge reverse garna ko formal administrative cause precisely delineate garnus.,payment_reversed,code_switched,True,formal,medium
+7956,successful charge reverse garna ko formal administrative cause precisely delineate garnus.,payment_reversed,code_switched,True,formal,medium
+8779,superfluous identical charge exactly entirely remove garna definitively dispute file gardaichu.,duplicate_payment,code_switched,True,formal,hard
+9179,superfluous identical charge exactly entirely remove garna definitively dispute file gardaichu.,duplicate_payment,code_switched,True,formal,hard
+8379,superfluous identical charge exactly entirely remove garna definitively dispute file gardaichu.,duplicate_payment,code_switched,True,formal,hard
+2476,supply constraint le garda yo raw material scarcity ma gako ho?,product_availability,code_switched,True,formal,hard
+2876,supply constraint le garda yo raw material scarcity ma gako ho?,product_availability,code_switched,True,formal,hard
+9177,system lag heavily hunda explicitly concurrent checkout prominently register bhayechha.,duplicate_payment,code_switched,True,neutral,hard
+7977,system lag heavily hunda explicitly concurrent checkout prominently register bhayechha.,duplicate_payment,code_switched,True,neutral,hard
+8777,system lag heavily hunda explicitly concurrent checkout prominently register bhayechha.,duplicate_payment,code_switched,True,neutral,hard
+3290,tapaiko automatic pranali mero jatil samasya bujhna asafal vairai ko xa.,human_agent_request,romanized_nepali,False,neutral,medium
+2890,tapaiko automatic pranali mero jatil samasya bujhna asafal vairai ko xa.,human_agent_request,romanized_nepali,False,neutral,medium
+8674,technician never showed up so installation charges refund garna saknuhuncha?,refund_request,code_switched,True,neutral,medium
+9074,technician never showed up so installation charges refund garna saknuhuncha?,refund_request,code_switched,True,neutral,medium
+7622,The application disabled my login after I tried to update my secondary shipping address.,account_locked,english,False,neutral,medium
+8822,The application disabled my login after I tried to update my secondary shipping address.,account_locked,english,False,neutral,medium
+9222,The application disabled my login after I tried to update my secondary shipping address.,account_locked,english,False,neutral,medium
+7581,The central identity management node is outright rejecting my valid OAuth token.,account_login,english,False,formal,hard
+9181,The central identity management node is outright rejecting my valid OAuth token.,account_login,english,False,formal,hard
+8781,The central identity management node is outright rejecting my valid OAuth token.,account_login,english,False,formal,hard
+9141,The clearing network unilaterally triggered a clawback due to anomaly detection.,payment_reversed,english,False,formal,hard
+8741,The clearing network unilaterally triggered a clawback due to anomaly detection.,payment_reversed,english,False,formal,hard
+8462,"The emerald version says out of stock, could you confirm its restocking schedule?",product_availability,english,False,neutral,medium
+9262,"The emerald version says out of stock, could you confirm its restocking schedule?",product_availability,english,False,neutral,medium
+8862,"The emerald version says out of stock, could you confirm its restocking schedule?",product_availability,english,False,neutral,medium
+9082,The tracking says my refund was completed but my checking account is empty.,refund_status,english,False,neutral,medium
+8682,The tracking says my refund was completed but my checking account is empty.,refund_status,english,False,neutral,medium
+8801,The verification syntax included in the reset communication strictly parses as an invalid hash.,password_reset,english,False,formal,hard
+7601,The verification syntax included in the reset communication strictly parses as an invalid hash.,password_reset,english,False,formal,hard
+9201,The verification syntax included in the reset communication strictly parses as an invalid hash.,password_reset,english,False,formal,hard
+8701,The verification terminal categorically nullified the secure payload from my card.,payment_failed,english,False,formal,hard
+9101,The verification terminal categorically nullified the secure payload from my card.,payment_failed,english,False,formal,hard
+8882,"This automated workflow lacks context for my issue, I genuinely need a human operator.",human_agent_request,english,False,neutral,medium
+8482,"This automated workflow lacks context for my issue, I genuinely need a human operator.",human_agent_request,english,False,neutral,medium
+9282,"This automated workflow lacks context for my issue, I genuinely need a human operator.",human_agent_request,english,False,neutral,medium
+8690,tracking le refund pura vayo vanxa tara mero bank khata khali xa.,refund_status,romanized_nepali,False,neutral,medium
+9090,tracking le refund pura vayo vanxa tara mero bank khata khali xa.,refund_status,romanized_nepali,False,neutral,medium
+8694,tracking says refund completed but checking account empty cha.,refund_status,code_switched,True,neutral,medium
+9094,tracking says refund completed but checking account empty cha.,refund_status,code_switched,True,neutral,medium
+9159,transaction completely authorized vaye pani unilaterally merchant extensively void garyo.,payment_reversed,code_switched,True,formal,hard
+7959,transaction completely authorized vaye pani unilaterally merchant extensively void garyo.,payment_reversed,code_switched,True,formal,hard
+8759,transaction completely authorized vaye pani unilaterally merchant extensively void garyo.,payment_reversed,code_switched,True,formal,hard
+9560,transaction completely authorized vaye pani unilaterally merchant extensively void garyo.,payment_reversed,code_switched,True,neutral,medium
+9639,travel garda dynamic IP drastically jump hunda securely profile freeze bhayo open gara.,account_locked,code_switched,True,formal,hard
+7638,travel garda dynamic IP drastically jump hunda securely profile freeze bhayo open gara.,account_locked,code_switched,True,informal,medium
+9238,travel garda dynamic IP drastically jump hunda securely profile freeze bhayo open gara.,account_locked,code_switched,True,informal,medium
+8838,travel garda dynamic IP drastically jump hunda securely profile freeze bhayo open gara.,account_locked,code_switched,True,informal,medium
+2583,u sent me the wrong color,wrong_item,english,False,informal,easy
+9383,u sent me the wrong color,wrong_item,english,False,informal,easy
+9276,unlisted corporate allocation formally reserve garna procedural mechanism specifically cha?,product_availability,code_switched,True,formal,medium
+8476,unlisted corporate allocation formally reserve garna procedural mechanism specifically cha?,product_availability,code_switched,True,formal,medium
+8876,unlisted corporate allocation formally reserve garna procedural mechanism specifically cha?,product_availability,code_switched,True,formal,medium
+8839,unresolved chargeback retaliation ko extensively formal dispute ma account preemptively block garyo.,account_locked,code_switched,True,formal,hard
+9638,unresolved chargeback retaliation ko extensively formal dispute ma account preemptively block garyo.,account_locked,code_switched,True,informal,medium
+7639,unresolved chargeback retaliation ko extensively formal dispute ma account preemptively block garyo.,account_locked,code_switched,True,formal,hard
+9239,unresolved chargeback retaliation ko extensively formal dispute ma account preemptively block garyo.,account_locked,code_switched,True,formal,hard
+9113,verification terminal le card ko secure payload categorically nullify garyo.,payment_failed,code_switched,True,formal,hard
+8713,verification terminal le card ko secure payload categorically nullify garyo.,payment_failed,code_switched,True,formal,hard
+9517,verification terminal le card ko secure payload categorically nullify garyo.,payment_failed,code_switched,True,neutral,hard
+9518,virtual prepaid limits severely fail hudai exception throw garyo gateway ma.,payment_failed,code_switched,True,informal,medium
+7919,virtual prepaid limits severely fail hudai exception throw garyo gateway ma.,payment_failed,code_switched,True,formal,hard
+9119,virtual prepaid limits severely fail hudai exception throw garyo.,payment_failed,code_switched,True,formal,hard
+8719,virtual prepaid limits severely fail hudai exception throw garyo.,payment_failed,code_switched,True,formal,hard
+2857,watch strap easily interchangeable cha ki chaina bhana ta?,product_information,code_switched,True,neutral,medium
+2457,watch strap easily interchangeable cha ki chaina bhana ta?,product_information,code_switched,True,neutral,medium
+7624,What definitive formal actions must I take to repudiate this automated account ban?,account_locked,english,False,formal,medium
+9224,What definitive formal actions must I take to repudiate this automated account ban?,account_locked,english,False,formal,medium
+8824,What definitive formal actions must I take to repudiate this automated account ban?,account_locked,english,False,formal,medium
+2841,What is the maximum operating temperature for this industrial equipment?,product_information,english,False,formal,hard
+2441,What is the maximum operating temperature for this industrial equipment?,product_information,english,False,formal,hard
+2503,where is my courier right now,order_tracking,english,False,informal,easy
+9703,where is my courier right now,order_tracking,english,False,informal,easy
+9083,where is my money man,refund_status,english,False,informal,easy
+8683,where is my money man,refund_status,english,False,informal,easy
+8695,where is my money man kati kurne.,refund_status,code_switched,True,informal,easy
+9095,where is my money man kati kurne.,refund_status,code_switched,True,informal,easy
+5483,where is my refund,refund_status,english,False,informal,easy
+683,where is my refund,refund_status,english,False,informal,easy
+8783,wont let me sign in,account_login,english,False,informal,easy
+9183,wont let me sign in,account_login,english,False,informal,easy
+7583,wont let me sign in,account_login,english,False,informal,easy
+7595,wont let me sign in totally crash bhairacha.,account_login,code_switched,True,informal,easy
+9195,wont let me sign in totally crash bhairacha.,account_login,code_switched,True,informal,easy
+8795,wont let me sign in totally crash bhairacha.,account_login,code_switched,True,informal,easy
+6583,wrong flavor sent,wrong_item,english,False,informal,easy
+4583,wrong flavor sent,wrong_item,english,False,informal,easy
+7271,yesko kunai piece baki xa,product_availability,romanized_nepali,False,informal,easy
+8871,yesko kunai piece baki xa,product_availability,romanized_nepali,False,informal,easy
+9271,yesko kunai piece baki xa,product_availability,romanized_nepali,False,informal,easy
+8471,yesko kunai piece baki xa,product_availability,romanized_nepali,False,informal,easy
+2851,yo audhyogik machine le adhiktam kati tapkram ma kaam garna sakxa?,product_information,romanized_nepali,False,formal,hard
+2451,yo audhyogik machine le adhiktam kati tapkram ma kaam garna sakxa?,product_information,romanized_nepali,False,formal,hard
+8490,"yo automatic pranali ma mero samasya ko sandarbha nai xaina, malai sanchai manab operator chahiyeko xa.",human_agent_request,romanized_nepali,False,neutral,medium
+9290,"yo automatic pranali ma mero samasya ko sandarbha nai xaina, malai sanchai manab operator chahiyeko xa.",human_agent_request,romanized_nepali,False,neutral,medium
+8890,"yo automatic pranali ma mero samasya ko sandarbha nai xaina, malai sanchai manab operator chahiyeko xa.",human_agent_request,romanized_nepali,False,neutral,medium
+2475,yo bisesh part number ko saman kshetriya godam ma xa ki xaina yakin garidinus.,product_availability,romanized_nepali,False,formal,medium
+2875,yo bisesh part number ko saman kshetriya godam ma xa ki xaina yakin garidinus.,product_availability,romanized_nepali,False,formal,medium
+2853,yo pani le vijda bigrindaina ni?,product_information,romanized_nepali,False,informal,easy
+2453,yo pani le vijda bigrindaina ni?,product_information,romanized_nepali,False,informal,easy
+9251,yo plastic kada xa ki,product_information,romanized_nepali,False,informal,easy
+8051,yo plastic kada xa ki,product_information,romanized_nepali,False,informal,easy
+8851,yo plastic kada xa ki,product_information,romanized_nepali,False,informal,easy
+8752,yo safal charge reverse hunuko pachhadi aupacharik prashasanik karan spasta parnuhos.,payment_reversed,romanized_nepali,False,formal,medium
+9152,yo safal charge reverse hunuko pachhadi aupacharik prashasanik karan spasta parnuhos.,payment_reversed,romanized_nepali,False,formal,medium
+7952,yo safal charge reverse hunuko pachhadi aupacharik prashasanik karan spasta parnuhos.,payment_reversed,romanized_nepali,False,formal,medium
+5351,yo saman ahilyai cancel gara,order_cancellation,romanized_nepali,False,informal,easy
+8551,yo saman ahilyai cancel gara,order_cancellation,romanized_nepali,False,informal,easy
+2474,yo saman aune bittikai mero darta vayeko email ma jankari pathauna milxa?,product_availability,romanized_nepali,False,neutral,medium
+2874,yo saman aune bittikai mero darta vayeko email ma jankari pathauna milxa?,product_availability,romanized_nepali,False,neutral,medium
+2454,yo software ko license jiwanbhar ko lagi ho ki barsha-barsa ma paisa tirnuparxa?,product_information,romanized_nepali,False,neutral,medium
+2854,yo software ko license jiwanbhar ko lagi ho ki barsha-barsa ma paisa tirnuparxa?,product_information,romanized_nepali,False,neutral,medium
+7632,yo swachalit khata pratibandha lai aswikar garna maile kun nishchit aupacharik kadamharu chalnuparxa?,account_locked,romanized_nepali,False,formal,medium
+8832,yo swachalit khata pratibandha lai aswikar garna maile kun nishchit aupacharik kadamharu chalnuparxa?,account_locked,romanized_nepali,False,formal,medium
+9232,yo swachalit khata pratibandha lai aswikar garna maile kun nishchit aupacharik kadamharu chalnuparxa?,account_locked,romanized_nepali,False,formal,medium
+2882,Your automated triage is failing to grasp my nuanced issue.,human_agent_request,english,False,neutral,medium
+3282,Your automated triage is failing to grasp my nuanced issue.,human_agent_request,english,False,neutral,medium
+8765,एउटा एसिंक्रोनस थ्रेडिङ समस्याले स्वेच्छाचारी रूपमा लगातार दुई पटक रकम काट्यो।,duplicate_payment,nepali_devanagari,False,formal,hard
+9165,एउटा एसिंक्रोनस थ्रेडिङ समस्याले स्वेच्छाचारी रूपमा लगातार दुई पटक रकम काट्यो।,duplicate_payment,nepali_devanagari,False,formal,hard
+7625,एउटा पूर्व-अनुमानित एल्गोरिथमिक जोखिम पहिचानले अन्यायपूर्ण रूपमा मेरो वैध संस्थागत प्रोफाइल बिगारेको छ।,account_locked,nepali_devanagari,False,formal,hard
+9225,एउटा पूर्व-अनुमानित एल्गोरिथमिक जोखिम पहिचानले अन्यायपूर्ण रूपमा मेरो वैध संस्थागत प्रोफाइल बिगारेको छ।,account_locked,nepali_devanagari,False,formal,hard
+8825,एउटा पूर्व-अनुमानित एल्गोरिथमिक जोखिम पहिचानले अन्यायपूर्ण रूपमा मेरो वैध संस्थागत प्रोफाइल बिगारेको छ।,account_locked,nepali_devanagari,False,formal,hard
+7367,कति स्लो हो यार,delayed_delivery,nepali_devanagari,False,informal,easy
+6167,कति स्लो हो यार,delayed_delivery,nepali_devanagari,False,informal,easy
+9107,कार्ड फेरि ब्लक भयो,payment_failed,nepali_devanagari,False,informal,easy
+8707,कार्ड फेरि ब्लक भयो,payment_failed,nepali_devanagari,False,informal,easy
+7888,कृपया मेरो पेन्डिङ रिफन्डको लागि ठ्याक्कै क्लियरेन्स सन्दर्भ आइडी साझा गर्नुहोस्।,refund_status,nepali_devanagari,False,formal,medium
+8688,कृपया मेरो पेन्डिङ रिफन्डको लागि ठ्याक्कै क्लियरेन्स सन्दर्भ आइडी साझा गर्नुहोस्।,refund_status,nepali_devanagari,False,formal,medium
+9088,कृपया मेरो पेन्डिङ रिफन्डको लागि ठ्याक्कै क्लियरेन्स सन्दर्भ आइडी साझा गर्नुहोस्।,refund_status,nepali_devanagari,False,formal,medium
+9168,कृपया मेरो स्टेटमेन्टबाट अतिरिक्त प्रमाणीकरण होल्ड तुरुन्तै प्रभावहीन बनाउनुहोस्।,duplicate_payment,nepali_devanagari,False,formal,medium
+8768,कृपया मेरो स्टेटमेन्टबाट अतिरिक्त प्रमाणीकरण होल्ड तुरुन्तै प्रभावहीन बनाउनुहोस्।,duplicate_payment,nepali_devanagari,False,formal,medium
+3288,कृपया यो अटोमेटिक कुराकानी बन्द गरेर मलाई कार्यकारी अधिकारीसँग जोड्नुहोस्।,human_agent_request,nepali_devanagari,False,formal,medium
+2888,कृपया यो अटोमेटिक कुराकानी बन्द गरेर मलाई कार्यकारी अधिकारीसँग जोड्नुहोस्।,human_agent_request,nepali_devanagari,False,formal,medium
+9288,कृपया यो डिजिटल मेनुलाई स्थायी रूपमा छोडेर मेरो सेसन वरिष्ठ सुपरभाइजरलाई ट्रान्सफर गर्नुहोस्।,human_agent_request,nepali_devanagari,False,formal,medium
+8488,कृपया यो डिजिटल मेनुलाई स्थायी रूपमा छोडेर मेरो सेसन वरिष्ठ सुपरभाइजरलाई ट्रान्सफर गर्नुहोस्।,human_agent_request,nepali_devanagari,False,formal,medium
+8888,कृपया यो डिजिटल मेनुलाई स्थायी रूपमा छोडेर मेरो सेसन वरिष्ठ सुपरभाइजरलाई ट्रान्सफर गर्नुहोस्।,human_agent_request,nepali_devanagari,False,formal,medium
+9108,के अन्तर्राष्ट्रिय डेबिट कारोबारलाई रोक्ने कुनै आन्तरिक सिस्टम फायरवाल छ?,payment_failed,nepali_devanagari,False,formal,medium
+8708,के अन्तर्राष्ट्रिय डेबिट कारोबारलाई रोक्ने कुनै आन्तरिक सिस्टम फायरवाल छ?,payment_failed,nepali_devanagari,False,formal,medium
+7908,के अन्तर्राष्ट्रिय डेबिट कारोबारलाई रोक्ने कुनै आन्तरिक सिस्टम फायरवाल छ?,payment_failed,nepali_devanagari,False,formal,medium
+9085,के प्रमुख ट्रेजरी विभागले मेरो सेटलमेन्ट लेजर पठाएको पुष्टि गरेको छ?,refund_status,nepali_devanagari,False,formal,hard
+8685,के प्रमुख ट्रेजरी विभागले मेरो सेटलमेन्ट लेजर पठाएको पुष्टि गरेको छ?,refund_status,nepali_devanagari,False,formal,hard
+7645,के यस आवरणको अन्तर्निहित थर्मोडायनामिक गुणहरूले भित्रको अत्यधिक तातोपनलाई भरपर्दो रूपमा रोक्छ?,product_information,nepali_devanagari,False,formal,hard
+9245,के यस आवरणको अन्तर्निहित थर्मोडायनामिक गुणहरूले भित्रको अत्यधिक तातोपनलाई भरपर्दो रूपमा रोक्छ?,product_information,nepali_devanagari,False,formal,hard
+8845,के यस आवरणको अन्तर्निहित थर्मोडायनामिक गुणहरूले भित्रको अत्यधिक तातोपनलाई भरपर्दो रूपमा रोक्छ?,product_information,nepali_devanagari,False,formal,hard
+2866,के यो कच्चा पदार्थको आपूर्तिमा निकट भविष्यमा कुनै अवरोध आउने सम्भावना छ?,product_availability,nepali_devanagari,False,formal,hard
+2466,के यो कच्चा पदार्थको आपूर्तिमा निकट भविष्यमा कुनै अवरोध आउने सम्भावना छ?,product_availability,nepali_devanagari,False,formal,hard
+2847,के यो घडीको फित्ता सजिलै फेर्न मिल्ने खालको छ?,product_information,nepali_devanagari,False,neutral,medium
+2447,के यो घडीको फित्ता सजिलै फेर्न मिल्ने खालको छ?,product_information,nepali_devanagari,False,neutral,medium
+8465,के व्यापक लजिस्टिक अवरोधले स्पष्ट रूपमा यो प्रिमियम मोडललाई अप्रचलित घोषणा गरेको हो?,product_availability,nepali_devanagari,False,formal,hard
+9265,के व्यापक लजिस्टिक अवरोधले स्पष्ट रूपमा यो प्रिमियम मोडललाई अप्रचलित घोषणा गरेको हो?,product_availability,nepali_devanagari,False,formal,hard
+8865,के व्यापक लजिस्टिक अवरोधले स्पष्ट रूपमा यो प्रिमियम मोडललाई अप्रचलित घोषणा गरेको हो?,product_availability,nepali_devanagari,False,formal,hard
+9268,के सूचीकृत नभएको कर्पोरेट आवंटनलाई औपचारिक रूपमा रिजर्भ गर्ने कुनै प्रक्रियागत संयन्त्र छ?,product_availability,nepali_devanagari,False,formal,medium
+8868,के सूचीकृत नभएको कर्पोरेट आवंटनलाई औपचारिक रूपमा रिजर्भ गर्ने कुनै प्रक्रियागत संयन्त्र छ?,product_availability,nepali_devanagari,False,formal,medium
+8468,के सूचीकृत नभएको कर्पोरेट आवंटनलाई औपचारिक रूपमा रिजर्भ गर्ने कुनै प्रक्रियागत संयन्त्र छ?,product_availability,nepali_devanagari,False,formal,medium
+8048,के स्पष्ट निर्माता वारेन्टीले थर्मल क्षतिको लागि पूर्ण कभरेज प्रदान गर्दछ?,product_information,nepali_devanagari,False,formal,medium
+9248,के स्पष्ट निर्माता वारेन्टीले थर्मल क्षतिको लागि पूर्ण कभरेज प्रदान गर्दछ?,product_information,nepali_devanagari,False,formal,medium
+8848,के स्पष्ट निर्माता वारेन्टीले थर्मल क्षतिको लागि पूर्ण कभरेज प्रदान गर्दछ?,product_information,nepali_devanagari,False,formal,medium
+8785,केन्द्रीय पहिचान व्यवस्थापन नोडले मेरो वैध OAuth टोकनलाई पूर्ण रूपमा अस्वीकार गरिरहेको छ।,account_login,nepali_devanagari,False,formal,hard
+7585,केन्द्रीय पहिचान व्यवस्थापन नोडले मेरो वैध OAuth टोकनलाई पूर्ण रूपमा अस्वीकार गरिरहेको छ।,account_login,nepali_devanagari,False,formal,hard
+9185,केन्द्रीय पहिचान व्यवस्थापन नोडले मेरो वैध OAuth टोकनलाई पूर्ण रूपमा अस्वीकार गरिरहेको छ।,account_login,nepali_devanagari,False,formal,hard
+8745,गडबडी पहिचानको कारण क्लियरिङ नेटवर्कले एकतर्फी रूपमा प्रणालीगत चार्जव्याक लागू गर्‍यो।,payment_reversed,nepali_devanagari,False,formal,hard
+9145,गडबडी पहिचानको कारण क्लियरिङ नेटवर्कले एकतर्फी रूपमा प्रणालीगत चार्जव्याक लागू गर्‍यो।,payment_reversed,nepali_devanagari,False,formal,hard
+8767,गल्तीले डबल बिल काट्यो,duplicate_payment,nepali_devanagari,False,informal,easy
+9167,गल्तीले डबल बिल काट्यो,duplicate_payment,nepali_devanagari,False,informal,easy
+3287,च्याटमा कोही मान्छे आउ त।,human_agent_request,nepali_devanagari,False,informal,easy
+2887,च्याटमा कोही मान्छे आउ त।,human_agent_request,nepali_devanagari,False,informal,easy
+2467,"जुत्ता त सकिएको रहेछ, यस्तै मिल्दोजुल्दो अरु कुनै विकल्प छ तपाईंहरूसँग?",product_availability,nepali_devanagari,False,neutral,medium
+2867,"जुत्ता त सकिएको रहेछ, यस्तै मिल्दोजुल्दो अरु कुनै विकल्प छ तपाईंहरूसँग?",product_availability,nepali_devanagari,False,neutral,medium
+9086,ट्र्याकिङले रिफन्ड पूरा भयो भन्छ तर मेरो बैंक खाता खाली छ।,refund_status,nepali_devanagari,False,neutral,medium
+8686,ट्र्याकिङले रिफन्ड पूरा भयो भन्छ तर मेरो बैंक खाता खाली छ।,refund_status,nepali_devanagari,False,neutral,medium
+8668,डेलिभरी वाचा गरिएको भन्दा धेरै ढिलो भएकोले म आंशिक रिफन्ड चाहन्छु।,refund_request,nepali_devanagari,False,formal,medium
+9068,डेलिभरी वाचा गरिएको भन्दा धेरै ढिलो भएकोले म आंशिक रिफन्ड चाहन्छु।,refund_request,nepali_devanagari,False,formal,medium
+3286,तपाईंको अटोमेटिक प्रणाली मेरो जटिल समस्या बुझ्न असफल भइरहेको छ।,human_agent_request,nepali_devanagari,False,neutral,medium
+2886,तपाईंको अटोमेटिक प्रणाली मेरो जटिल समस्या बुझ्न असफल भइरहेको छ।,human_agent_request,nepali_devanagari,False,neutral,medium
+8786,नयाँ अपडेटपछि मेरो फिंगरप्रिन्ट लगइन फेल हुन्छ र मास्टर पासवर्ड माग्छ।,account_login,nepali_devanagari,False,neutral,medium
+7586,नयाँ अपडेटपछि मेरो फिंगरप्रिन्ट लगइन फेल हुन्छ र मास्टर पासवर्ड माग्छ।,account_login,nepali_devanagari,False,neutral,medium
+9186,नयाँ अपडेटपछि मेरो फिंगरप्रिन्ट लगइन फेल हुन्छ र मास्टर पासवर्ड माग्छ।,account_login,nepali_devanagari,False,neutral,medium
+8466,"पन्ना संस्करण स्टक बाहिर देखाउँछ, के तपाईं यसको रिस्टकिङ तालिका पक्का गर्न सक्नुहुन्छ?",product_availability,nepali_devanagari,False,neutral,medium
+9266,"पन्ना संस्करण स्टक बाहिर देखाउँछ, के तपाईं यसको रिस्टकिङ तालिका पक्का गर्न सक्नुहुन्छ?",product_availability,nepali_devanagari,False,neutral,medium
+8866,"पन्ना संस्करण स्टक बाहिर देखाउँछ, के तपाईं यसको रिस्टकिङ तालिका पक्का गर्न सक्नुहुन्छ?",product_availability,nepali_devanagari,False,neutral,medium
+9207,पासवर्ड रिसेट लिंक चाहियो,password_reset,nepali_devanagari,False,informal,easy
+8807,पासवर्ड रिसेट लिंक चाहियो,password_reset,nepali_devanagari,False,informal,easy
+7607,पासवर्ड रिसेट लिंक चाहियो,password_reset,nepali_devanagari,False,informal,easy
+5507,पेमेन्ट फेरि क्र्यास भयो,payment_failed,nepali_devanagari,False,informal,easy
+7107,पेमेन्ट फेरि क्र्यास भयो,payment_failed,nepali_devanagari,False,informal,easy
+8727,पेमेन्ट लोड भएको भएकै छ,payment_pending,nepali_devanagari,False,informal,easy
+5127,पेमेन्ट लोड भएको भएकै छ,payment_pending,nepali_devanagari,False,informal,easy
+9127,पेमेन्ट लोड भएको भएकै छ,payment_pending,nepali_devanagari,False,informal,easy
+9065,प्रदायकको चरम अक्षमतालाई मध्यनजर गर्दै म पूर्ण मौद्रिक क्षतीपूर्तिको जोडदार माग गर्दछु।,refund_request,nepali_devanagari,False,formal,hard
+8665,प्रदायकको चरम अक्षमतालाई मध्यनजर गर्दै म पूर्ण मौद्रिक क्षतीपूर्तिको जोडदार माग गर्दछु।,refund_request,nepali_devanagari,False,formal,hard
+9105,प्रमाणीकरण टर्मिनलले मेरो कार्डबाट आएको सुरक्षित पेलोडलाई पूर्ण रूपमा अमान्य गर्‍यो।,payment_failed,nepali_devanagari,False,formal,hard
+7905,प्रमाणीकरण टर्मिनलले मेरो कार्डबाट आएको सुरक्षित पेलोडलाई पूर्ण रूपमा अमान्य गर्‍यो।,payment_failed,nepali_devanagari,False,formal,hard
+8705,प्रमाणीकरण टर्मिनलले मेरो कार्डबाट आएको सुरक्षित पेलोडलाई पूर्ण रूपमा अमान्य गर्‍यो।,payment_failed,nepali_devanagari,False,formal,hard
+9066,प्राविधिक मान्छे नआएको हुनाले के तपाईं जडान शुल्क फिर्ता गर्न सक्नुहुन्छ?,refund_request,nepali_devanagari,False,neutral,medium
+8666,प्राविधिक मान्छे नआएको हुनाले के तपाईं जडान शुल्क फिर्ता गर्न सक्नुहुन्छ?,refund_request,nepali_devanagari,False,neutral,medium
+8746,बिक्रेताले कारोबार अस्वीकार गरेको हुनाले पैसा फिर्ता आयो भनी मेरो बैंकले भन्छ।,payment_reversed,nepali_devanagari,False,neutral,medium
+9146,बिक्रेताले कारोबार अस्वीकार गरेको हुनाले पैसा फिर्ता आयो भनी मेरो बैंकले भन्छ।,payment_reversed,nepali_devanagari,False,neutral,medium
+8046,भित्री एलईडी डिस्प्लेले आफ्नो चमक आफैं मिलाउँछ कि मिलाउँदैन भनेर मलाई पक्का गर्नु छ।,product_information,nepali_devanagari,False,neutral,medium
+9246,भित्री एलईडी डिस्प्लेले आफ्नो चमक आफैं मिलाउँछ कि मिलाउँदैन भनेर मलाई पक्का गर्नु छ।,product_information,nepali_devanagari,False,neutral,medium
+8846,भित्री एलईडी डिस्प्लेले आफ्नो चमक आफैं मिलाउँछ कि मिलाउँदैन भनेर मलाई पक्का गर्नु छ।,product_information,nepali_devanagari,False,neutral,medium
+8885,म एक विशेषज्ञ लोकपालको लागि यो एल्गोरिथमिक बोटलाई तुरुन्तै निलम्बन गर्न अनिवार्य रूपमा आदेश दिन्छु।,human_agent_request,nepali_devanagari,False,formal,hard
+8485,म एक विशेषज्ञ लोकपालको लागि यो एल्गोरिथमिक बोटलाई तुरुन्तै निलम्बन गर्न अनिवार्य रूपमा आदेश दिन्छु।,human_agent_request,nepali_devanagari,False,formal,hard
+9285,म एक विशेषज्ञ लोकपालको लागि यो एल्गोरिथमिक बोटलाई तुरुन्तै निलम्बन गर्न अनिवार्य रूपमा आदेश दिन्छु।,human_agent_request,nepali_devanagari,False,formal,hard
+2885,म यो विवादको लागि एक वरिष्ठ मध्यस्थकर्ता आवश्यक छ भनेर औपचारिक सूचना दिँदैछु।,human_agent_request,nepali_devanagari,False,formal,hard
+3285,म यो विवादको लागि एक वरिष्ठ मध्यस्थकर्ता आवश्यक छ भनेर औपचारिक सूचना दिँदैछु।,human_agent_request,nepali_devanagari,False,formal,hard
+9287,मलाई मान्छे देऊ ब्रो,human_agent_request,nepali_devanagari,False,informal,easy
+8487,मलाई मान्छे देऊ ब्रो,human_agent_request,nepali_devanagari,False,informal,easy
+8887,मलाई मान्छे देऊ ब्रो,human_agent_request,nepali_devanagari,False,informal,easy
+9166,मलाई मेरो पेपाल खाता र जोडिएको डेबिट कार्ड दुवैबाट छुट्टाछुट्टै चार्ज गरियो।,duplicate_payment,nepali_devanagari,False,neutral,medium
+8766,मलाई मेरो पेपाल खाता र जोडिएको डेबिट कार्ड दुवैबाट छुट्टाछुट्टै चार्ज गरियो।,duplicate_payment,nepali_devanagari,False,neutral,medium
+8366,मलाई मेरो पेपाल खाता र जोडिएको डेबिट कार्ड दुवैबाट छुट्टाछुट्टै चार्ज गरियो।,duplicate_payment,nepali_devanagari,False,neutral,medium
+6127,मेरो अर्डर पास भयो त,order_status,nepali_devanagari,False,informal,easy
+7727,मेरो अर्डर पास भयो त,order_status,nepali_devanagari,False,informal,easy
+8725,मेरो कर्पोरेट ट्रान्सफरले पैसा रोक्ने कडा हिनामिना जाँचलाई स्पष्ट रूपमा ट्रिगर गर्‍यो।,payment_pending,nepali_devanagari,False,formal,hard
+9125,मेरो कर्पोरेट ट्रान्सफरले पैसा रोक्ने कडा हिनामिना जाँचलाई स्पष्ट रूपमा ट्रिगर गर्‍यो।,payment_pending,nepali_devanagari,False,formal,hard
+8667,मेरो क्यास फिर्ता देउ,refund_request,nepali_devanagari,False,informal,easy
+9067,मेरो क्यास फिर्ता देउ,refund_request,nepali_devanagari,False,informal,easy
+5067,मेरो क्यास फिर्ता देउ,refund_request,nepali_devanagari,False,informal,easy
+8827,मेरो खाता ब्यान भयो,account_locked,nepali_devanagari,False,informal,easy
+7627,मेरो खाता ब्यान भयो,account_locked,nepali_devanagari,False,informal,easy
+9227,मेरो खाता ब्यान भयो,account_locked,nepali_devanagari,False,informal,easy
+8808,मेरो नयाँ पासवर्ड पेस गर्न नदिने सूचीकृत नगरिएका नीति नियमहरू स्पष्ट पार्न सक्नुहुन्छ?,password_reset,nepali_devanagari,False,formal,medium
+9208,मेरो नयाँ पासवर्ड पेस गर्न नदिने सूचीकृत नगरिएका नीति नियमहरू स्पष्ट पार्न सक्नुहुन्छ?,password_reset,nepali_devanagari,False,formal,medium
+7608,मेरो नयाँ पासवर्ड पेस गर्न नदिने सूचीकृत नगरिएका नीति नियमहरू स्पष्ट पार्न सक्नुहुन्छ?,password_reset,nepali_devanagari,False,formal,medium
+9087,मेरो पैसा खै यार,refund_status,nepali_devanagari,False,informal,easy
+8687,मेरो पैसा खै यार,refund_status,nepali_devanagari,False,informal,easy
+9147,मेरो पैसा बाउन्स भयो,payment_reversed,nepali_devanagari,False,informal,easy
+8747,मेरो पैसा बाउन्स भयो,payment_reversed,nepali_devanagari,False,informal,easy
+7947,मेरो पैसा बाउन्स भयो,payment_reversed,nepali_devanagari,False,informal,easy
+7926,मैले क्रिप्टो ट्रान्जेक्सन पूरा गरेँ तर चेकआउट पोर्टलमा पेन्डिङ कन्फर्मेसन लेखेको छ।,payment_pending,nepali_devanagari,False,neutral,medium
+8726,मैले क्रिप्टो ट्रान्जेक्सन पूरा गरेँ तर चेकआउट पोर्टलमा पेन्डिङ कन्फर्मेसन लेखेको छ।,payment_pending,nepali_devanagari,False,neutral,medium
+9126,मैले क्रिप्टो ट्रान्जेक्सन पूरा गरेँ तर चेकआउट पोर्टलमा पेन्डिङ कन्फर्मेसन लेखेको छ।,payment_pending,nepali_devanagari,False,neutral,medium
+8706,मैले खरिद गर्न खोजेँ तर यसले मेरो बिलिङ ठेगानाको ढाँचा गलत छ भन्छ।,payment_failed,nepali_devanagari,False,neutral,medium
+9106,मैले खरिद गर्न खोजेँ तर यसले मेरो बिलिङ ठेगानाको ढाँचा गलत छ भन्छ।,payment_failed,nepali_devanagari,False,neutral,medium
+7626,मैले मेरो दोस्रो सिपिङ ठेगाना अपडेट गर्न खोजेपछि एप्लिकेसनले मेरो लगइन असक्षम गर्‍यो।,account_locked,nepali_devanagari,False,neutral,medium
+9226,मैले मेरो दोस्रो सिपिङ ठेगाना अपडेट गर्न खोजेपछि एप्लिकेसनले मेरो लगइन असक्षम गर्‍यो।,account_locked,nepali_devanagari,False,neutral,medium
+8826,मैले मेरो दोस्रो सिपिङ ठेगाना अपडेट गर्न खोजेपछि एप्लिकेसनले मेरो लगइन असक्षम गर्‍यो।,account_locked,nepali_devanagari,False,neutral,medium
+7606,मैले म्याजिक लिंक मागेको थिएँ तर तपाईंको सपोर्ट डोमेनबाट खाली इमेल मात्र आयो।,password_reset,nepali_devanagari,False,neutral,medium
+9206,मैले म्याजिक लिंक मागेको थिएँ तर तपाईंको सपोर्ट डोमेनबाट खाली इमेल मात्र आयो।,password_reset,nepali_devanagari,False,neutral,medium
+8806,मैले म्याजिक लिंक मागेको थिएँ तर तपाईंको सपोर्ट डोमेनबाट खाली इमेल मात्र आयो।,password_reset,nepali_devanagari,False,neutral,medium
+8728,म्यानुअल एस्क्रो मिलानको लागि सामान्यतया कति समय कुर्नुपर्छ बताउन सक्नुहुन्छ?,payment_pending,nepali_devanagari,False,formal,medium
+9128,म्यानुअल एस्क्रो मिलानको लागि सामान्यतया कति समय कुर्नुपर्छ बताउन सक्नुहुन्छ?,payment_pending,nepali_devanagari,False,formal,medium
+7928,म्यानुअल एस्क्रो मिलानको लागि सामान्यतया कति समय कुर्नुपर्छ बताउन सक्नुहुन्छ?,payment_pending,nepali_devanagari,False,formal,medium
+7267,यसको कुनै पिस बाँकी छ,product_availability,nepali_devanagari,False,informal,easy
+9267,यसको कुनै पिस बाँकी छ,product_availability,nepali_devanagari,False,informal,easy
+8867,यसको कुनै पिस बाँकी छ,product_availability,nepali_devanagari,False,informal,easy
+8467,यसको कुनै पिस बाँकी छ,product_availability,nepali_devanagari,False,informal,easy
+9286,"यो अटोमेटिक प्रणालीमा मेरो समस्याको सन्दर्भ नै छैन, मलाई साँच्चै मानव अपरेटर चाहिएको छ।",human_agent_request,nepali_devanagari,False,neutral,medium
+8486,"यो अटोमेटिक प्रणालीमा मेरो समस्याको सन्दर्भ नै छैन, मलाई साँच्चै मानव अपरेटर चाहिएको छ।",human_agent_request,nepali_devanagari,False,neutral,medium
+8886,"यो अटोमेटिक प्रणालीमा मेरो समस्याको सन्दर्भ नै छैन, मलाई साँच्चै मानव अपरेटर चाहिएको छ।",human_agent_request,nepali_devanagari,False,neutral,medium
+2446,यो औद्योगिक मेसिनले अधिकतम कति तापक्रममा काम गर्न सक्छ?,product_information,nepali_devanagari,False,formal,hard
+2846,यो औद्योगिक मेसिनले अधिकतम कति तापक्रममा काम गर्न सक्छ?,product_information,nepali_devanagari,False,formal,hard
+2848,यो पानीले भिज्दा बिग्रिँदैन नि?,product_information,nepali_devanagari,False,informal,easy
+2448,यो पानीले भिज्दा बिग्रिँदैन नि?,product_information,nepali_devanagari,False,informal,easy
+8047,यो प्लास्टिक कडा छ कि,product_information,nepali_devanagari,False,informal,easy
+9247,यो प्लास्टिक कडा छ कि,product_information,nepali_devanagari,False,informal,easy
+8847,यो प्लास्टिक कडा छ कि,product_information,nepali_devanagari,False,informal,easy
+2870,यो विशेष पार्ट नम्बरको सामान क्षेत्रीय गोदाममा छ कि छैन यकिन गरिदिनुस्।,product_availability,nepali_devanagari,False,formal,medium
+2470,यो विशेष पार्ट नम्बरको सामान क्षेत्रीय गोदाममा छ कि छैन यकिन गरिदिनुस्।,product_availability,nepali_devanagari,False,formal,medium
+8748,यो सफल चार्ज रिभर्स हुनुको पछाडि औपचारिक प्रशासनिक कारण स्पष्ट पार्नुहोस्।,payment_reversed,nepali_devanagari,False,formal,medium
+9148,यो सफल चार्ज रिभर्स हुनुको पछाडि औपचारिक प्रशासनिक कारण स्पष्ट पार्नुहोस्।,payment_reversed,nepali_devanagari,False,formal,medium
+7948,यो सफल चार्ज रिभर्स हुनुको पछाडि औपचारिक प्रशासनिक कारण स्पष्ट पार्नुहोस्।,payment_reversed,nepali_devanagari,False,formal,medium
+2449,यो सफ्टवेयरको लाइसेन्स जीवनभरको लागि हो कि वर्ष-वर्षमा पैसा तिर्नुपर्छ?,product_information,nepali_devanagari,False,neutral,medium
+2849,यो सफ्टवेयरको लाइसेन्स जीवनभरको लागि हो कि वर्ष-वर्षमा पैसा तिर्नुपर्छ?,product_information,nepali_devanagari,False,neutral,medium
+8547,यो सामान अहिल्यै क्यान्सिल गर,order_cancellation,nepali_devanagari,False,informal,easy
+5347,यो सामान अहिल्यै क्यान्सिल गर,order_cancellation,nepali_devanagari,False,informal,easy
+2469,यो सामान आउनेबित्तिकै मेरो दर्ता भएको इमेलमा जानकारी पठाउन मिल्छ?,product_availability,nepali_devanagari,False,neutral,medium
+2869,यो सामान आउनेबित्तिकै मेरो दर्ता भएको इमेलमा जानकारी पठाउन मिल्छ?,product_availability,nepali_devanagari,False,neutral,medium
+7628,यो स्वचालित खाता प्रतिबन्धलाई अस्वीकार गर्न मैले कुन निश्चित औपचारिक कदमहरू चाल्नुपर्छ?,account_locked,nepali_devanagari,False,formal,medium
+8828,यो स्वचालित खाता प्रतिबन्धलाई अस्वीकार गर्न मैले कुन निश्चित औपचारिक कदमहरू चाल्नुपर्छ?,account_locked,nepali_devanagari,False,formal,medium
+9228,यो स्वचालित खाता प्रतिबन्धलाई अस्वीकार गर्न मैले कुन निश्चित औपचारिक कदमहरू चाल्नुपर्छ?,account_locked,nepali_devanagari,False,formal,medium
+7605,रिसेट इमेलमा समावेश गरिएको प्रमाणीकरण सिन्ट्याक्स कडा रूपमा अमान्य ह्यासको रूपमा विश्लेषण हुन्छ।,password_reset,nepali_devanagari,False,formal,hard
+9205,रिसेट इमेलमा समावेश गरिएको प्रमाणीकरण सिन्ट्याक्स कडा रूपमा अमान्य ह्यासको रूपमा विश्लेषण हुन्छ।,password_reset,nepali_devanagari,False,formal,hard
+8805,रिसेट इमेलमा समावेश गरिएको प्रमाणीकरण सिन्ट्याक्स कडा रूपमा अमान्य ह्यासको रूपमा विश्लेषण हुन्छ।,password_reset,nepali_devanagari,False,formal,hard
+7587,साइन इन गर्न दिएन,account_login,nepali_devanagari,False,informal,easy
+9187,साइन इन गर्न दिएन,account_login,nepali_devanagari,False,informal,easy
+8787,साइन इन गर्न दिएन,account_login,nepali_devanagari,False,informal,easy
+8207,स्क्रिन फुटेको छ,damaged_item,nepali_devanagari,False,informal,easy
+5007,स्क्रिन फुटेको छ,damaged_item,nepali_devanagari,False,informal,easy
+6607,स्क्रिन फुटेको छ,damaged_item,nepali_devanagari,False,informal,easy
+2868,स्टकमा केही बाँकी छ त?,product_availability,nepali_devanagari,False,informal,easy
+2468,स्टकमा केही बाँकी छ त?,product_availability,nepali_devanagari,False,informal,easy
+2850,स्ट्यान्डबाइ मोडमा हुँदा यसले ठ्याक्कै कति बिजुली खपत गर्छ बताइदिनुस् न।,product_information,nepali_devanagari,False,formal,medium
+2450,स्ट्यान्डबाइ मोडमा हुँदा यसले ठ्याक्कै कति बिजुली खपत गर्छ बताइदिनुस् न।,product_information,nepali_devanagari,False,formal,medium
+8788,स्थानीय विश्वविद्यालय नेटवर्कबाट मेरो आइपीलाई स्याडो-ब्यान गरिएको छ कि छैन जाँच गर्न सक्नुहुन्छ?,account_login,nepali_devanagari,False,formal,medium
+7588,स्थानीय विश्वविद्यालय नेटवर्कबाट मेरो आइपीलाई स्याडो-ब्यान गरिएको छ कि छैन जाँच गर्न सक्नुहुन्छ?,account_login,nepali_devanagari,False,formal,medium
+9188,स्थानीय विश्वविद्यालय नेटवर्कबाट मेरो आइपीलाई स्याडो-ब्यान गरिएको छ कि छैन जाँच गर्न सक्नुहुन्छ?,account_login,nepali_devanagari,False,formal,medium

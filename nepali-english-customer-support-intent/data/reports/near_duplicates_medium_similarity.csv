@@ -1,0 +1,70 @@
+id_1,id_2,text_1,text_2,intent_1,intent_2,language_1,language_2,similarity
+50,8563,Why is my delivery taking so long?,why is delivery taking so long,delayed_delivery,delayed_delivery,english,english,93.75
+56,569,kati dhilo garchau yar delivery garna,kati dhilo garchau delivery garna?,delayed_delivery,delayed_delivery,romanized_nepali,romanized_nepali,92.96
+56,1371,kati dhilo garchau yar delivery garna,kati dhilo garya yar delivery garna.,delayed_delivery,delayed_delivery,romanized_nepali,romanized_nepali,93.15
+291,865,यो सामान स्टकमा छ कि सकियो?,यो सामान अझै स्टकमा छ कि सकियो?,product_availability,product_availability,nepali_devanagari,nepali_devanagari,93.1
+554,1759,order dispatch huna aghi cancel garna milcha?,order dispatch huna aghi cancel garna milchha ki nai?,order_cancellation,order_cancellation,code_switched,code_switched,91.84
+663,7863,give my money back,give my money back now,refund_request,refund_request,english,english,90.0
+939,1735,cart checkout vayo tara order history blank cha.,cart checkout vayo tara order history ma chaina.,order_status,order_status,code_switched,code_switched,91.67
+989,1798,arko manche ko address label raixa mero box ma.,arko manche ko address label cha mero box ma.,wrong_item,wrong_item,romanized_nepali,code_switched,93.48
+1327,2527,अर्डर पास भयो कि नाइ?,अर्डर पक्का भयो कि नाइ?,order_status,order_status,nepali_devanagari,nepali_devanagari,90.91
+1723,6123,did my order go thru,did my order go thru yet,order_status,order_status,english,english,90.91
+1955,3159,technical glitch le garda payment reversal vako ho?,technical glitch le garda sudden payment reversal bhako ho?,payment_reversed,payment_reversed,code_switched,code_switched,90.91
+2388,6787,मेरो प्रोफाइल नै खुल्दैन त।,मेरो प्रोफाइल नै खुल्दैन,account_login,account_login,nepali_devanagari,nepali_devanagari,94.12
+2393,6791,mero profile nai khuldaina ta.,mero profile nai khuldaina,account_login,account_login,romanized_nepali,romanized_nepali,92.86
+2667,5467,मेरो पैसा फिर्ता देऊ।,मेरो पैसा फिर्ता देउ,refund_request,refund_request,nepali_devanagari,nepali_devanagari,92.68
+2761,2773,My accounting logs indicate two synchronous debits for the single cart.,accounting logs indicate two synchronous debits for a single cart.,duplicate_payment,duplicate_payment,english,code_switched,94.89
+2927,8127,मेरो अर्डर पक्का भयो त?,मेरो अर्डर पक्का भयो,order_status,order_status,nepali_devanagari,nepali_devanagari,93.02
+2931,8131,mero order pakka vayo ta?,mero order pakka vayo,order_status,order_status,romanized_nepali,romanized_nepali,91.3
+3421,3433,My consolidated shipment is deficient by three indispensable modules.,consolidated shipment deficient cha by three indispensable modules.,missing_item,missing_item,english,code_switched,92.65
+3583,7583,app wont let me sign in,wont let me sign in,account_login,account_login,english,english,90.48
+3611,7611,password birse link chahiyo.,password reset link chahiyo,password_reset,password_reset,romanized_nepali,romanized_nepali,90.91
+3855,5056,I wanna send this back return pickup book gardeu.,i wanna give this back return pickup book gardeu.,return_request,return_request,code_switched,code_switched,93.88
+3983,8383,cant log in at all,cannot login at all,account_login,account_login,english,english,91.89
+4783,9583,cant login to my old account,cant log in to my account,account_login,account_login,english,english,90.57
+4903,6103,where is the delivery guy,where is the delivery guy rn,order_tracking,order_tracking,english,english,94.34
+4983,8183,you sent the wrong size,sent the wrong size,wrong_item,wrong_item,english,english,90.48
+4991,6991,timile galat size pathayau,timile galat shirt pathayau,wrong_item,wrong_item,romanized_nepali,romanized_nepali,90.57
+5063,8663,give my cash back,give me my cash back,refund_request,refund_request,english,english,91.89
+5123,7923,payment is loading forever,payment is taking forever,payment_pending,payment_pending,english,english,90.2
+5363,9363,package is super late,my package is super late,delayed_delivery,delayed_delivery,english,english,93.33
+5424,5436,"The hardware set arrived, but the essential user instruction manual was omitted.",hardware set arrived but essential user instruction manual was omitted.,missing_item,missing_item,english,code_switched,94.04
+5471,9829,mero paisa firta deu,mero paisa firta deu bro,refund_request,refund_request,romanized_nepali,romanized_nepali,90.91
+5604,5616,The secure reset page strictly mandates alphanumeric patterns that are extremely confusing.,secure reset page strictly mandates alphanumeric patterns which is extremely confusing.,password_reset,password_reset,english,code_switched,91.01
+5887,7487,मेरो रिफन्ड पठायो त,मेरो रिफन्ड पठायौ त,refund_status,refund_status,nepali_devanagari,nepali_devanagari,94.74
+5891,7491,mero refund pathayo ta,mero refund pathayau ta,refund_status,refund_status,romanized_nepali,romanized_nepali,93.33
+5891,7891,mero refund pathayo ta,mero refund aayo ta,refund_status,refund_status,romanized_nepali,romanized_nepali,92.68
+5987,7187,एपले मलाई बाहिर निकाल्यो,एपले मलाई बाहिर निकाल्छ,account_login,account_login,nepali_devanagari,nepali_devanagari,93.62
+5991,7191,app le malai bahira nikalyo,app le malai bahira nikalxa,account_login,account_login,romanized_nepali,romanized_nepali,92.59
+6017,6818,security questions block bhayo over-limit attempts le garda alternate override k cha?,security questions block bhayo over-limit attempts le alternate override possible cha?,password_reset,password_reset,code_switched,code_switched,91.23
+6201,6213,The fragile glassware is shattered indicating severe shock trauma during transit.,fragile glassware shattered cha indicating severe shock trauma during transit.,damaged_item,damaged_item,english,code_switched,93.08
+6259,6657,return window grace period ma gracefully accept huncha ki nai?,return window grace period ma gracefully accept huncha without penalty?,return_request,return_request,code_switched,code_switched,90.23
+6987,9387,तिमीले गलत सर्ट पठायौ,तिमीले गलत रङ पठायौ,wrong_item,wrong_item,nepali_devanagari,nepali_devanagari,90.0
+7001,7013,The central vacuum tube was entirely pulverized indicating gross mishandling during transit.,central vacuum tube entirely pulverized cha indicating gross mishandling during transit.,damaged_item,damaged_item,english,code_switched,93.33
+7007,7407,मेरो मग टुक्राटुक्रा छ,मेरो कप टुक्राटुक्रा छ,damaged_item,damaged_item,nepali_devanagari,nepali_devanagari,90.91
+7011,7411,mero mug tukratukra xa,mero cup tukratukra xa,damaged_item,damaged_item,romanized_nepali,romanized_nepali,90.91
+7262,7274,Is the initial pre-sale allocation quota completely exhausted already?,initial pre-sale allocation quota completely exhausted vayo already?,product_availability,product_availability,english,code_switched,91.3
+7360,9360,partial drop feature disabled cha purai transaction void garaidinu.,partial drop feature explicitly disabled cha purai transaction void garaidinu.,order_cancellation,order_cancellation,code_switched,code_switched,92.41
+7901,8701,The verification terminal fundamentally nullified the secure payload from my card.,The verification terminal categorically nullified the secure payload from my card.,payment_failed,payment_failed,english,english,91.46
+7906,8706,मैले खरिद गर्न खोजेँ तर यसले मेरो बिलिङ ठेगाना गलत ढाँचामा छ भन्छ।,मैले खरिद गर्न खोजेँ तर यसले मेरो बिलिङ ठेगानाको ढाँचा गलत छ भन्छ।,payment_failed,payment_failed,nepali_devanagari,nepali_devanagari,90.91
+7910,8710,maile kharid garna khoje tara yesle mero billing thegana galat dhancha ma xa vanxa.,maile kharid garna khoje tara yesle mero billing thegana ko dhancha galat xa vanxa.,payment_failed,payment_failed,romanized_nepali,romanized_nepali,92.77
+7913,8713,verification terminal le card ko secure payload fundamentally nullify garyo.,verification terminal le card ko secure payload categorically nullify garyo.,payment_failed,payment_failed,code_switched,code_switched,90.79
+7919,8719,virtual prepaid limits severely fail hudai exception throw garyo gateway ma.,virtual prepaid limits severely fail hudai exception throw garyo.,payment_failed,payment_failed,code_switched,code_switched,92.2
+7925,8725,मेरो कर्पोरेट वायरले पैसा रोक्ने कडा हिनामिना जाँचलाई स्पष्ट रूपमा ट्रिगर गर्‍यो।,मेरो कर्पोरेट ट्रान्सफरले पैसा रोक्ने कडा हिनामिना जाँचलाई स्पष्ट रूपमा ट्रिगर गर्‍यो।,payment_pending,payment_pending,nepali_devanagari,nepali_devanagari,94.61
+7935,8735,payment is taking forever update kaile aucha.,payment loading forever update kaile aucha.,payment_pending,payment_pending,code_switched,code_switched,90.91
+7942,8742,My bank says the funds were returned because the seller explicitly rejected the transaction.,My bank says the funds were returned because the seller rejected the transaction.,payment_reversed,payment_reversed,english,english,93.64
+7946,8746,बिक्रेताले स्पष्ट रूपमा कारोबार अस्वीकार गरेको हुनाले पैसा फिर्ता आयो भनी मेरो बैंकले भन्छ।,बिक्रेताले कारोबार अस्वीकार गरेको हुनाले पैसा फिर्ता आयो भनी मेरो बैंकले भन्छ।,payment_reversed,payment_reversed,nepali_devanagari,nepali_devanagari,92.31
+7950,8750,bikreta le spasta rupma karobar aswikar gareko hunale paisa firta aayo bhani mero bank le vanxa.,bikreta le karobar aswikar gareko hunale paisa firta aayo bhani mero bank le vanxa.,payment_reversed,payment_reversed,romanized_nepali,romanized_nepali,92.74
+7954,8754,seller le explicitly reject garyo transaction so funds returned bhayo bank says.,seller le reject garyo transaction so funds returned bhayo bank says.,payment_reversed,payment_reversed,code_switched,code_switched,92.62
+8127,8527,मेरो अर्डर पक्का भयो,मेरो अर्डर प्याक भयो,order_status,order_status,nepali_devanagari,nepali_devanagari,90.0
+8131,8531,mero order pakka vayo,mero order pack vayo,order_status,order_status,romanized_nepali,romanized_nepali,92.68
+8239,9438,left sided component profoundly excluded cha pair pura vayana.,left sided component genuinely excluded cha pair pura vayana.,missing_item,missing_item,code_switched,code_switched,91.06
+8319,8720,503 server unavailability heavily plague gardaicha distinctly checkout gateway lai.,server unavailable heavily plague gardaicha distinctly checkout gateway lai.,payment_failed,payment_failed,code_switched,code_switched,94.34
+8362,8762,I was charged separately on both my PayPal account and my linked debit card.,I was charged separately on my PayPal and my linked debit card.,duplicate_payment,duplicate_payment,english,english,90.65
+8368,8768,कृपया मेरो मासिक स्टेटमेन्टबाट अतिरिक्त प्रमाणीकरण होल्डलाई तुरुन्तै प्रभावहीन बनाउनुहोस्।,कृपया मेरो स्टेटमेन्टबाट अतिरिक्त प्रमाणीकरण होल्ड तुरुन्तै प्रभावहीन बनाउनुहोस्।,duplicate_payment,duplicate_payment,nepali_devanagari,nepali_devanagari,94.74
+8372,8772,kripaya mero masik statement bata atirikta pramanikaran hold lai turuntai prabhavhin banaunuhos.,kripaya mero statement bata atirikta pramanikaran hold turuntai prabhavhin banaunuhos.,duplicate_payment,duplicate_payment,romanized_nepali,romanized_nepali,94.51
+8374,8774,PayPal account ra linked debit card dubai ma distinctly separately charge bhayo.,PayPal ra linked debit card dubai ma distinctly separately charge bhayo.,duplicate_payment,duplicate_payment,code_switched,code_switched,94.74
+8599,9400,SKU mismatch clearly evident cha delivered box ra generated invoice bich.,SKU mismatch clearly evident cha delivered box and invoice bich.,wrong_item,wrong_item,code_switched,code_switched,93.43
+9396,9773,imported appliance ko voltage rating region sanga completely incompatible cha.,imported appliance ko voltage rating region sanga absolutely incompatible cha.,wrong_item,wrong_item,code_switched,code_switched,94.87
+9401,9413,The precision optics were utterly pulverized indicating severe physical trauma en route.,precision optics utterly pulverized vayo indicating severe physical trauma en route.,damaged_item,damaged_item,english,code_switched,91.86
+9851,9860,"The verification handshake was abruptly terminated, invalidating my cryptographic payload.","verification handshake abruptly terminated vayo, invalidating my cryptographic payload.",payment_failed,payment_failed,english,code_switched,92.66

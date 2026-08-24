@@ -1,0 +1,17 @@
+id_1,id_2,text_1,text_2,intent_1,intent_2,language_1,language_2,similarity
+319,885,मलाई कम्प्युटरसँग हैन मान्छेसँग कुरा गराउनुस्,"मलाई कम्प्युटरसँग हैन, मान्छेसँग कुरा गराउनुस्।",human_agent_request,human_agent_request,nepali_devanagari,nepali_devanagari,97.83
+523,8123,is my order verified?,is my order verified,order_status,order_status,english,english,97.56
+1952,5159,technical glitch vayera payment return aako ho ra?,technical glitch hit vayera payment return aako ho ra?,payment_reversed,payment_reversed,romanized_nepali,code_switched,96.15
+2671,5471,mero paisa firta deu.,mero paisa firta deu,refund_request,refund_request,romanized_nepali,romanized_nepali,97.56
+2821,2833,An internal audit flagged my profile for potential money laundering risks.,internal audit flagged my profile for potential money laundering risks.,account_locked,account_locked,english,code_switched,97.93
+3581,3593,The backend identity provider is throwing a token mismatch exception.,backend identity provider is throwing token mismatch exception.,account_login,account_login,english,code_switched,95.45
+3737,4537,dashboard ma order unverified dekhaudai cha confirm gara na.,dashboard ma order unverified dekhaudai cha confirm gara na chito.,order_status,order_status,code_switched,code_switched,95.24
+4591,5791,galat swad ko pathayau.,galat swad ko pathayau,wrong_item,wrong_item,romanized_nepali,romanized_nepali,97.78
+4707,9507,फेरि चेकआउट इरर आयो।,फेरि चेकआउट इरर आयो,payment_failed,payment_failed,nepali_devanagari,nepali_devanagari,97.44
+4711,9511,feri checkout error aayo.,feri checkout error aayo,payment_failed,payment_failed,romanized_nepali,romanized_nepali,97.96
+6171,7371,kati slow ho yaar,kati slow ho yar,delayed_delivery,delayed_delivery,romanized_nepali,romanized_nepali,96.97
+7897,8697,cross-border remission officially clear bhayo ki deeply intermediate node ma adkiyo?,cross-border remission officially clear bhayo ki intermediate node ma adkiyo?,refund_status,refund_status,code_switched,code_switched,95.65
+7921,8721,My corporate wire explicitly triggered a severe defalcation check holding the funds.,My corporate transfer explicitly triggered a severe defalcation check holding the funds.,payment_pending,payment_pending,english,english,95.35
+7929,8729,mero corporate wire le paisa rokne kada hinamina janch lai spasta rupma trigger garyo.,mero corporate transfer le paisa rokne kada hinamina janch lai spasta rupma trigger garyo.,payment_pending,payment_pending,romanized_nepali,romanized_nepali,95.45
+8364,8764,Please immediately neutralize the extraneous authorization hold from my monthly statement.,Please immediately neutralize the extraneous authorization hold from my statement.,duplicate_payment,duplicate_payment,english,english,95.35
+8376,8776,monthly statement bata extraneous authorization hold explicitly immediately neutralize garnus.,statement bata extraneous authorization hold explicitly immediately neutralize garnus.,duplicate_payment,duplicate_payment,code_switched,code_switched,95.56
