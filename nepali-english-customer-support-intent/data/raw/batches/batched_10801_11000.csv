@@ -1,0 +1,201 @@
+id,text,intent,language,is_code_switched,formality,difficulty
+10801,I urgently request the logistical coordinates for my batch of live crickets.,order_tracking,english,false,formal,hard
+10802,मेरो लाइभ क्रिकेटहरूको ब्याच कहाँ छ भनेर ट्र्याकिङमा हेर्न मिल्छ?,order_tracking,nepali_devanagari,false,neutral,medium
+10803,mero live crickets ko batch kata xa yar chito vana,order_tracking,romanized_nepali,false,informal,easy
+10804,specialized telescope lens ko precise tracking details provide garnus please.,order_tracking,code_switched,true,formal,medium
+10805,where is my specialized telescope lens bro,order_tracking,english,false,informal,easy
+10806,म मेरो विशेष टेलिस्कोप लेन्सको ढुवानीको विस्तृत जानकारीको कडा माग गर्दछु।,order_tracking,nepali_devanagari,false,formal,hard
+10807,mero specialized telescope lens ko awastha bare jankari pam na.,order_tracking,romanized_nepali,false,neutral,medium
+10808,mero batch of live crickets kata adkiyo kasto jhyau.,order_tracking,code_switched,true,informal,easy
+10809,The tracker for the specialized telescope lens hasn't updated since yesterday.,order_tracking,english,false,neutral,medium
+10810,batch of live crickets ko live location map ma explicitly reflect bhayena.,order_tracking,code_switched,true,formal,hard
+10811,Has the fabrication process for my custom neon sign officially commenced?,order_status,english,false,formal,hard
+10812,मेरो कस्टम नियोन साइनको काम सुरु भयो कि भएन भनेर म जान्न चाहन्छु।,order_status,nepali_devanagari,false,neutral,medium
+10813,mero custom neon sign banyo ki nai yar,order_status,romanized_nepali,false,informal,easy
+10814,hand-forged katana ko manufacturing status update garnus please.,order_status,code_switched,true,formal,medium
+10815,is my hand-forged katana ready yet,order_status,english,false,informal,easy
+10816,म मेरो हातले बनाएको कतानाको हालको निर्माण चरणको बारेमा विस्तृत रिपोर्ट चाहन्छु।,order_status,nepali_devanagari,false,formal,hard
+10817,mero hand-forged katana ko sthiti k xa hola?,order_status,romanized_nepali,false,neutral,medium
+10818,custom neon sign ko kaam kaile sakincha yaar.,order_status,code_switched,true,informal,easy
+10819,I want to verify if the hand-forged katana is currently in the polishing phase.,order_status,english,false,neutral,medium
+10820,custom neon sign ko production explicitly halted cha ki processing hudai cha?,order_status,code_switched,true,formal,hard
+10821,I demand the immediate termination of this requisition as my pet allergy flared up.,order_cancellation,english,false,formal,hard
+10822,मेरो घरपालुवा जनावरको एलर्जी बढेकोले के म यो अर्डर रद्द गर्न सक्छु?,order_cancellation,nepali_devanagari,false,neutral,medium
+10823,mero pet allergy badhyo yo cancel gardeu,order_cancellation,romanized_nepali,false,informal,easy
+10824,conference was permanently cancelled so yo ticket immediately void garnus.,order_cancellation,code_switched,true,formal,medium
+10825,"stop the order, the conference was permanently cancelled",order_cancellation,english,false,informal,easy
+10826,सम्मेलन स्थायी रूपमा रद्द भएको हुनाले म यो खरिदलाई पूर्ण रूपमा खारेज गर्न आदेश दिन्छु।,order_cancellation,nepali_devanagari,false,formal,hard
+10827,sammelan sthayi rupma radda vayekole kripaya yo order hataidinuhos.,order_cancellation,romanized_nepali,false,neutral,medium
+10828,pet allergy le sataira cha order cancel gara ta.,order_cancellation,code_switched,true,informal,easy
+10829,Please cancel this item because the conference was permanently cancelled.,order_cancellation,english,false,neutral,medium
+10830,pet allergy flared up drastically so dispatch definitively intercept garnu paryo.,order_cancellation,code_switched,true,formal,hard
+10831,The logistical SLA was severely compromised because a localized mudslide blocked the access road.,delayed_delivery,english,false,formal,hard
+10832,पहिरोले बाटो छेकेको कारणले मेरो डेलिभरी ढिलो भयो जस्तो छ।,delayed_delivery,nepali_devanagari,false,neutral,medium
+10833,pahiro le bato chhekyo saman kaile aauxa,delayed_delivery,romanized_nepali,false,informal,easy
+10834,unexpected customs union strike le garda schedule strictly revise garnu paryo.,delayed_delivery,code_switched,true,formal,medium
+10835,"why is my stuff delayed, customs union strike?",delayed_delivery,english,false,informal,easy
+10836,अप्रत्याशित भन्सार युनियन हड्तालले गर्दा भएको यो चरम ढिलाइको म औपचारिक स्पष्टीकरण चाहन्छु।,delayed_delivery,nepali_devanagari,false,formal,hard
+10837,"apratyashit bhansar union hadtal le garda dhuwani dhilo vayo, aba k garne?",delayed_delivery,romanized_nepali,false,neutral,medium
+10838,mudslide le bato block garyo re delivery dhilo vayo yaar.,delayed_delivery,code_switched,true,informal,easy
+10839,My shipment is late because of an unexpected customs union strike.,delayed_delivery,english,false,neutral,medium
+10840,localized mudslide blocked access road citing gardai ETA explicitly indefinitely push bhayo.,delayed_delivery,code_switched,true,formal,hard
+10841,I was erroneously dispatched a right-handed ergonomic mouse instead of the ambidextrous model.,wrong_item,english,false,formal,hard
+10842,मैले दुवै हातले चलाउन मिल्ने माउस मागेको थिएँ तर दाहिने हातको मात्र आयो।,wrong_item,nepali_devanagari,false,neutral,medium
+10843,right-handed mouse pathaidiyexau galtile,wrong_item,romanized_nepali,false,informal,easy
+10844,industrial lubricant instead of massage oil aayo immediately replace garnus.,wrong_item,code_switched,true,formal,medium
+10845,you sent me industrial lubricant instead of massage oil,wrong_item,english,false,informal,easy
+10846,मसाज आयलको सट्टा औद्योगिक लुब्रिकेन्ट पठाएर तपाईंहरूले सम्झौताको घोर उल्लङ्घन गर्नुभएको छ।,wrong_item,nepali_devanagari,false,formal,hard
+10847,"massage oil ko satta industrial lubricant aayo, yeslai firta lina saknuhunxa?",wrong_item,romanized_nepali,false,neutral,medium
+10848,ambidextrous model ko thau ma right-handed mouse aayo kasto galti ho.,wrong_item,code_switched,true,informal,easy
+10849,I received industrial lubricant instead of the massage oil I originally ordered.,wrong_item,english,false,neutral,medium
+10850,right-handed ergonomic mouse explicitly incorrectly fulfilled bhayo against my technical requisition.,wrong_item,code_switched,true,formal,hard
+10851,The terracotta pots were reduced to rubble due to unmitigated transit negligence.,damaged_item,english,false,formal,hard
+10852,प्याकेट भित्रका माटोका भाँडाहरू फुटेर धुलोपीठो भएका छन्।,damaged_item,nepali_devanagari,false,neutral,medium
+10853,mato ko bhada haru purai futexa,damaged_item,romanized_nepali,false,informal,easy
+10854,acoustic guitar neck was snapped in half strictly claim file garnus.,damaged_item,code_switched,true,formal,medium
+10855,my acoustic guitar neck is snapped,damaged_item,english,false,informal,easy
+10856,"अकोस्टिक गितारको घाँटी भाँचिएको अवस्थामा आइपुग्यो, जुन ढुवानीको चरम लापर्बाही हो।",damaged_item,nepali_devanagari,false,formal,hard
+10857,"acoustic guitar ko ghati bhachieko xa, yesko kshatipurti kasari painxa?",romanized_nepali,false,neutral,medium
+10858,terracotta pots haru ta purai rubble ma change vayecha handling jhur cha.,damaged_item,code_switched,true,informal,easy
+10859,The acoustic guitar arrived with its neck completely snapped.,damaged_item,english,false,neutral,medium
+10860,terracotta pots completely reduced to rubble evidencing catastrophic structural failure.,damaged_item,code_switched,true,formal,hard
+10861,The consignment conspicuously lacked the proprietary mounting bracket delineated in the manifest.,missing_item,english,false,formal,hard
+10862,प्याकेजमा आउनुपर्ने विशेष माउन्टिङ कोष्ठक कतै पनि भेटिएन।,missing_item,nepali_devanagari,false,neutral,medium
+10863,mounting bracket rakhnai birsexau,missing_item,romanized_nepali,false,informal,easy
+10864,digital activation code card package bata totally omitted cha investigate garnus.,missing_item,code_switched,true,formal,medium
+10865,forgot my digital activation code card,missing_item,english,false,informal,easy
+10866,डिजिटल सक्रियता कोड कार्डलाई प्याकेजबाट पूर्ण रूपमा हटाइएको हुनाले मलाई तत्काल समाधान चाहियो।,missing_item,nepali_devanagari,false,formal,hard
+10867,"digital activation code card pyakej ma xaina, kripaya pathaidinuhos.",missing_item,romanized_nepali,false,neutral,medium
+10868,proprietary mounting bracket halnai birsecha box ma.,missing_item,code_switched,true,informal,easy
+10869,I checked the box but the digital activation code card is missing.,missing_item,english,false,neutral,medium
+10870,proprietary mounting bracket conspicuously absconded from the primary shipment logistics.,missing_item,code_switched,true,formal,hard
+10871,I demand an immediate RMA because the fabric triggered a severe psoriasis flare-up.,return_request,english,false,formal,hard
+10872,यो कपडाले मेरो सोरायसिस बढाएकोले म यसलाई फिर्ता गर्न चाहन्छु।,return_request,nepali_devanagari,false,neutral,medium
+10873,kapada le allergy garayo firta lijaun,return_request,romanized_nepali,false,informal,easy
+10874,dimensions clash with my rack mount so reverse logistics promptly arrange garnus.,return_request,code_switched,true,formal,medium
+10875,"returning this, the dimensions clash with my rack mount",return_request,english,false,informal,easy
+10876,यसको आकार मेरो र्याक माउन्टसँग नमिल्ने भएकोले म यो उपकरणको आधिकारिक फिर्ता चाहन्छु।,return_request,nepali_devanagari,false,formal,hard
+10877,aakar rack mount sanga namilekole ma yo saman firta garna chahanxu.,return_request,romanized_nepali,false,neutral,medium
+10878,fabric le psoriasis flare-up garyo return garne ho ma.,return_request,code_switched,true,informal,easy
+10879,I need to return this because the dimensions clash with my rack mount.,return_request,english,false,neutral,medium
+10880,fabric triggered psoriasis flare-up drastically warranting immediate health-related authorized return.,return_request,code_switched,true,formal,hard
+10881,I adamantly pursue full financial restitution because the promised next-day guarantee failed miserably.,refund_request,english,false,formal,hard
+10882,भोलिपल्टै आउने ग्यारेन्टी फेल भएकोले मलाई मेरो डेलिभरी शुल्क फिर्ता चाहियो।,refund_request,nepali_devanagari,false,neutral,medium
+10883,next-day guarantee fail vayo paisa firta deu,refund_request,romanized_nepali,false,informal,easy
+10884,item arrived completely obsolete so complete monetary reimbursement explicitly issue garnus.,refund_request,code_switched,true,formal,medium
+10885,"give my money back, the item arrived completely obsolete",refund_request,english,false,informal,easy
+10886,सामान पूर्ण रूपमा काम नलाग्ने अवस्थामा आइपुगेकोले म तत्काल शतप्रतिशत रकम फिर्ताको माग गर्दछु।,refund_request,nepali_devanagari,false,formal,hard
+10887,saman purna rupma kaam nalagne aayekole kripaya mero paisa firta dinuhos.,refund_request,romanized_nepali,false,neutral,medium
+10888,next-day guarantee miserably fail vayo refund chahiyo malai.,refund_request,code_switched,true,informal,easy
+10889,I would like a refund because the item arrived completely obsolete.,refund_request,english,false,neutral,medium
+10890,promised next-day guarantee severely failed miserably hence pecuniary restitution is strictly mandated.,refund_request,code_switched,true,formal,hard
+10891,I must ascertain why the escrow release hasn't hit my fiat account yet.,refund_status,english,false,formal,hard
+10892,एस्क्रोबाट पैसा रिलिज भयो भन्छ तर मेरो फिएट खातामा अझै आएको छैन।,refund_status,nepali_devanagari,false,neutral,medium
+10893,escrow ko paisa khata ma aayena ta,refund_status,romanized_nepali,false,informal,easy
+10894,crypto transaction hash unverified cha settlement ledger update vayo ki nai?,refund_status,code_switched,true,formal,medium
+10895,"where is my refund, the crypto transaction hash is unverified",refund_status,english,false,informal,easy
+10896,क्रिप्टो ट्रान्जेक्सन ह्यास प्रमाणित नभएको कारण मेरो रिफन्ड प्रक्रिया किन रोकियो मलाई जान्नुछ।,refund_status,nepali_devanagari,false,formal,hard
+10897,crypto transaction hash pramanit navayekole mero refund adkieko ho?,refund_status,romanized_nepali,false,neutral,medium
+10898,escrow release vayo tara fiat account ma paisa aayena yaar.,refund_status,code_switched,true,informal,easy
+10899,Is my refund delayed because the crypto transaction hash is unverified?,refund_status,english,false,neutral,medium
+10900,escrow release explicitly processed vaye pani fiat account explicitly empty cha investigate garnus.,refund_status,code_switched,true,formal,hard
+10901,The transactional node declined my request because the CVV check failed due to a caching error.,payment_failed,english,false,formal,hard
+10902,क्यासिङ इररको कारण सिभीभी चेक फेल भयो र मेरो पेमेन्ट रोकियो।,payment_failed,nepali_devanagari,false,neutral,medium
+10903,caching error le CVV fail vayo payment vayena,payment_failed,romanized_nepali,false,informal,easy
+10904,regional debit card lacks international clearance so authorization directly decline vayo.,payment_failed,code_switched,true,formal,medium
+10905,"card declined, my regional debit card lacks international clearance",payment_failed,english,false,informal,easy
+10906,मेरो क्षेत्रीय डेबिट कार्डमा अन्तर्राष्ट्रिय क्लियरेन्स नभएकोले प्रणालीगत रूपमा कारोबार अस्वीकृत भयो।,payment_failed,nepali_devanagari,false,formal,hard
+10907,mero kshetriya debit card ma antarrastriya clearance navayekole payment aswikrit vayo.,payment_failed,romanized_nepali,false,neutral,medium
+10908,CVV check fail vayo caching error le garda kasto tension.,payment_failed,code_switched,true,informal,easy
+10909,My payment failed because my regional debit card lacks international clearance.,payment_failed,english,false,neutral,medium
+10910,CVV check caching error le cryptographically comprehensively fail bhayo invalidating the payload.,payment_failed,code_switched,true,formal,hard
+10911,My corporate capital is ostensibly frozen because a manual AML review is holding my transfer.,payment_pending,english,false,formal,hard
+10912,म्यानुअल एएमएल रिभ्युको कारणले मेरो ट्रान्सफर होल्डमा परेकोले पेमेन्ट पेन्डिङ छ।,payment_pending,nepali_devanagari,false,neutral,medium
+10913,AML review le transfer hold garyo paisa adkiyo,payment_pending,romanized_nepali,false,informal,easy
+10914,e-wallet gateway is experiencing severe latency so transaction entirely stuck cha.,payment_pending,code_switched,true,formal,medium
+10915,"payment stuck, the e-wallet gateway is experiencing severe latency",payment_pending,english,false,informal,easy
+10916,ई-वालेट गेटवेले गम्भीर प्राविधिक ढिलाइको सामना गरिरहेको हुनाले मेरो मौद्रिक कारोबार पूर्ण रूपमा अवरुद्ध छ।,payment_pending,nepali_devanagari,false,formal,hard
+10917,e-wallet gateway ma dhilai vayeko karanle mero payment adkieko xa.,payment_pending,romanized_nepali,false,neutral,medium
+10918,AML review le transfer hold garyo re kasto dhilo.,payment_pending,code_switched,true,informal,easy
+10919,The payment is still pending because the e-wallet gateway is experiencing severe latency.,payment_pending,english,false,neutral,medium
+10920,manual AML review holding my transfer fundamentally restricting my corporate liquidity currently.,payment_pending,code_switched,true,formal,hard
+10921,The clearing protocol initiated a clawback because the fraud heuristic erroneously flagged my IP.,payment_reversed,english,false,formal,hard
+10922,ठगी पत्ता लगाउने प्रणालीले गल्तीले मेरो आइपीलाई फ्ल्याग गरेकोले मेरो पेमेन्ट रिभर्स भयो।,payment_reversed,nepali_devanagari,false,neutral,medium
+10923,fraud system le IP flag garyo paisa firta aayo,payment_reversed,romanized_nepali,false,informal,easy
+10924,merchant unilaterally cancelled the invoice so funds acquiring bank ma return vayo.,payment_reversed,code_switched,true,formal,medium
+10925,"money bounced, the merchant unilaterally cancelled the invoice",payment_reversed,english,false,informal,easy
+10926,बिक्रेताले एकतर्फी रूपमा इनभ्वाइस रद्द गरेकोले केन्द्रीय प्रणालीले मेरो पैसा फिर्ता गरिदियो।,payment_reversed,nepali_devanagari,false,formal,hard
+10927,bikreta le aafai invoice radda garekole mero paisa bounce vayo.,payment_reversed,romanized_nepali,false,neutral,medium
+10928,fraud system le erroneously IP flag garyo re payment reverse vayo.,payment_reversed,code_switched,true,informal,easy
+10929,My payment was reversed because the merchant unilaterally cancelled the invoice.,payment_reversed,english,false,neutral,medium
+10930,fraud heuristic erroneously flagged my IP explicitly causing an unprompted automated clawback.,payment_reversed,code_switched,true,formal,hard
+10931,A concurrency exception manifested a dual charge when a network timeout caused me to submit twice.,duplicate_payment,english,false,formal,hard
+10932,नेटवर्क टाइमआउटले गर्दा मैले दुई पटक सबमिट गरेँ र मलाई दोहोरो चार्ज लाग्यो।,duplicate_payment,nepali_devanagari,false,neutral,medium
+10933,network timeout le double submit vayo charge lagyo,duplicate_payment,romanized_nepali,false,informal,easy
+10934,auto-renewal overlapped with my manual payment so identical twin deductions post bhayo.,duplicate_payment,code_switched,true,formal,medium
+10935,"double charge, the auto-renewal overlapped with my manual payment",duplicate_payment,english,false,informal,easy
+10936,मेरो म्यानुअल भुक्तानीसँग अटो-रिन्युवल जुधेको कारणले मेरो लेजरमा अनावश्यक दोहोरो कटौती रेकर्ड भयो।,duplicate_payment,nepali_devanagari,false,formal,hard
+10937,auto-renewal ra mero manual payment judhekole malai dui patak charge gariyo.,duplicate_payment,romanized_nepali,false,neutral,medium
+10938,network timeout le submit twice vayo double deduction aayo.,duplicate_payment,code_switched,true,informal,easy
+10939,I was charged twice because the auto-renewal overlapped with my manual payment.,duplicate_payment,english,false,neutral,medium
+10940,network timeout caused me to submit twice resulting strictly in asynchronous dual encumbrances.,duplicate_payment,code_switched,true,formal,hard
+10941,The centralized authentication layer recurrently fails because my hardware security key isn't recognized.,account_login,english,false,formal,hard
+10942,मेरो हार्डवेयर सुरक्षा कुञ्जी पहिचान नभएकोले म प्रणालीमा लगइन गर्न सकिरहेको छैन।,account_login,nepali_devanagari,false,neutral,medium
+10943,hardware key le kaam garena login vayena,account_login,romanized_nepali,false,informal,easy
+10944,OTP app is totally out of sync so SSO protocol consistently invalidates my token.,account_login,code_switched,true,formal,medium
+10945,"login blocked, the OTP app is totally out of sync",account_login,english,false,informal,easy
+10946,ओटीपी एप पूर्ण रूपमा सिंक बाहिर भएको कारण पहुँच प्रबन्धकले मेरो लगइन प्रयासलाई अस्वीकार गरिरहेको छ।,account_login,nepali_devanagari,false,formal,hard
+10947,OTP app sync ma navayekole ma login garna sakdina.,account_login,romanized_nepali,false,neutral,medium
+10948,hardware security key recognize vayena login error aayo yaar.,account_login,code_switched,true,informal,easy
+10949,I can't log in because the OTP app is totally out of sync.,account_login,english,false,neutral,medium
+10950,hardware security key isn't recognized prompting relentless cryptographic rejection by the enterprise node.,account_login,code_switched,true,formal,hard
+10951,The cryptographic recovery mechanism is crippled because the recovery email domain is blacklisted.,password_reset,english,false,formal,hard
+10952,रिकभरी इमेल डोमेनलाई कालोसूचीमा राखिएको हुनाले म मेरो पासवर्ड रिसेट गर्न सकिरहेको छैन।,password_reset,nepali_devanagari,false,neutral,medium
+10953,email domain blacklist ma xa reset vayena,password_reset,romanized_nepali,false,informal,easy
+10954,magic link expires before the page loads so validation process permanently fails.,password_reset,code_switched,true,formal,medium
+10955,"reset failing, the magic link expires before the page loads",password_reset,english,false,informal,easy
+10956,पेज खुल्नु अघि नै म्याजिक लिंकको म्याद सकिने हुनाले मेरो पासवर्ड रिसेट संयन्त्र अवरुद्ध भएको छ।,password_reset,nepali_devanagari,false,formal,hard
+10957,page khulnu aghi nai magic link expire hune vayekole password reset fail vayo.,password_reset,romanized_nepali,false,neutral,medium
+10958,recovery email domain blacklist ma parya cha re reset hudaina.,password_reset,code_switched,true,informal,easy
+10959,I can't reset my password because the magic link expires before the page loads.,password_reset,english,false,neutral,medium
+10960,recovery email domain is blacklisted explicitly preventing the successful dispatch of the cipher token.,password_reset,code_switched,true,formal,hard
+10961,My administrative dashboard was forcefully deactivated owing to a false positive from the bot detection system.,account_locked,english,false,formal,hard
+10962,बोट पत्ता लगाउने प्रणालीको गलत रिपोर्टको कारणले गर्दा मेरो खाता लक भएको छ।,account_locked,nepali_devanagari,false,neutral,medium
+10963,bot system le galti le block garyo account,account_locked,romanized_nepali,false,informal,easy
+10964,sanctioned region bata access gareko le system le profile comprehensively lock garyo.,account_locked,code_switched,true,formal,medium
+10965,"acc locked, I accessed it from a sanctioned region",account_locked,english,false,informal,easy
+10966,मैले प्रतिबन्धित क्षेत्रबाट लगइन गरेको हुनाले कडा अनुपालन प्रोटोकलले मेरो प्रोफाइल तत्काल बन्द गरिदियो।,account_locked,nepali_devanagari,false,formal,hard
+10967,maile pratibandhit kshetra bata chalayekole mero khata lock vayo.,account_locked,romanized_nepali,false,neutral,medium
+10968,bot detection system ko false positive le profile ban handiyo.,account_locked,code_switched,true,informal,easy
+10969,My account got locked because I accessed it from a sanctioned region.,account_locked,english,false,neutral,medium
+10970,false positive from the bot detection system precipitated a draconian administrative profile freeze.,account_locked,code_switched,true,formal,hard
+10971,I meticulously need to verify the exact decibel rating of the cooling fan before proceeding.,product_information,english,false,formal,hard
+10972,म अगाडि बढ्नु अघि कुलिङ फ्यानको ठ्याक्कै डेसिबल रेटिङ जान्न चाहन्छु।,product_information,nepali_devanagari,false,neutral,medium
+10973,cooling fan ko aawaj kati aauxa,product_information,romanized_nepali,false,informal,easy
+10974,upholstery sustainably sourced ho ki nai explicitly confirm garna milcha?,product_information,code_switched,true,formal,medium
+10975,what is the exact decibel rating of the cooling fan,product_information,english,false,informal,easy
+10976,सोफाको कपडा दिगो स्रोतबाट प्राप्त गरिएको हो कि होइन भनेर मलाई आधिकारिक पुष्टि आवश्यक छ।,product_information,nepali_devanagari,false,formal,hard
+10977,k yo upholstery digo srot bata lyaieko ho?,product_information,romanized_nepali,false,neutral,medium
+10978,cooling fan ko exact decibel rating kati cha yaar.,product_information,code_switched,true,informal,easy
+10979,Can you give me info on whether the upholstery is sustainably sourced?,product_information,english,false,neutral,medium
+10980,exact decibel rating of the cooling fan definitively required cha acoustic laboratory compliance ko lagi.,product_information,code_switched,true,formal,hard
+10981,Can you project the precise replenishment timeline considering the seasonal truffle oil stock?,product_availability,english,false,formal,hard
+10982,मौसमी ट्रफल आयलको स्टकलाई विचार गर्दै यो कहिले उपलब्ध हुन्छ होला?,product_availability,nepali_devanagari,false,neutral,medium
+10983,truffle oil kaile aauxa feri,product_availability,romanized_nepali,false,informal,easy
+10984,limited-edition graphic novel run ko backorder availability definitively confirm garnus.,product_availability,code_switched,true,formal,medium
+10985,"is it in stock, the limited-edition graphic novel run",product_availability,english,false,informal,easy
+10986,के तपाईं सीमित संस्करणको ग्राफिक उपन्यास फेरि बजारमा आउने सम्भावनालाई स्पष्ट रूपमा नकार्न सक्नुहुन्छ?,product_availability,nepali_devanagari,false,formal,hard
+10987,limited-edition graphic novel feri stock ma aauxa ki aaudaina?,product_availability,romanized_nepali,false,neutral,medium
+10988,seasonal truffle oil stock ma cha ki sakiyo?,product_availability,code_switched,true,informal,easy
+10989,When will it be available if it's the limited-edition graphic novel run?,product_availability,english,false,neutral,medium
+10990,seasonal truffle oil stock essentially depleted cha so explicitly upcoming harvest arrival ETA dinus.,product_availability,code_switched,true,formal,hard
+10991,I demand an authoritative override because the algorithmic loop is infuriatingly useless.,human_agent_request,english,false,formal,hard
+10992,बोटको अटोमेटिक उत्तरले काम नगरेकोले मलाई मान्छेसँग बोल्नु पर्ने भयो।,human_agent_request,nepali_devanagari,false,neutral,medium
+10993,bot le kaam garena manxe chahiyo,human_agent_request,romanized_nepali,false,informal,easy
+10994,grievance officer for arbitration required cha explicitly human agent lai transfer garnus.,human_agent_request,code_switched,true,formal,medium
+10995,"real person now, I require a grievance officer for arbitration",human_agent_request,english,false,informal,easy
+10996,"औपचारिक विवाद समाधान गर्न मलाई गुनासो अधिकारीको तत्काल आवश्यकता छ, त्यसैले मलाई मान्छेसँग जोड्नुहोस्।",human_agent_request,nepali_devanagari,false,formal,hard
+10997,"malai biwad samadhan garna officer sanga bolnu xa, kripaya manxe sanga jodnuhos.",human_agent_request,romanized_nepali,false,neutral,medium
+10998,algorithmic loop irritating cha human agent deu ta.,human_agent_request,code_switched,true,informal,easy
+10999,I need to speak to a human because I require a grievance officer for arbitration.,human_agent_request,english,false,neutral,medium
+11000,algorithmic loop is infuriatingly useless hence explicitly strictly preemption of chatbot is ordered.,human_agent_request,code_switched,true,formal,hard
